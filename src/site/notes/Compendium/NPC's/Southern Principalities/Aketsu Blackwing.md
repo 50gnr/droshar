@@ -202,6 +202,9 @@ This places him increasingly at odds with [[Compendium/NPC's/Southern Principali
 
 
 
+
+
+
 # Role in the Campaign
 
 Aketsu initially appears as:
