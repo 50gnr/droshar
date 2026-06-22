@@ -3,9 +3,7 @@
 ---
 
 
-###### Daichi Shigure / The Silent Wing
-<span class="sub2"> </span>
-___
+# Daichi Shigure / The Silent Wing
 
 > [!infobox|no-t right]
 > # Daichi Shigure
@@ -30,7 +28,6 @@ ___
 > Presence | Frail body, dangerous reputation
 > Symbol | The Shigure crest
 
----
 
 ## Overview
 
@@ -84,7 +81,6 @@ Among former members of [[Compendium/Lore/Organizations/The Lotus Choir\|The Lot
 Among the Shigure family:
 
 - father
-- grandfather
 - caretaker of traditions
 
 Among those who survived missions alongside him:

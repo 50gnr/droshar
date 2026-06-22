@@ -3,9 +3,8 @@
 ---
 
 
-###### Ayame Shigure / Keeper of the Compound
-<span class="sub2"> </span>
-___
+# Ayame Shigure / Keeper of the Compound
+
 
 > [!infobox|no-t right]
 > # Ayame Shigure
@@ -30,7 +29,6 @@ ___
 > Presence | Warm but impossible to fool
 > Symbol | The Shigure crest embroidered in blue thread
 
----
 
 ## Overview
 

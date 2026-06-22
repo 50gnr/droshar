@@ -3,10 +3,8 @@
 ---
 
 
-![banner.jpg\|banner](/img/user/Assets/Images/banner.jpg)
 # The Southern Principalities
-<span class="sub2">:FasMap: General Region</span>
-___
+
 
 > [!quote|no-t] SUMMARY
 >  _“The South endures not because it is strong—but because it is dangerous to rule.”_

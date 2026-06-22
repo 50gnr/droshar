@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"4-Party/Player Facing/Maki.md","permalink":"/4-party/player-facing/maki/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Maki Maki]]"}}
+{"dg-publish":true,"permalink":"/compendium/party/player-characters/player-facing/maki/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Maki Maki]]"}}
 ---
 
 
