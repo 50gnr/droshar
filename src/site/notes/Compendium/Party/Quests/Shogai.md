@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|no-t right]
+
 > ![Shogai.png](/img/user/Assets/Images/Lore/Rumors/shogai.png)
 
 
