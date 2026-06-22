@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"6-Rules & Homebrew/House Rules.md","permalink":"/6-rules-and-homebrew/house-rules/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"5-Rules & Homebrew/House Rules.md","permalink":"/5-rules-and-homebrew/house-rules/","dg-note-properties":{}}
 ---
 
 

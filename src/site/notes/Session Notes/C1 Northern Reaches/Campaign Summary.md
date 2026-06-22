@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"7-Session Notes/C1 Northern Reaches/Campaign Summary.md","permalink":"/7-session-notes/c1-northern-reaches/campaign-summary/","tags":[null],"dg-note-properties":{"type":"notes","locations":[null],"tags":[null],"date":"2026-06-25"}}
+{"dg-publish":true,"dg-path":"6-Session Notes/C1 Northern Reaches/Campaign Summary.md","permalink":"/6-session-notes/c1-northern-reaches/campaign-summary/","tags":[null],"dg-note-properties":{"type":"notes","locations":[null],"tags":[null],"date":"2026-06-25"}}
 ---
 
 

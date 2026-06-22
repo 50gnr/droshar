@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"6-Rules & Homebrew/Magitech.md","permalink":"/6-rules-and-homebrew/magitech/","tags":["object/magicItem"],"dg-note-properties":{"type":"object","tags":["object/magicItem"]}}
+{"dg-publish":true,"dg-path":"5-Rules & Homebrew/Magitech.md","permalink":"/5-rules-and-homebrew/magitech/","tags":["object/magicItem"],"dg-note-properties":{"type":"object","tags":["object/magicItem"]}}
 ---
 
 
