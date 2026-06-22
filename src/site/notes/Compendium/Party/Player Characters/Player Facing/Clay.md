@@ -43,11 +43,9 @@ This is the persons description.
 
 ## Known Items
 
-- \-
-- \-
-- - [[Locate the Eye Ball\|Locate the Eye Ball]]
-
-- \-
+| Known Items                                  |
+| -------------------------------------------- |
+| [[Locate the Eye Ball\|Locate the Eye Ball]] |
 
 { .block-language-dataview}
 

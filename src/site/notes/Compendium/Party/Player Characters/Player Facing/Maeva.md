@@ -43,11 +43,9 @@ This is the persons description.
 
 ## Known Items
 
-- \-
-- - [[Locate the Eye Ball\|Locate the Eye Ball]]
-- [[z_Templates/World Builder Templates/Template-Quest\|Template-Quest]]
-
-- \-
+| Known Items                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| [[Locate the Eye Ball\|Locate the Eye Ball]], [[z_Templates/World Builder Templates/Template-Quest\|Template-Quest]] |
 
 { .block-language-dataview}
 

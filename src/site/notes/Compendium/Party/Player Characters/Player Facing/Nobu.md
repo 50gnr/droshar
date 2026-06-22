@@ -46,6 +46,12 @@ This is the persons description.
 
 
 
+| Known Items                                                                   |
+| ----------------------------------------------------------------------------- |
+| [[Compendium/Lore/Objects/The Shigure Kusarigama\|The Shigure Kusarigama]] |
+
+{ .block-language-dataview}
+
 
 ---
 
