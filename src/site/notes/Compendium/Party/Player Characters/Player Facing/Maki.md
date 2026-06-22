@@ -21,7 +21,7 @@
 > HP | `= this.source.hp` / `= this.source.max_hp`  
 > AC | `= this.source.ac`  
 > Passive Perception | 1
-> Affiliation |  
+> Affiliation | [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] 
 > Languages | Common 
 
 ## Overview

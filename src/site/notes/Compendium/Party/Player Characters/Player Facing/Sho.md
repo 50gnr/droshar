@@ -21,7 +21,7 @@
 > HP | `= this.source.hp` / `= this.source.max_hp`  
 > AC | `= this.source.ac`  
 > Passive Perception | 1
-> Affiliation |  
+> Affiliation | [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] 
 > Languages | Common 
 
 ## Overview
@@ -43,9 +43,9 @@ This is the persons description.
 
 ## Known Items
 
-| Known Items                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| [[Locate the Eye Ball\|Locate the Eye Ball]], [[z_Templates/World Builder Templates/Template-Quest\|Template-Quest]] |
+| Known Items |
+| ----------- |
+| \-          |
 
 { .block-language-dataview}
 
