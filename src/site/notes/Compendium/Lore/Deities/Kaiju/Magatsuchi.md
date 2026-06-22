@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Magatsuchi.md","permalink":"/2-lore/deities/kaiju/magatsuchi/","tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"dg-note-properties":{"type":"kaiju","locations":["[[Pondermoss Weald\|Pondermoss Weald]]","[[House of the Forgotten]]"],"tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"aliases":["Magatsuchi","The Remembering Root","Keeper of Forgotten Kings","The Witness Beneath the Leaves"],"cover":"[[Magatsuchi.png]]"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Magatsuchi.md","permalink":"/2-lore/deities/kaiju/magatsuchi/","tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"dg-note-properties":{"type":"kaiju","locations":["[Pondermoss Weald]]","[[House of the Forgotten]]"],"tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"aliases":["Magatsuchi","The Remembering Root","Keeper of Forgotten Kings","The Witness Beneath the Leaves"],"cover":"[[Magatsuchi.png](/img/user/Pondermoss%20Weald.md)"}}
 ---
 
 

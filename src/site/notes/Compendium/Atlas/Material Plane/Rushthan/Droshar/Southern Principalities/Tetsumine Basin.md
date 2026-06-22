@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Tetsumine Basin.md","permalink":"/1-droshar/southern-principalities/tetsumine-basin/","tags":["location","region","lake","mountains","raiko"],"dg-note-properties":{"type":"place","locations":["[Southern Principalities]]"],"tags":["location","region","lake","mountains","raiko"],"aliases":["Tetsumine Basin"],"cover":"[[Tetsumine Basin.png\|Tetsumine Basin.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities.md)"}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Tetsumine Basin.md","permalink":"/1-droshar/southern-principalities/tetsumine-basin/","tags":["location","region","lake","mountains","raiko"],"dg-note-properties":{"type":"place","locations":["[Southern Principalities]]"],"tags":["location","region","lake","mountains","raiko"],"aliases":["Tetsumine Basin"],"cover":"[[Tetsumine Basin.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities.md)"}}
 ---
 
-
+![tetsumine Basin.png](/img/user/Assets/Images/SP/tetsumine%20Basin.png)
 # Tetsumine Basin
 
 > "The storm never truly leaves."
 
 > [!infobox|no-t right]
 > # Tetsumine Basin
-> ![[Tetsumine Basin.png\|Tetsumine Basin.png]]
 > ###### Basic Information
 > Type | Detail
 > ---|---
