@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/party/player-characters/player-facing/sho/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[ShoSlovak Trogaro]]"}}
+{"dg-publish":true,"dg-path":"4-Party/Sho.md","permalink":"/4-party/sho/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[ShoSlovak Trogaro]]"}}
 ---
 
 

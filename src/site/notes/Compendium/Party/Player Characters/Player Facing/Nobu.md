@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/party/player-characters/player-facing/nobu/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Nobumasa Shigure]]"}}
+{"dg-publish":true,"dg-path":"4-Party/Nobu.md","permalink":"/4-party/nobu/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Nobumasa Shigure]]"}}
 ---
 
 

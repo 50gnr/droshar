@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/party/player-characters/player-facing/maeva/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Maeva the Chosen]]"}}
+{"dg-publish":true,"dg-path":"4-Party/Maeva.md","permalink":"/4-party/maeva/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Maeva the Chosen]]"}}
 ---
 
 
