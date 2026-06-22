@@ -4,7 +4,7 @@
 
 
 
-> ![Shogai.png](/img/user/Assets/Images/Lore/Rumors/shogai.png)
+![Shogai.png](/img/user/Assets/Images/Lore/Rumors/shogai.png)
 
 
 # Quest Info
