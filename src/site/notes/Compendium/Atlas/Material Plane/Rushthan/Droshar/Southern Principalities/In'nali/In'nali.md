@@ -4,9 +4,8 @@
 
 
 ![in'nali.png](/img/user/Assets/Maps/In'nali/in'nali.png)
-###### In'nali
-<span class="sub2">:FasCity: City</span>
-___
+# In'nali
+
 
 > [!quote|no-t] SUMMARY
 > “They pray the lake stays calm. We ensure the mountain does.”
@@ -15,6 +14,7 @@ ___
 **Population:** ~25–30k  
 **Dominant Aesthetic:** Stone terraces, wind banners, hanging bridges, sun-bleached bamboo  
 **Primary Spirits:** Sky yokai, ancestral giants, sealed colossi
+**Steward:** [[Compendium/NPC's/Southern Principalities/Aketsu Blackwing\|Aketsu Blackwing]]
 
 ## Identity
 

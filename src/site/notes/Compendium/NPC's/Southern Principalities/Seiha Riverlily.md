@@ -28,7 +28,6 @@
 > Scent | Rainwater and lotus bloom
 > Symbol | Open lotus over flowing water
 
----
 
 # Overview
 

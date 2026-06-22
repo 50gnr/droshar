@@ -4,9 +4,8 @@
 
 
 ![bardune.png](/img/user/Assets/Maps/Bardune/bardune.png)
-###### Bardune
-<span class="sub2">:FasCity: City</span>
-___
+# Bardune
+
 
 > [!quote|no-t] SUMMARY
 > “They shout at the mountain until it answers. One day it will.”
@@ -15,6 +14,7 @@ ___
 **Population:** ~18–22k  
 **Dominant Aesthetic:** Cedar, moss, lacquered wood, stone lanterns half-swallowed by roots  
 **Primary Spirits:** Lake yokai, forest guardians, ancestral shades
+**Governor:** [[Compendium/NPC's/Southern Principalities/Seiha Riverlily\|Seiha Riverlily]]
 
 ## Identity
 
