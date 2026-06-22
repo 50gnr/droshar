@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/Droshar.md","permalink":"/droshar/droshar/","tags":[null],"dg-note-properties":{"type":"continent","locations":["[[Rushthan]]"],"tags":[null],"mapCalc1":0.10526315789473684,"map_height_y":3276,"map_width_x":4096,"scale_pixels":950,"scale_pixels_range":100}}
+{"dg-publish":true,"dg-path":"1-Droshar/Droshar.md","permalink":"/1-droshar/droshar/","tags":[null],"dg-note-properties":{"type":"continent","locations":["[[Rushthan]]"],"tags":[null],"mapCalc1":0.10526315789473684,"map_height_y":3276,"map_width_x":4096,"scale_pixels":950,"scale_pixels_range":100}}
 ---
 
 

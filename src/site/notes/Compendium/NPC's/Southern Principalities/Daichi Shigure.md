@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/daichi-shigure/","tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"aliases":["Daichi","The Silent Wing","Old Crow"],"cover":"[[Daichi Shigure.png]]","DM_file":"[[Daichi Shigure - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Daichi Shigure.md","permalink":"/3-npc-s/southern-principalities/daichi-shigure/","tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"aliases":["Daichi","The Silent Wing","Old Crow"],"cover":"[[Daichi Shigure.png]]","DM_file":"[[Daichi Shigure - DM]]"}}
 ---
 
 

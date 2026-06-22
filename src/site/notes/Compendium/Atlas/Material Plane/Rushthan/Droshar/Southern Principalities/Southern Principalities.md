@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/Southern Principalities/Southern Principalities.md","permalink":"/droshar/southern-principalities/southern-principalities/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Southern Principalities.md","permalink":"/1-droshar/southern-principalities/southern-principalities/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
 ---
 
 

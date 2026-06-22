@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/events/emberreach/longnight-feast/","tags":["event/seasonal"],"dg-note-properties":{"type":"event","tags":["event/seasonal"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Events/Emberreach/Longnight Feast.md","permalink":"/2-lore/events/emberreach/longnight-feast/","tags":["event/seasonal"],"dg-note-properties":{"type":"event","tags":["event/seasonal"]}}
 ---
 
 

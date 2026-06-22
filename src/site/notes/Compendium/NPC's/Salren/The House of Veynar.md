@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/salren/the-house-of-veynar/","tags":["npc/dynasty"],"dg-note-properties":{"type":"npc","locations":["[[The Capital]]"],"tags":["npc/dynasty"],"aliases":["House of Veynar","The Exiles","The Silver Stag"]}}
+{"dg-publish":true,"dg-path":"3-NPC's/Salren/The House of Veynar.md","permalink":"/3-npc-s/salren/the-house-of-veynar/","tags":["npc/dynasty"],"dg-note-properties":{"type":"npc","locations":["[[The Capital]]"],"tags":["npc/dynasty"],"aliases":["House of Veynar","The Exiles","The Silver Stag"]}}
 ---
 
 # The House of Veynar

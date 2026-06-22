@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/objects/biomancy/","tags":[null],"dg-note-properties":{"type":"notes","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Droshar\|Droshar]]"],"tags":[null],"date":"2025-09-15","aliases":["biomancy","biomantic"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Objects/Biomancy.md","permalink":"/2-lore/objects/biomancy/","tags":[null],"dg-note-properties":{"type":"notes","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Droshar\|Droshar]]"],"tags":[null],"date":"2025-09-15","aliases":["biomancy","biomantic"]}}
 ---
 
 

@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"4-Party/Nobumasa Shigure.md","permalink":"/4-party/nobumasa-shigure/","tags":["Category/Player"],"dg-note-properties":{"aliases":["Nobu"],"tags":["Category/Player"],"Player":"Jasen","Role":"Player","level":10,"hp":null,"max_hp":null,"ac":null,"modifier":null,"pasperc":null,"Status":"Active","PlayerKnownLanguages":["Common"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_name":"Nobumasa Shigure","char_race":"Hanataka Tengu","char_class":"Rogue","char_subclass":null,"char_gender":"Male","char_status":"Alive","char_age":null,"char_items":["[[The Shigure Kusarigama]]"],"char_image":["[[Nobumasa Shigure.png]]"],"Connected_Quests":[],"Connected_Groups":["[[The Lotus Choir]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null}}
+{"dg-publish":true,"dg-path":"4-Party/Maki Maki.md","permalink":"/4-party/maki-maki/","tags":["Category/Player"],"dg-note-properties":{"aliases":["Maki"],"tags":["Category/Player"],"Player":"Tarren","Role":"Player","level":10,"hp":null,"max_hp":null,"ac":null,"modifier":null,"pasperc":1,"Status":"Active","PlayerKnownLanguages":["Common"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_name":"Maki Maki","char_race":"Lizardman","char_class":"Bard","char_subclass":null,"char_gender":"Male","char_status":"Alive","char_age":null,"char_items":["[[Locate the Eye Ball|Locate the Eye Ball]]","[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"],"char_image":["[[Maki Maki.png]]"],"Connected_Quests":[],"Connected_Groups":[],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null}}
 ---
 
-# Nobumasa Shigure
+# Maki Maki
 
 > [!infobox|no-t right]
-> ![Assets/Images/Party/Nobumasa Shigure.png\|Nobumasa Shigure.png](/img/user/Assets/Images/Party/Nobumasa%20Shigure.png)
+> ![Assets/Images/Party/Maki Maki.png\|Maki Maki.png](/img/user/Assets/Images/Party/Maki%20Maki.png)
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasCrown: Level   | 10 |
-> | :RiSwordFill: Class |  Rogue|
+> | :RiSwordFill: Class |  Bard|
 > | :FasUserShield: Archetype |  `=this.char_subclass`|
-> |  :FasUserGroup: Race |  Hanataka Tengu|
+> |  :FasUserGroup: Race |  Lizardman|
 > | :FasArrowsUpDownLeftRight: HP | `=this.hp`
 
 
@@ -37,15 +37,15 @@ items:
 > ~~~
 > >[!tabbed-box-maxh]
 > > >[!div-m|no-title]
-> > > ![[Compendium/Party/Player Characters/Nobumasa Shigure#Skills\|no-h clean]]
+> > > ![[Compendium/Party/Player Characters/Maki Maki#Skills\|no-h clean]]
 > >
-> > > ![[Compendium/Party/Player Characters/Nobumasa Shigure#Inventory\|no-h1 clean]]
+> > > ![[Compendium/Party/Player Characters/Maki Maki#Inventory\|no-h1 clean]]
 > >
 > > > [!div-m|no-title]
-> > > ![[Compendium/Party/Player Characters/Nobumasa Shigure#Connections\|no-h1 clean]]
+> > > ![[Compendium/Party/Player Characters/Maki Maki#Connections\|no-h1 clean]]
 > > 
 > > > [!div-m|no-title]
-> > > ![[Compendium/Party/Player Characters/Nobumasa Shigure#Relationships\|no-h1 clean]]
+> > > ![[Compendium/Party/Player Characters/Maki Maki#Relationships\|no-h1 clean]]
 
 ---
 
@@ -90,7 +90,7 @@ proficiencies:
 
 # Inventory
 
-The following items belong to Nobumasa Shigure.
+The following items belong to Maki Maki.
 
 Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
 

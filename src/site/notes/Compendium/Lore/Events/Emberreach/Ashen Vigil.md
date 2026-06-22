@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/events/emberreach/ashen-vigil/","tags":["event/seasonal"],"dg-note-properties":{"type":"event","tags":["event/seasonal"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Events/Emberreach/Ashen Vigil.md","permalink":"/2-lore/events/emberreach/ashen-vigil/","tags":["event/seasonal"],"dg-note-properties":{"type":"event","tags":["event/seasonal"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/organizations/long-shadow/","tags":[null],"dg-note-properties":{"type":"organization","locations":["[[Droshar]]"],"tags":[null],"aliases":["Empire","The Empire"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Organizations/Long Shadow.md","permalink":"/2-lore/organizations/long-shadow/","tags":[null],"dg-note-properties":{"type":"organization","locations":["[[Droshar]]"],"tags":[null],"aliases":["Empire","The Empire"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/organizations/the-lotus-choir/","tags":["faction"],"dg-note-properties":{"tags":["faction"],"locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]"],"aliases":["The Choir","Lotus Choir","The Lotus"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Organizations/The Lotus Choir.md","permalink":"/2-lore/organizations/the-lotus-choir/","tags":["faction"],"dg-note-properties":{"tags":["faction"],"locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]"],"aliases":["The Choir","Lotus Choir","The Lotus"]}}
 ---
 
 > [!infobox|no-t right]

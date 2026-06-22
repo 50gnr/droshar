@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/aketsu-blackwing/","tags":["npc","tengu","innali","high-steward","mountain-court"],"dg-note-properties":{"type":"npc","locations":["[In'nali]]","[[Southern Principalities]]"],"tags":["npc","tengu","innali","high-steward","mountain-court"],"aliases":["Keeper of the Northern Road","The Black Wing Steward","Lord Aketsu"],"cover":"[[Aketsu Blackwing.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/In'nali/In'nali.md)","DM_file":"[[Aketsu Blackwing - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Aketsu Blackwing.md","permalink":"/3-npc-s/southern-principalities/aketsu-blackwing/","tags":["npc","tengu","innali","high-steward","mountain-court"],"dg-note-properties":{"type":"npc","locations":["[In'nali]]","[[Southern Principalities]]"],"tags":["npc","tengu","innali","high-steward","mountain-court"],"aliases":["Keeper of the Northern Road","The Black Wing Steward","Lord Aketsu"],"cover":"[[Aketsu Blackwing.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/In'nali/In'nali.md)","DM_file":"[[Aketsu Blackwing - DM]]"}}
 ---
 
 

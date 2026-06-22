@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/events/ash-war/","tags":["event/personal"],"dg-note-properties":{"type":"event","tags":["event/personal"],"aliases":["War of Ash and Dawn"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Events/Ash War.md","permalink":"/2-lore/events/ash-war/","tags":["event/personal"],"dg-note-properties":{"type":"event","tags":["event/personal"],"aliases":["War of Ash and Dawn"]}}
 ---
 
 

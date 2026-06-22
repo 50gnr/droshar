@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/Northern Reaches/Northspires/Northspires.md","permalink":"/droshar/northern-reaches/northspires/northspires/","tags":["location/mountain"],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]"],"tags":["location/mountain"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Northern Reaches/Northspires/Northspires.md","permalink":"/1-droshar/northern-reaches/northspires/northspires/","tags":["location/mountain"],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]"],"tags":["location/mountain"]}}
 ---
 
 

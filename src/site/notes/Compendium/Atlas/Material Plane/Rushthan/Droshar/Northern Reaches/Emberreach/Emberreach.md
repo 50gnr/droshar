@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/Northern Reaches/Emberreach/Emberreach.md","permalink":"/droshar/northern-reaches/emberreach/emberreach/","tags":[null],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]"],"tags":[null],"mapCalc1":"NaN","map_height_y":5376,"map_width_x":9472}}
+{"dg-publish":true,"dg-path":"1-Droshar/Northern Reaches/Emberreach/Emberreach.md","permalink":"/1-droshar/northern-reaches/emberreach/emberreach/","tags":[null],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]"],"tags":[null],"mapCalc1":"NaN","map_height_y":5376,"map_width_x":9472}}
 ---
 
 

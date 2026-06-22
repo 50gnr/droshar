@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/Western Provinces/Western Provinces.md","permalink":"/droshar/western-provinces/western-provinces/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Western Provinces/Western Provinces.md","permalink":"/1-droshar/western-provinces/western-provinces/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
 ---
 
 

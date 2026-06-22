@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/deities/titans/","tags":["race/titan"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Droshar\|Droshar]]"],"tags":["race/titan"],"aliases":["titan"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Titans.md","permalink":"/2-lore/deities/titans/","tags":["race/titan"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Droshar\|Droshar]]"],"tags":["race/titan"],"aliases":["titan"]}}
 ---
 
 # Titans

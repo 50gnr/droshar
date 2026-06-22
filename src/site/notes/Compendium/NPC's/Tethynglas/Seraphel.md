@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/tethynglas/seraphel/","tags":["npc","sea-elf","amethyst-moon","titan-touched","biomancy"],"dg-note-properties":{"type":"npc","locations":["[[Velkarrow\|Velkarrow]]","[[Nerithys\|Nerithys]]"],"tags":["npc","sea-elf","amethyst-moon","titan-touched","biomancy"],"aliases":["The Violet Midwife","Seraphel"],"cover":"[[seraphel2.png]]","DM_file":"[[Seraphel - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Tethynglas/Seraphel.md","permalink":"/3-npc-s/tethynglas/seraphel/","tags":["npc","sea-elf","amethyst-moon","titan-touched","biomancy"],"dg-note-properties":{"type":"npc","locations":["[[Velkarrow\|Velkarrow]]","[[Nerithys\|Nerithys]]"],"tags":["npc","sea-elf","amethyst-moon","titan-touched","biomancy"],"aliases":["The Violet Midwife","Seraphel"],"cover":"[[seraphel2.png]]","DM_file":"[[Seraphel - DM]]"}}
 ---
 
 

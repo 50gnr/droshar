@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/organizations/salren-rifle-corps/","tags":["faction/military",[["Magitech"]],[["Salren|The Capital"]],"Salren"],"dg-note-properties":{"type":"Organization","tags":["faction/military",[["Magitech"]],[["Salren|The Capital"]],"Salren"],"aliases":["SRC","Rifle Corps","rifle corps"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Organizations/Salren Rifle Corps.md","permalink":"/2-lore/organizations/salren-rifle-corps/","tags":["faction/military",[["Magitech"]],[["Salren|The Capital"]],"Salren"],"dg-note-properties":{"type":"Organization","tags":["faction/military",[["Magitech"]],[["Salren|The Capital"]],"Salren"],"aliases":["SRC","Rifle Corps","rifle corps"]}}
 ---
 
 

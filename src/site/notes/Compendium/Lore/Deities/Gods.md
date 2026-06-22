@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/deities/gods/","tags":["race/deity"],"dg-note-properties":{"type":"npc","locations":["[[Rushthan]]"],"tags":["race/deity"],"aliases":["The Gods of Dawn","Gods of Dawn","The Anunnaki","the Anunnaki","Anunnaki"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Gods.md","permalink":"/2-lore/deities/gods/","tags":["race/deity"],"dg-note-properties":{"type":"npc","locations":["[[Rushthan]]"],"tags":["race/deity"],"aliases":["The Gods of Dawn","Gods of Dawn","The Anunnaki","the Anunnaki","Anunnaki"]}}
 ---
 
 # Gods

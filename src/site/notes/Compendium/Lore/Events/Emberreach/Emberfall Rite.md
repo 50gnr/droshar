@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/lore/events/emberreach/emberfall-rite/","tags":["event/religious"],"dg-note-properties":{"type":"event","tags":["event/religious"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Events/Emberreach/Emberfall Rite.md","permalink":"/2-lore/events/emberreach/emberfall-rite/","tags":["event/religious"],"dg-note-properties":{"type":"event","tags":["event/religious"]}}
 ---
 
 

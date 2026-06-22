@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/party/player-characters/sho-slovak-trogaro/","tags":["Category/Player"],"dg-note-properties":{"aliases":["Sho"],"tags":["Category/Player"],"Player":"Josh","Role":"Player","level":10,"hp":null,"max_hp":null,"ac":null,"modifier":null,"pasperc":1,"Status":"Active","PlayerKnownLanguages":["Common"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_name":"ShoSlovak Trogaro","char_race":"Human","char_class":"Warlock","char_subclass":null,"char_gender":"Male","char_status":"Alive","char_age":null,"char_items":["[[Locate the Eye Ball|Locate the Eye Ball]]","[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"],"char_image":["[[ShoSlovak Trogaro.jpeg]]"],"Connected_Quests":[],"Connected_Groups":[],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null}}
+{"dg-publish":true,"dg-path":"4-Party/ShoSlovak Trogaro.md","permalink":"/4-party/sho-slovak-trogaro/","tags":["Category/Player"],"dg-note-properties":{"aliases":["Sho"],"tags":["Category/Player"],"Player":"Josh","Role":"Player","level":10,"hp":null,"max_hp":null,"ac":null,"modifier":null,"pasperc":1,"Status":"Active","PlayerKnownLanguages":["Common"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_name":"ShoSlovak Trogaro","char_race":"Human","char_class":"Warlock","char_subclass":null,"char_gender":"Male","char_status":"Alive","char_age":null,"char_items":["[[Locate the Eye Ball|Locate the Eye Ball]]","[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"],"char_image":["[[ShoSlovak Trogaro.jpeg]]"],"Connected_Quests":[],"Connected_Groups":[],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null}}
 ---
 
 # ShoSlovak Trogaro
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: In battle, I find my true purpose :FasQuoteRight:
-___
+
+
 > [!infobox|no-t right]
 > ![Assets/Images/Party/ShoSlovak Trogaro.jpeg\|ShoSlovak Trogaro.jpeg](/img/user/Assets/Images/Party/ShoSlovak%20Trogaro.jpeg)
 > ###### Details:

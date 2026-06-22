@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/tethynglas/white-fur/","tags":["npc","biomancer","antagonist","ley-mutation","tethynglas"],"dg-note-properties":{"type":"npc","locations":["[The Tethynglas]]"],"tags":["npc","biomancer","antagonist","ley-mutation","tethynglas"],"aliases":["White Fur"],"cover":"[[WHITEFUR.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Imperial%20Heartlands/The%20Tethynglas/The%20Tethynglas.md)","DM_file":"[[White Fur - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Tethynglas/White Fur.md","permalink":"/3-npc-s/tethynglas/white-fur/","tags":["npc","biomancer","antagonist","ley-mutation","tethynglas"],"dg-note-properties":{"type":"npc","locations":["[The Tethynglas]]"],"tags":["npc","biomancer","antagonist","ley-mutation","tethynglas"],"aliases":["White Fur"],"cover":"[[WHITEFUR.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Imperial%20Heartlands/The%20Tethynglas/The%20Tethynglas.md)","DM_file":"[[White Fur - DM]]"}}
 ---
 
 

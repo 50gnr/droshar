@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/Northern Reaches/Crownkeep Mountains/Crownkeep Mountains.md","permalink":"/droshar/northern-reaches/crownkeep-mountains/crownkeep-mountains/","tags":["location/mountain"],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]","[[The Capital]]"],"tags":["location/mountain"],"aliases":["The Coilspines","The Coilspine","The Crownkeep","Crownkeep","Coilspine"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Northern Reaches/Crownkeep Mountains/Crownkeep Mountains.md","permalink":"/1-droshar/northern-reaches/crownkeep-mountains/crownkeep-mountains/","tags":["location/mountain"],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]","[[The Capital]]"],"tags":["location/mountain"],"aliases":["The Coilspines","The Coilspine","The Crownkeep","Crownkeep","Coilspine"]}}
 ---
 
 

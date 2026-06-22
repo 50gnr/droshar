@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Droshar/The Esmelan Marches/The Esmelan Marches.md","permalink":"/droshar/the-esmelan-marches/the-esmelan-marches/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/The Esmelan Marches/The Esmelan Marches.md","permalink":"/1-droshar/the-esmelan-marches/the-esmelan-marches/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
 ---
 
 

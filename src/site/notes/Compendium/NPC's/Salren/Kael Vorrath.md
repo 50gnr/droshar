@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/salren/kael-vorrath/","tags":["npc/emperor"],"dg-note-properties":{"type":"npc","locations":["[[The Capital]]"],"tags":["npc/emperor"],"aliases":["Emperor","The Emperor","Emperor Kael Vorrath","The Usurper"],"cover":"[[Emperor kael vorath.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Salren/Kael Vorrath.md","permalink":"/3-npc-s/salren/kael-vorrath/","tags":["npc/emperor"],"dg-note-properties":{"type":"npc","locations":["[[The Capital]]"],"tags":["npc/emperor"],"aliases":["Emperor","The Emperor","Emperor Kael Vorrath","The Usurper"],"cover":"[[Emperor kael vorath.png]]"}}
 ---
 
 # Kael Vorrath

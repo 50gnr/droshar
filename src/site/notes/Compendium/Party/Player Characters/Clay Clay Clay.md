@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/party/player-characters/clay-clay-clay/","tags":["Category/Player"],"dg-note-properties":{"aliases":["Clay"],"tags":["Category/Player"],"Player":"Wyatt","Role":"Player","level":10,"hp":50,"max_hp":71,"ac":80,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Dwarvish"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_name":"Clay","char_race":"Hanimori","char_class":"Rogue / Barbarian","char_subclass":null,"char_gender":"Male","char_status":"Alive","char_age":"Old AF","char_items":["[[Locate the Eye Ball|Locate the Eye Ball]]","[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"],"char_image":["[[Clay.png]]"],"Connected_Quests":[],"Connected_Groups":["[[The Lotus Choir]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null}}
+{"dg-publish":true,"dg-path":"4-Party/Clay Clay Clay.md","permalink":"/4-party/clay-clay-clay/","tags":["Category/Player"],"dg-note-properties":{"aliases":["Clay"],"tags":["Category/Player"],"Player":"Wyatt","Role":"Player","level":10,"hp":50,"max_hp":71,"ac":80,"modifier":2,"pasperc":13,"Status":"Active","PlayerKnownLanguages":["Celestial","Common","Dwarvish"],"faction_standing":{"Faction Name 1":1,"Faction Name 3":3},"char_name":"Clay","char_race":"Hanimori","char_class":"Rogue / Barbarian","char_subclass":null,"char_gender":"Male","char_status":"Alive","char_age":"Old AF","char_items":["[[Locate the Eye Ball|Locate the Eye Ball]]","[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"],"char_image":["[[Clay.png]]"],"Connected_Quests":[],"Connected_Groups":["[[The Lotus Choir]]"],"parents":["Father","Mother"],"partner":["Partner"],"children":["Child"],"enemies":["Enemy"],"allies":["Friend"],"siblings":["Brother","Sister"],"obsidianUIMode":"preview","MyContainer":null,"MyCategory":null}}
 ---
 
 # Clay
-:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: In battle, I find my true purpose :FasQuoteRight:
-___
+
 > [!infobox|no-t right]
 > ![Assets/Images/Party/Clay.png\|Clay.png](/img/user/Assets/Images/Party/Clay.png)
 > ###### Details:
