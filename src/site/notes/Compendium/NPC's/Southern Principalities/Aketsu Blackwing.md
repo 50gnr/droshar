@@ -197,7 +197,8 @@ Aketsu distrusts organizations that answer to individuals rather than institutio
 
 This places him increasingly at odds with [[Compendium/NPC's/Southern Principalities/Shōren Vale\|Shōren Vale]].
 
-
+> [!info]- DM Eyes Only
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
