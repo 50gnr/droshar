@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/ayame-shigure/","tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"aliases":["Ayame","Mother Shigure","Keeper of the Compound"],"cover":"[[Ayame Shigure.png]]"}}
+{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/ayame-shigure/","tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"aliases":["Ayame","Mother Shigure","Keeper of the Compound"],"cover":"[[Ayame Shigure.png]]","DM_file":"[[Ayame Shigure - DM]]"}}
 ---
 
 
@@ -184,73 +184,6 @@ Ayame keeps track of:
 No one knows how.
 
 No one asks.
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-## Role in the Campaign
-
-Ayame serves as:
-
-- home base anchor
-- emotional grounding point
-- caretaker
-- provider of practical wisdom
-
-She should never drive plots.
-
-Instead, she reminds players what they are fighting to protect.
-
-Whenever the campaign becomes complicated, political, or dangerous, Ayame represents something simple:
-
-Home.
-
----
-
-## DM Notes
-
-### Core Theme
-
-The person who quietly holds everything together.
-
----
-
-### Inspirations
-
-- Aunt May
-- Chiyo from Memoirs of a Geisha
-- village matriarch archetypes
-- military spouses who keep families functioning during deployments
-
----
-
-### Presentation Notes
-
-- Calm confidence
-- Direct eye contact
-- Practical advice
-- Dry humor
-- Never impressed by titles
-- Rarely surprised
-
----
-
-### Important
-
-Ayame should feel emotionally safe.
-
-The players should genuinely enjoy returning to the compound because she is there.
-
-If Daichi represents the fading past,
-
-Ayame represents the reason the future is worth building.
-
-</div></div>
 
 
 

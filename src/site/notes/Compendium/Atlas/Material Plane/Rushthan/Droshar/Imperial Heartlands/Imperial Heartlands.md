@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/atlas/material-plane/rushthan/droshar/imperial-heartlands/imperial-heartlands/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"],"aliases":["Heartlands","heartlands"]}}
+{"dg-publish":true,"dg-path":"Droshar/Imperial Heartlands/Imperial Heartlands.md","permalink":"/droshar/imperial-heartlands/imperial-heartlands/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"],"aliases":["Heartlands","heartlands"]}}
 ---
 
 

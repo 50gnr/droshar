@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/daichi-shigure/","tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"aliases":["Daichi","The Silent Wing","Old Crow"],"cover":"[[Daichi Shigure.png]]"}}
+{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/daichi-shigure/","tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"aliases":["Daichi","The Silent Wing","Old Crow"],"cover":"[[Daichi Shigure.png]]","DM_file":"[[Daichi Shigure - DM]]"}}
 ---
 
 
@@ -151,99 +151,6 @@ When Nobu joined [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choi
 The kusarigama Nobu carries once belonged to Daichi.
 
 Though he rarely speaks of it, he still notices whether it has been maintained properly.
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-
-## The Poison
-
-Very few know the truth.
-
-Official records state only that Daichi was injured during a mission decades ago.
-
-The poison continues to slowly degrade his body and memory.
-
-No known cure exists.
-
-Whether the toxin was:
-- political
-- spiritual
-- yokai in origin
-- or something else entirely
-
-remains unknown.
-
-Even Daichi's memories of the event have become fragmented.
-
----
-## Role in the Campaign
-
-Daichi serves as:
-
-- mentor
-- sounding board
-- source of old stories
-- occasional bearer of forgotten wisdom
-
-He should never function as a quest giver.
-
-Instead, he exists to provide perspective.
-
-At times he may:
-- recognize symbols others miss
-- recall fragments of forgotten history
-- offer warnings the players only understand much later
-
-His greatest value is not information.
-
-It is experience.
-
----
-
-## DM Notes
-
-### Core Theme
-
-A legendary operative confronting the reality that time eventually defeats everyone.
-
----
-
-### Inspirations
-
-- Hattori Hanzō (elder years)
-- Uncle Iroh
-- retired special forces operators
-- old samurai cinema
-
----
-
-### Presentation Notes
-
-- Speaks slowly
-- Long pauses
-- Occasionally loses his train of thought
-- Sometimes startlingly insightful
-- Never dramatic
-- Never self-important
-
----
-
-### Important
-
-Daichi should never become helpless.
-
-Even in his weakened state, players should occasionally be reminded:
-
-> This man survived things they cannot imagine.
-
----
-
-</div></div>
 
 
 ## Quotes

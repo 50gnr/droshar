@@ -1,74 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/atlas/material-plane/rushthan/droshar/droshar/","tags":[null],"dg-note-properties":{"type":"continent","locations":["[[Rushthan]]"],"tags":[null],"mapCalc1":0.10526315789473684,"map_height_y":3276,"map_width_x":4096,"scale_pixels":950,"scale_pixels_range":100}}
+{"dg-publish":true,"dg-path":"Droshar/Droshar.md","permalink":"/droshar/droshar/","tags":[null],"dg-note-properties":{"type":"continent","locations":["[[Rushthan]]"],"tags":[null],"mapCalc1":0.10526315789473684,"map_height_y":3276,"map_width_x":4096,"scale_pixels":950,"scale_pixels_range":100}}
 ---
 
 
-![Droshar.jpg\|banner](/img/user/Assets/Images/Location/Droshar.jpg)
-###### Droshar
-<span class="sub2">:FasEarthAmericas: Continent</span>
-___
+# Droshar
 
 > [!quote|no-t]
 >Quick description of the continent Droshar.
-
-> [!column|flex 3]
-> > [!hint]- NPC's
-> > ```base
-> > formulas:
-> >   LinkedIndirectly: |
-> >     locations.contains(this.file)
-> >     || list(locations)
-> >          .filter(file(value)
-> >            && list(file(value).properties.locations).contains(this))
-> >          .length > 0
-> > 
-> > properties:
-> >   file.name:
-> >     displayName: Name
-> > 
-> > views:
-> >   - type: table
-> >     name: This Location Only
-> >     filters:
-> >       and:
-> >         - file.inFolder("Compendium/NPC's")
-> >         - locations.contains(this.file)
-> > 
-> >   - type: table
-> >     name: Sub-Locations Included
-> >     filters:
-> >       and:
-> >         - file.inFolder("Compendium/NPC's")
-> >         - formula.LinkedIndirectly
-> > ```
->
->> [!example]- LOCATIONS
-> > ```base
-> > properties:
-> >   file.name:
-> >     displayName: Name
-> > views:
-> >   - type: table
-> >     name: Territories
-> >     filters:
-> >       and:
-> >         - file.inFolder("Compendium/Atlas")
-> >         - locations.contains(this.file)
-> > ```
->
->> [!note]- HISTORY
-> > ```base
-> > properties:
-> >   file.name:
-> >     displayName: Name
-> > views:
-> >   - type: table
-> >     name: Session Notes
-> >     filters:
-> >       and:
-> >         - file.inFolder("Session Notes")
-> >         - file.hasLink(this.file)
-> > ```
 
 
 
@@ -90,3 +28,5 @@ recenter: false
 darkmode: true ### markermarker: default,2525.078315617161,1919.099644241924,,,,
 
 ```
+
+[Droshar.jpg](/img/user/Assets/Images/Location/Droshar.jpg)

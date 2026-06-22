@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/atlas/material-plane/rushthan/droshar/southern-principalities/southern-principalities/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
+{"dg-publish":true,"dg-path":"Droshar/Southern Principalities/Southern Principalities.md","permalink":"/droshar/southern-principalities/southern-principalities/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
 ---
 
 

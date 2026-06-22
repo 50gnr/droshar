@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/seiha-riverlily/","tags":["npc","governor","fuyoren","bardune","river-court"],"dg-note-properties":{"type":"npc","locations":["[Bardune]]","[[Southern Principalities]]"],"tags":["npc","governor","fuyoren","bardune","river-court"],"aliases":["The River Lily","Lady of the Stillwater Court","Governor Seiha"],"cover":"[[Seiha Riverlily.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Bardune/Bardune.md)"}}
+{"dg-publish":true,"permalink":"/compendium/npc-s/southern-principalities/seiha-riverlily/","tags":["npc","governor","fuyoren","bardune","river-court"],"dg-note-properties":{"type":"npc","locations":["[Bardune]]","[[Southern Principalities]]"],"tags":["npc","governor","fuyoren","bardune","river-court"],"aliases":["The River Lily","Lady of the Stillwater Court","Governor Seiha"],"cover":"[[Seiha Riverlily.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Bardune/Bardune.md)","DM_file":"[[Seiha Riverlily - DM]]"}}
 ---
 
 
@@ -178,75 +178,6 @@ Where Shōren believes peace must be engineered,
 Seiha believes peace must be cultivated.
 
 This ideological divide quietly shapes much of Bardune’s political posture.
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-# Role in the Campaign
-
-Seiha initially exists as:
-- a distant political figure
-- opposing ideological force to Shōren
-- symbol of Bardune’s philosophy
-
-Over time, the party may realize:
-- many of her warnings were correct
-- she understood the danger surrounding [[Bakuryō\|Bakuryō]]
-- she may possess knowledge about the old river pacts
-- and she likely suspected destabilization long before the floods began
-
-Whether the players view her as:
-- wise
-- stubborn
-- naïve
-- or tragically passive
-
-…depends entirely on what the South becomes.
-
----
-
-# DM Notes
-
-## Core Theme
-Seiha represents:
-> patience in opposition to manipulation.
-
-She should never feel weak.
-
-Her danger comes from:
-- memory
-- influence
-- restraint
-- and certainty
-
----
-
-## Presentation Notes
-- Soft voice
-- Rarely emotional
-- Long pauses
-- Always composed
-- Nature subtly reacts around her
-
-Examples:
-- condensation forms on nearby cups
-- flowers slowly turn toward her
-- water ripples without wind
-
----
-
-## Inspirations
-- ancient river spirits
-- lotus folklore
-- contemplative rulers
-- hidden steel beneath serenity
-- “nature remembers”
-
-
-
-</div></div>
 
 
 # Quotes

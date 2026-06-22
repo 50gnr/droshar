@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/atlas/material-plane/rushthan/droshar/desert-kingdoms/desert-kingdoms/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
+{"dg-publish":true,"dg-path":"Droshar/Desert Kingdoms/Desert Kingdoms.md","permalink":"/droshar/desert-kingdoms/desert-kingdoms/","tags":["location/generalRegion"],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":["location/generalRegion"]}}
 ---
 
 

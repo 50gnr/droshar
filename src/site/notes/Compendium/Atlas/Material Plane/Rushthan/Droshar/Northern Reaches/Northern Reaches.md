@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/atlas/material-plane/rushthan/droshar/northern-reaches/northern-reaches/","tags":[null],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":[null]}}
+{"dg-publish":true,"dg-path":"Droshar/Northern Reaches/Northern Reaches.md","permalink":"/droshar/northern-reaches/northern-reaches/","tags":[null],"dg-note-properties":{"type":"territory","locations":["[[Droshar]]"],"tags":[null]}}
 ---
 
 

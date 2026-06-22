@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compendium/atlas/material-plane/rushthan/droshar/southern-principalities/bardune/bardune/","tags":["location/city"],"dg-note-properties":{"type":"locale","locations":["[[Southern Principalities]]"],"tags":["location/city"]}}
+{"dg-publish":true,"dg-path":"Droshar/Southern Principalities/Bardune/Bardune.md","permalink":"/droshar/southern-principalities/bardune/bardune/","tags":["location/city"],"dg-note-properties":{"type":"locale","locations":["[[Southern Principalities]]"],"tags":["location/city"]}}
 ---
 
 
