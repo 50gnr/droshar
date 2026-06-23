@@ -55,7 +55,30 @@
   const mapHeight = bounds[1][0];
   const mapWidth = bounds[1][1];
 
-  const markers = data.markers || data.mapViewParameters?.marker || [];
+  function findMarkers(obj) {
+  let found = [];
+
+  function walk(value) {
+    if (Array.isArray(value)) {
+      value.forEach(walk);
+      return;
+    }
+
+    if (value && typeof value === "object") {
+      if (value.loc && value.link) {
+        found.push(value);
+      }
+
+      Object.values(value).forEach(walk);
+    }
+  }
+
+  walk(obj);
+  return found;
+}
+
+const markers = findMarkers(data);
+console.log("Droshar markers found:", markers.length);
 
   function slugify(name) {
     return name
