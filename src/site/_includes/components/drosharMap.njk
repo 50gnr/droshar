@@ -1,17 +1,44 @@
-<div id="droshar-map-wrap">
-  <img id="droshar-map-img" src="/img/Droshar.jpg" alt="Droshar Map">
-</div>
+<div id="map" style="height:75vh;width:100%;border-radius:8px;"></div>
 
-<style>
-#droshar-map-wrap {
-  position: relative;
-  width: 100%;
-  max-width: 1400px;
-  margin: 1rem auto;
-}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-#droshar-map-img {
-  width: 100%;
-  display: block;
-}
-</style>
+<script>
+(async function () {
+  const data = await fetch("/img/droshar-leaflet.json").then(r => r.json());
+
+  const bounds = data.mapViewParameters?.bounds || [[0, 0], [3276, 4096]];
+
+  const map = L.map("map", {
+    crs: L.CRS.Simple,
+    minZoom: -2.5,
+    maxZoom: 2,
+    zoomSnap: 0.5
+  });
+
+  L.imageOverlay("/img/Droshar.jpg", bounds).addTo(map);
+  map.fitBounds(bounds);
+
+  function findMarkers(obj) {
+    const found = [];
+    function walk(value) {
+      if (Array.isArray(value)) return value.forEach(walk);
+      if (value && typeof value === "object") {
+        if (value.loc && value.link) found.push(value);
+        Object.values(value).forEach(walk);
+      }
+    }
+    walk(obj);
+    return found;
+  }
+
+  const markers = findMarkers(data);
+  console.log("Markers found:", markers.length);
+
+  markers.forEach(marker => {
+    L.marker(marker.loc)
+      .addTo(map)
+      .bindPopup(marker.link);
+  });
+})();
+</script>
