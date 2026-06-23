@@ -1,0 +1,86 @@
+<div id="droshar-map-wrap">
+  <img id="droshar-map-img" src="/img/Droshar.jpg" alt="Droshar Map">
+  <div id="droshar-map-pins"></div>
+</div>
+
+<style>
+#droshar-map-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  margin: 1rem auto;
+}
+
+#droshar-map-img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+}
+
+.droshar-pin {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #d8b35a;
+  border: 2px solid #1f1a12;
+  box-shadow: 0 0 8px rgba(0,0,0,.65);
+  cursor: pointer;
+}
+
+.droshar-pin:hover::after {
+  content: attr(data-label);
+  position: absolute;
+  left: 18px;
+  top: -6px;
+  white-space: nowrap;
+  background: rgba(20,20,20,.9);
+  color: white;
+  padding: 4px 7px;
+  border-radius: 4px;
+  font-size: 13px;
+  z-index: 10;
+}
+</style>
+
+<script>
+(async function () {
+  const res = await fetch('/img/droshar-leaflet.json');
+  const data = await res.json();
+
+  const pinsLayer = document.getElementById('droshar-map-pins');
+
+  const bounds = data.mapViewParameters?.bounds || [[0, 0], [3276, 4096]];
+  const mapHeight = bounds[1][0];
+  const mapWidth = bounds[1][1];
+
+  const markers = data.markers || data.mapViewParameters?.marker || [];
+
+  function slugify(name) {
+    return name
+      .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .replace(/['’]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
+  markers.forEach(marker => {
+    if (!marker.loc || !marker.link) return;
+
+    const y = marker.loc[0];
+    const x = marker.loc[1];
+
+    const pin = document.createElement('a');
+    pin.className = 'droshar-pin';
+    pin.href = `/notes/${slugify(marker.link)}`;
+    pin.dataset.label = marker.link;
+
+    pin.style.left = `${(x / mapWidth) * 100}%`;
+    pin.style.top = `${(y / mapHeight) * 100}%`;
+
+    pinsLayer.appendChild(pin);
+  });
+})();
+</script>
