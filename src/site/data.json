@@ -1,0 +1,1298 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1773245376505,
+      "markers": [
+        {
+          "id": "ID_d96b4bc84a7b",
+          "type": "default",
+          "loc": [
+            2960,
+            7327.9834191982
+          ],
+          "link": "Ember Council",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884beabbb86a",
+          "type": "default",
+          "loc": [
+            2792,
+            4743.996683839639
+          ],
+          "link": "Ember Square",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_180b286b0988",
+          "type": "default",
+          "loc": [
+            2644,
+            5483.817611180198
+          ],
+          "link": "Mossroot's Hall",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bf80aeb9a18",
+          "type": "default",
+          "loc": [
+            1320,
+            7704
+          ],
+          "link": "Ashen Lodge",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb2b0938183a",
+          "type": "default",
+          "loc": [
+            944,
+            8463.98673535856
+          ],
+          "link": "Titan's Pyre",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49ba3a88e90a",
+          "type": "default",
+          "loc": [
+            1232,
+            2760.0099484810803
+          ],
+          "link": "Forge Row",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a2b6a58999b",
+          "type": "default",
+          "loc": [
+            4852,
+            3252.742819920649
+          ],
+          "link": "Druid's Glade",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a99ca8beac9",
+          "type": "default",
+          "loc": [
+            1927.0427554286384,
+            6293.084761616836
+          ],
+          "link": "Peepers  Library",
+          "layer": "%5B%5BEmberreach.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach.md"
+      ]
+    },
+    {
+      "id": "Droshar",
+      "locked": true,
+      "lastAccessed": 1782236524716,
+      "markers": [
+        {
+          "id": "ID_3be96b2b386b",
+          "type": "Region",
+          "loc": [
+            2356,
+            2036.0596975412818
+          ],
+          "link": "Northern Reaches",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3514920944902518,
+            -0.5085297852489334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f888c90bfa19",
+          "type": "default",
+          "loc": [
+            2451.8125,
+            1508.3610973228763
+          ],
+          "link": "Emberreach",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab691babb949",
+          "type": "default",
+          "loc": [
+            2228.667991778525,
+            2377.161727657143
+          ],
+          "link": "Steeleholde",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a1808e8ea0b",
+          "type": "Region",
+          "loc": [
+            1685.4774013057843,
+            3150.3983311981133
+          ],
+          "link": "The Esmelan Marches",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b4bfafb597b",
+          "type": "Region",
+          "loc": [
+            463.59688341543017,
+            2667.2119265059328
+          ],
+          "link": "The Southern Principalities",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9f828e8b899",
+          "type": "Region",
+          "loc": [
+            767.625,
+            1576.36983354843
+          ],
+          "link": "Desert Kingdoms",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f86ba90aa888",
+          "type": "Region",
+          "loc": [
+            1251.625,
+            808.1092028194184
+          ],
+          "link": "Isles Of Khorbael",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca4a49b8e8ba",
+          "type": "Castle",
+          "loc": [
+            1653.215654414148,
+            1269.9648085850945
+          ],
+          "link": "Salren",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2192384589889639,
+            -0.35683760683760685
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3969c968aaa8",
+          "type": "POI",
+          "loc": [
+            2688,
+            1640.0400410337866
+          ],
+          "link": "Northspires",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2831258384844859,
+            -0.580190179435116
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -0.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a94968ca684b",
+          "type": "POI",
+          "loc": [
+            1995.455336508437,
+            1754.9782860357577
+          ],
+          "link": "Crownkeep Mountains",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.30296802902613007,
+            -0.43070818070818073
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a84b68292aa8",
+          "type": "village",
+          "loc": [
+            2709.5006029853776,
+            1899.2707967211018
+          ],
+          "link": "Hoytkloster",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abe84b8bdbea",
+          "type": "Dungeon",
+          "loc": [
+            2158.0898961813427,
+            1552.8233381054185
+          ],
+          "link": "Veythar's Maw",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2680693145407892,
+            -0.4658119658119658
+          ],
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4afada584b48",
+          "type": "POI",
+          "loc": [
+            2322.8457761978084,
+            1489.1402073642487
+          ],
+          "link": "The Tethynglas",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25707547333125047,
+            -0.5013736263736264
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -0.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b1a4a29190b",
+          "type": "Region",
+          "loc": [
+            1705.5415562219525,
+            1453.8166899898174
+          ],
+          "link": "Imperial Heartlands",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2509774511948195,
+            -0.36813186813186816
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_799acbbbdb3a",
+          "type": "POI",
+          "loc": [
+            2509.521966431057,
+            1935.3512601075804
+          ],
+          "link": "Glacial Collapse",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3341064453125,
+            -0.5416666666666666
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89fbc80939db",
+          "type": "POI",
+          "loc": [
+            2378.7072119115455,
+            1787.565942839592
+          ],
+          "link": "Wraith Ford",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.30859375,
+            -0.5134310134310134
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a69985b8a08",
+          "type": "POI",
+          "loc": [
+            2687.646584029331,
+            1757.535664856354
+          ],
+          "link": "Night Market",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db5bcbfa586a",
+          "type": "POI",
+          "loc": [
+            2865.837492888341,
+            1776.6268460059007
+          ],
+          "link": "Stars Decent",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0818fa68fab9",
+          "type": "POI",
+          "loc": [
+            2286.076223576108,
+            1360.4801154565723
+          ],
+          "link": "Northern Camp - Amethyst Moon",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23486443244843738,
+            -0.49343711843711846
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_087959fadb38",
+          "type": "POI",
+          "loc": [
+            2316.349232645657,
+            943.0239864002541
+          ],
+          "link": "Iron Tides",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98c9e9a8799a",
+          "type": "Region",
+          "loc": [
+            2271.625,
+            654.3236190881371
+          ],
+          "link": "Western Provinces",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": -1.5,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99a8ab191ac9",
+          "type": "village",
+          "loc": [
+            2532,
+            2290.00020865501
+          ],
+          "link": "Jutholm",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.39533073155726717,
+            -0.5465184279500422
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8938283869e9",
+          "type": "City",
+          "loc": [
+            1910,
+            2807.9994480643923
+          ],
+          "link": "Blord",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4847547488511754,
+            -0.41226311113135095
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bdb080b9b59",
+          "type": "Encounter",
+          "loc": [
+            2363.0735229212496,
+            1506.555153391151
+          ],
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ettercaps/spider ranch",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28ba5aa9fb89",
+          "type": "Encounter",
+          "loc": [
+            2323.4755431748026,
+            1527.11081137226
+          ],
+          "link": "Bloodhound",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0948892a8b29",
+          "type": "village",
+          "loc": [
+            2464.3997149565903,
+            1315.512968209237
+          ],
+          "link": "Dullowmarch",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78cb980898eb",
+          "type": "Encounter",
+          "loc": [
+            2513.190082858462,
+            1446.3289690063973
+          ],
+          "link": "Arboreal Chimera Site",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Simon",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9a9e958cbab",
+          "type": "Encounter",
+          "loc": [
+            2421.266201304211,
+            1596.9758955415407
+          ],
+          "link": "Birds",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Birds",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abb86bb918b8",
+          "type": "City",
+          "loc": [
+            207.04970436618592,
+            2506.3203570427436
+          ],
+          "link": "Bardune",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_493b1bca7aea",
+          "type": "City",
+          "loc": [
+            258.6684993928039,
+            2754.569517671078
+          ],
+          "link": "In’nali",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b5b792aabea",
+          "type": "Encounter",
+          "loc": [
+            450.125,
+            2374
+          ],
+          "link": "Raiko",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b2aeaea98ba",
+          "type": "Encounter",
+          "loc": [
+            718.125,
+            2330
+          ],
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Nomi, the Quaking Earth\nArmoured Kaiju",
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bf98a48789b",
+          "type": "Encounter",
+          "loc": [
+            715.6804509084344,
+            2350.422940664084
+          ],
+          "link": "Nomi",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb29fa8a4b48",
+          "type": "Encounter",
+          "loc": [
+            619.5139286670639,
+            2976.919548795365
+          ],
+          "link": "Magatsuchi",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aacb682b3bf9",
+          "type": "Encounter",
+          "loc": [
+            710.023596658942,
+            2788.829144999743
+          ],
+          "link": "Imanada",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a0ac8fa1929",
+          "type": "Encounter",
+          "loc": [
+            196.6640735175085,
+            2623.3661582020914
+          ],
+          "link": "Bakuryō",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b58e9b9c82b",
+          "type": "POI",
+          "loc": [
+            437.2571558162313,
+            2710.345588968045
+          ],
+          "link": "Hakuryū Valley",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79684b99a899",
+          "type": "default",
+          "loc": [
+            2104.4823633326378,
+            614.2526312595588
+          ],
+          "link": "Drassig",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_082bb8ba1bdb",
+          "type": "Encounter",
+          "loc": [
+            2255.317078594493,
+            1499.0623289566927
+          ],
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Brackishmire",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e888994be999",
+          "type": "POI",
+          "loc": [
+            2211.0234678792294,
+            1455.742056232059
+          ],
+          "link": "Ley Arches",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9aa99b5a08",
+          "type": "POI",
+          "loc": [
+            373.859375,
+            2600.8562806178657
+          ],
+          "link": "Shigure Compound",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b0b0b7b5a4b",
+          "type": "village",
+          "loc": [
+            749.3343142755316,
+            2247.103225253963
+          ],
+          "link": "Kihōsō",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.05,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a9ac918c9d8",
+          "type": "village",
+          "loc": [
+            752.1627414002778,
+            2247.103225253963
+          ],
+          "link": "Kihōsō",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9bb5b48f91a",
+          "type": "POI",
+          "loc": [
+            421.23676780497357,
+            2340.422989261664
+          ],
+          "link": "Tetsumine Basin",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b8919ba3af9",
+          "type": "POI",
+          "loc": [
+            624.8835207866993,
+            2921.569395222735
+          ],
+          "link": "Pondermoss Weald",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb6aa9690998",
+          "type": "village",
+          "loc": [
+            672.9667819073845,
+            2755.936323578997
+          ],
+          "link": "Yūsha Village",
+          "layer": "%5B%5BDroshar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": -0.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 2428.204686594604,
+              "lng": 1210.5759311079396,
+              "id": "ID_d9bbd99bf968",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2423.2549391262983,
+              "lng": 1395.1311050548475,
+              "id": "ID_8959193859d9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2383.6569593798517,
+              "lng": 1454.517432671852,
+              "id": "ID_48ea6a79488b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2351.8371542264567,
+              "lng": 1540.0803937676144,
+              "id": "ID_189ae8196a3a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -67.88225099390856,
+              "lng": 2562.5574249745687,
+              "id": "ID_3acb99a8398a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -57.982756057296896,
+              "lng": 2599.3314691795576,
+              "id": "ID_0a1bda1a19eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -79.19595949289332,
+              "lng": 2593.67597601591,
+              "id": "ID_6ae839882a48",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -72.12489168102785,
+              "lng": 2572.4600504086234,
+              "id": "ID_cafb0be90a0b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -60.81118318204308,
+              "lng": 2606.3936899334312,
+              "id": "ID_6bc8eacb886a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -74.95331880577403,
+              "lng": 2583.7657285011237,
+              "id": "ID_692a2af8e8ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -72.12489168102785,
+              "lng": 2572.4600504086234,
+              "id": "ID_3bca4ab87908",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-pin",
+    "color": "#3b0193",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "village",
+      "iconName": "home",
+      "color": "#07f236",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Quest",
+      "iconName": "crosshairs",
+      "color": "#b60c0c",
+      "alpha": 0.97,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#6a71d2",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "bomb",
+      "color": "#01932d",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "POI",
+      "iconName": "exclamation",
+      "color": "#64e6f7",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#9f2388",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castle",
+      "iconName": "chess-king",
+      "color": "#2e79b2",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Region",
+      "iconName": "map",
+      "color": "#934301",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": -1.5
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -0.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "700px",
+    "image": "[[Droshar.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Droshar.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 0.5,
+    "minZoom": -2.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.10526315789473684,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Droshar",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        3276,
+        4096
+      ]
+    ],
+    "width": "85%",
+    "lat": 2400,
+    "long": 1850,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": true,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
