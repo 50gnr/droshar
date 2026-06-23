@@ -5,4 +5,20 @@
 
 # Droshar Atlas
 
-{% include "components/drosharMap.njk" %}
+<div id="droshar-map-wrap">
+  <img id="droshar-map-img" src="/img/Droshar.jpg" alt="Droshar Map">
+</div>
+
+<style>
+#droshar-map-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  margin: 1rem auto;
+}
+
+#droshar-map-img {
+  width: 100%;
+  display: block;
+}
+</style>
