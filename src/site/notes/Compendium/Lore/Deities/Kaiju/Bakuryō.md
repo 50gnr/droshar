@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Bakuryō.md","permalink":"/2-lore/deities/kaiju/bakuryo/","tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"dg-note-properties":{"type":"kaiju","locations":["[Hakuryū Valley]]","[[Hakuryū River\|Hakuryū River]]"],"tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"aliases":["Bakuryō","The River Dragon","Keeper of the Current","Lady of the Hakuryū"],"cover":"[[Bakuryo.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Hakury%C5%AB%20Valley.md)"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Bakuryō.md","permalink":"/2-lore/deities/kaiju/bakuryo/","tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"dg-note-properties":{"type":"kaiju","locations":["[Hakuryū Valley]]","[[Hakuryū River]]"],"tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"aliases":["Bakuryō","The River Dragon","Keeper of the Current","Lady of the Hakuryū"],"cover":"[[Bakuryo.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Hakury%C5%AB%20Valley.md)"}}
 ---
 
 
@@ -27,9 +27,9 @@
 
 ## Overview
 
-Bakuryō is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]].
+Bakuryō is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]. 
 
-For centuries she has been regarded as the guardian of the [[Hakuryū River\|Hakuryū River]] and the countless communities that rely upon its waters.
+For centuries she has been regarded as the guardian of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Hakuryū Valley\|Hakuryū River]] and the countless communities that rely upon its waters.
 
 Many describe Bakuryō as both river and ruler of the river, though whether she is the spirit of the water itself or simply its greatest inhabitant remains a matter of debate.
 
