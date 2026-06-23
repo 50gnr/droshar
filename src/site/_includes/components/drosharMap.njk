@@ -32,13 +32,25 @@
     return found;
   }
 
-  const markers = findMarkers(data);
-  console.log("Markers found:", markers.length);
+markers
+  .filter(marker => decodeURIComponent(marker.layer || "").includes("Droshar.jpg"))
+  .forEach(marker => {
+    const label = marker.link || "Unknown Location";
+    const desc = marker.description ? `<p>${marker.description}</p>` : "";
 
-  markers.forEach(marker => {
+    const popup = `
+      <strong>${label}</strong>
+      ${desc}
+    `;
+
     L.marker(marker.loc)
       .addTo(map)
-      .bindPopup(marker.link);
+      .bindTooltip(label, {
+        direction: "top",
+        offset: [0, -10],
+        opacity: 0.95
+      })
+      .bindPopup(popup);
   });
 })();
 </script>
