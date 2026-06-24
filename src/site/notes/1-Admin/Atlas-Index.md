@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Atlas-Index.md","dg-permalink":"atlas","permalink":"/atlas/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"0-Atlas/Atlas-Index.md","dg-permalink":"atlas","permalink":"/atlas/","dg-note-properties":{}}
 ---
 
 
