@@ -1,3 +1,18 @@
+<style>
+  html, body {
+    margin: 0;
+    background: #151515;
+  }
+
+  #map {
+    background: #151515;
+  }
+
+  .leaflet-container {
+    background: #151515;
+  }
+</style>
+
 <div id="map" style="height:75vh;width:100%;border-radius:8px;"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
@@ -32,7 +47,9 @@
     return found;
   }
 
-  const markers = findMarkers(data);
+  const markers = findMarkers(data).filter(marker =>
+  decodeURIComponent(marker.layer || "").includes("Droshar.jpg")
+);
   console.log("Markers found:", markers.length);
 
   markers.forEach(marker => {
@@ -40,7 +57,11 @@
 
     const label = marker.link || "Unknown Location";
     const desc = marker.description ? `<p>${marker.description}</p>` : "";
-    const searchUrl = `/?q=${encodeURIComponent(label)}`;
+    const popup = `
+      <strong>${label}</strong><br>
+     <a href="${searchUrl}" target="_top">Search note</a>
+     ${desc}
+    `;
 
 L.marker(marker.loc)
   .addTo(map)
