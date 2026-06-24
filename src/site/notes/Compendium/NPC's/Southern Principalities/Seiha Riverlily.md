@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Seiha Riverlily.md","permalink":"/3-npc-s/southern-principalities/seiha-riverlily/","tags":["npc","governor","fuyoren","bardune","river-court"],"dg-note-properties":{"type":"npc","locations":["[Bardune]]","[[Southern Principalities]]"],"tags":["npc","governor","fuyoren","bardune","river-court"],"aliases":["The River Lily","Lady of the Stillwater Court","Governor Seiha"],"cover":"[[Seiha Riverlily.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Bardune/Bardune.md)","DM_file":"[[Seiha Riverlily - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Seiha Riverlily.md","permalink":"/3-npc-s/southern-principalities/seiha-riverlily/","tags":["npc","governor","fuyoren","bardune","river-court"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]]","[[Southern Principalities]]"],"tags":["npc","governor","fuyoren","bardune","river-court"],"aliases":["The River Lily","Lady of the Stillwater Court","Governor Seiha"],"cover":"[[Seiha Riverlily.png]]","DM_file":"[[Seiha Riverlily - DM]]"}}
 ---
 
 
@@ -12,7 +12,7 @@
 > Type | Detail
 > ---|---
 > Race | Fuyōren
-> Role | Governor of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]]
+> Role | Governor of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]]
 > Affiliation | River Court of Bardune
 > Season | Autumn-born
 > Age | Unknown
@@ -31,9 +31,9 @@
 
 # Overview
 
-Seiha Riverlily is the current governor of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]], serving as both political steward and spiritual mediator for the river-city and its surrounding territories.
+Seiha Riverlily is the current governor of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]], serving as both political steward and spiritual mediator for the river-city and its surrounding territories.
 
-Unlike the rigid hierarchies of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]], Bardune’s authority flows through agreements, old loyalties, and inherited obligations. Seiha embodies this philosophy completely — patient, observant, and difficult to read beneath her serene exterior.[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]]
+Unlike the rigid hierarchies of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali]], Bardune’s authority flows through agreements, old loyalties, and inherited obligations. Seiha embodies this philosophy completely — patient, observant, and difficult to read beneath her serene exterior.[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali]]
 
 To outsiders, she appears almost passive.
 
@@ -109,7 +109,7 @@ Some in Bardune whisper:
 
 # Public Reputation
 
-Among the people of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]], Seiha is viewed as:
+Among the people of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]], Seiha is viewed as:
 - fair
 - ancient
 - difficult to deceive
@@ -121,7 +121,7 @@ Shrine keepers trust her because she honors ancient agreements.
 
 The forest villages revere her because she refuses to exploit the surrounding wilderness aggressively.
 
-In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]], however, she is often viewed as:
+In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali]], however, she is often viewed as:
 - overly passive
 - spiritually conservative
 - unwilling to act decisively against growing threats
