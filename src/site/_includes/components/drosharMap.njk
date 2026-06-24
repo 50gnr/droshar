@@ -32,20 +32,23 @@
     return found;
   }
 
-markers.forEach(marker => {
-  if (!marker.loc || !marker.link) return;
+  const markers = findMarkers(data);
+  console.log("Markers found:", markers.length);
 
-  const label = marker.link || "Unknown Location";
-  const desc = marker.description ? `<p>${marker.description}</p>` : "";
+  markers.forEach(marker => {
+    if (!marker.loc || !marker.link) return;
 
-  L.marker(marker.loc)
-    .addTo(map)
-    .bindTooltip(label, {
-      direction: "top",
-      offset: [0, -10],
-      opacity: 0.95
-    })
-    .bindPopup(`<strong>${label}</strong>${desc}`);
-});
+    const label = marker.link || "Unknown Location";
+    const desc = marker.description ? `<p>${marker.description}</p>` : "";
+
+    L.marker(marker.loc)
+      .addTo(map)
+      .bindTooltip(label, {
+        direction: "top",
+        offset: [0, -10],
+        opacity: 0.95
+      })
+      .bindPopup(`<strong>${label}</strong>${desc}`);
+  });
 })();
 </script>
