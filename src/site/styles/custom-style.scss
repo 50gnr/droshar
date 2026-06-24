@@ -17,7 +17,7 @@ body {
 
 /* Hide Hidden Data section and everything after it */
 
-div:has(> h1[data-heading="Hidden Data"]),
-div:has(> h1[data-heading="Hidden Data"]) ~ div {
-    display: none !important;
+.content h1[id="hidden-data"],
+.content h1[id="hidden-data"] ~ * {
+  display: none !important;
 }
