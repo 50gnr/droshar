@@ -210,3 +210,71 @@ Aketsu distrusts organizations that answer to individuals rather than institutio
 
 > “A city survives because someone is willing to make difficult decisions before disaster arrives.”
 
+# Hidden Data
+
+# Role in the Campaign
+
+Aketsu initially appears as:
+- distant authority figure
+- political obstacle
+- stern nationalist
+- representative of In’nali’s worldview
+
+Over time, the party may realize:
+- many of his warnings about instability were accurate
+- he anticipated growing shrine failures
+- he suspected interference surrounding [[Compendium/Lore/Deities/Kaiju/Bakuryō\|Bakuryō]]
+- and he may have already begun preparing In’nali for catastrophe before the floods begin
+
+Whether the players view him as:
+- authoritarian
+- honorable
+- paranoid
+- or tragically burdened
+
+…depends entirely on how the South changes.
+
+---
+
+# DM Notes
+
+## Core Theme
+Aketsu represents:
+> vigilance without manipulation.
+
+Unlike Shōren:
+- he acts openly
+
+Unlike Seiha:
+- he acts decisively
+
+He is the embodiment of:
+- duty
+- burden
+- preparation
+
+---
+
+## Presentation Notes
+- Controlled posture
+- Rarely wastes words
+- Direct eye contact
+- Speaks plainly compared to southern nobility
+- Never appears hurried
+
+Examples:
+- inspecting workers personally
+- standing during entire meetings
+- observing weather during conversation
+- pausing before answering emotional appeals
+
+---
+
+## Inspirations
+- mountain generals
+- ascetic warrior-monks
+- tengu folklore
+- fortress commanders
+- burdened institutional leaders
+
+---

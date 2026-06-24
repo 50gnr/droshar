@@ -162,6 +162,90 @@ Though he rarely speaks of it, he still notices whether it has been maintained p
 > “The mission ends when everyone comes home.”
 
 ---
+# Hidden Data
+
+## The Poison
+
+Very few know the truth.
+
+Official records state only that Daichi was injured during a mission decades ago.
+
+The poison continues to slowly degrade his body and memory.
+
+No known cure exists.
+
+Whether the toxin was:
+- political
+- spiritual
+- yokai in origin
+- or something else entirely
+
+remains unknown.
+
+Even Daichi's memories of the event have become fragmented.
+
+---
+## Role in the Campaign
+
+Daichi serves as:
+
+- mentor
+- sounding board
+- source of old stories
+- occasional bearer of forgotten wisdom
+
+He should never function as a quest giver.
+
+Instead, he exists to provide perspective.
+
+At times he may:
+- recognize symbols others miss
+- recall fragments of forgotten history
+- offer warnings the players only understand much later
+
+His greatest value is not information.
+
+It is experience.
+
+---
+
+## DM Notes
+
+### Core Theme
+
+A legendary operative confronting the reality that time eventually defeats everyone.
+
+---
+
+### Inspirations
+
+- Hattori Hanzō (elder years)
+- Uncle Iroh
+- retired special forces operators
+- old samurai cinema
+
+---
+
+### Presentation Notes
+
+- Speaks slowly
+- Long pauses
+- Occasionally loses his train of thought
+- Sometimes startlingly insightful
+- Never dramatic
+- Never self-important
+
+---
+
+### Important
+
+Daichi should never become helpless.
+
+Even in his weakened state, players should occasionally be reminded:
+
+> This man survived things they cannot imagine.
+
+---
 
 > [!column|flex 3]
 >> [!important]- QUESTS:
