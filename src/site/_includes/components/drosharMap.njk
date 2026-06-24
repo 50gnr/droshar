@@ -1,18 +1,49 @@
 <style>
-  html, body {
-    margin: 0;
-  }
+  html, body { margin: 0; }
 
   #map {
+    height: 75vh;
+    width: 100%;
+    border-radius: 8px;
     background: #151515;
   }
 
   .leaflet-container {
     background: transparent;
   }
+
+  .droshar-pin span {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: #d8b35a;
+    border: 2px solid #1f1a12;
+    box-shadow: 0 0 8px rgba(0,0,0,.65);
+  }
+
+  .droshar-pin-region span {
+    background: #b9493f;
+  }
+
+  .droshar-pin-city span {
+    background: #d8b35a;
+  }
+
+  .droshar-pin-town span {
+    background: #b8c76a;
+  }
+
+  .droshar-pin-village span {
+    background: #7bb37a;
+  }
+
+  .droshar-pin-poi span {
+    background: #8fa7c9;
+  }
 </style>
 
-<div id="map" style="height:75vh;width:100%;border-radius:8px;"></div>
+<div id="map"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -33,34 +64,72 @@
   L.imageOverlay("/img/Droshar.jpg", bounds).addTo(map);
   map.fitBounds(bounds);
 
-  const drosharMap = data.mapMarkers.find(
-    m => m.id === "Droshar"
-  );
+  const drosharMap = data.mapMarkers.find(m => m.id === "Droshar");
+  const rawMarkers = drosharMap?.markers || [];
 
-  const markers = drosharMap?.markers || [];
-  console.log("Droshar markers:", markers.length);
+  console.log("Droshar markers:", rawMarkers.length);
 
- markers.forEach(marker => {
-  if (!marker.loc || !marker.link) return;
+  const sizes = {
+    region: 28,
+    city: 22,
+    town: 18,
+    village: 16,
+    poi: 12,
+    default: 14
+  };
 
-  const label = marker.link || "Unknown Location";
-  const desc = marker.description ? `<p>${marker.description}</p>` : "";
-  const searchUrl = `/?q=${encodeURIComponent(label)}`;
+  function shouldShowAtZoom(markerData, zoom) {
+    const min = markerData.minZoom ?? -999;
+    const max = markerData.maxZoom ?? 999;
+    return zoom >= min && zoom <= max;
+  }
 
-  const popup = `
-    <strong>${label}</strong><br>
-    <a href="${searchUrl}" target="_top">Search note</a>
-    ${desc}
-  `;
+  const markerEntries = rawMarkers
+    .filter(marker => marker.loc && marker.link)
+    .map(markerData => {
+      const label = markerData.link || "Unknown Location";
+      const desc = markerData.description ? `<p>${markerData.description}</p>` : "";
+      const searchUrl = `/?q=${encodeURIComponent(label)}`;
+      const type = (markerData.type || "default").toLowerCase();
+      const pinSize = sizes[type] || sizes.default;
 
-  L.marker(marker.loc)
-    .addTo(map)
-    .bindTooltip(label, {
-      direction: "top",
-      offset: [0, -10],
-      opacity: 0.95
-    })
-    .bindPopup(popup);
-});
+      const icon = L.divIcon({
+        className: `droshar-pin droshar-pin-${type}`,
+        html: `<span></span>`,
+        iconSize: [pinSize, pinSize],
+        iconAnchor: [pinSize / 2, pinSize / 2]
+      });
+
+      const popup = `
+        <strong>${label}</strong><br>
+        <a href="${searchUrl}" target="_top">Search note</a>
+        ${desc}
+      `;
+
+      const leafletMarker = L.marker(markerData.loc, { icon })
+        .bindTooltip(label, {
+          direction: "top",
+          offset: [0, -10],
+          opacity: 0.95
+        })
+        .bindPopup(popup);
+
+      return { data: markerData, marker: leafletMarker };
+    });
+
+  function updateMarkerVisibility() {
+    const zoom = map.getZoom();
+
+    markerEntries.forEach(entry => {
+      if (shouldShowAtZoom(entry.data, zoom)) {
+        if (!map.hasLayer(entry.marker)) entry.marker.addTo(map);
+      } else {
+        if (map.hasLayer(entry.marker)) map.removeLayer(entry.marker);
+      }
+    });
+  }
+
+  map.on("zoomend", updateMarkerVisibility);
+  updateMarkerVisibility();
 })();
 </script>
