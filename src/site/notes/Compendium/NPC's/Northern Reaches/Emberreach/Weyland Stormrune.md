@@ -3,7 +3,7 @@
 ---
 
 ###### Weyland Stormrune
-<span class="sub2">:FasMapLocationDot: [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Ashen Lodge\|Ashen Lodge]] [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Titan's Pyre/Titan's Pyre\|Titan's Pyre]] </span>
+<span class="sub2">:FasMapLocationDot: [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Ashen Lodge\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Ashen Lodge]] [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Titan's Pyre/Titan's Pyre\|Titan's Pyre]] </span>
 ___
 
 > [!infobox|no-t right]
@@ -24,7 +24,7 @@ ___
 ---
 
 ## Overview
-Weyland Stormrune is the **Guildmaster of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Ashen Lodge\|Ashen Lodge]]** in [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], a man defined by discipline, endurance, and silence. Broad-shouldered and silver-haired, he carries himself with the weight of battles fought long ago, though he speaks little of them. His presence commands respect not through charm or titles, but through the sheer gravity of his gaze.  
+Weyland Stormrune is the **Guildmaster of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Ashen Lodge\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Ashen Lodge]]** in [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], a man defined by discipline, endurance, and silence. Broad-shouldered and silver-haired, he carries himself with the weight of battles fought long ago, though he speaks little of them. His presence commands respect not through charm or titles, but through the sheer gravity of his gaze.  
 
 He is a mentor, taskmaster, and sentinel all at once — shaping Emberreach’s hunters not into heroes, but into survivors.  
 
