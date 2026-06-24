@@ -11,3 +11,13 @@ body {
     //   color: black;
     //  }
 }
+/* =======================================================
+   DROSHAR CUSTOM CSS
+   ======================================================= */
+
+/* Hide Hidden Data section and everything after it */
+
+div:has(> h1[data-heading="Hidden Data"]),
+div:has(> h1[data-heading="Hidden Data"]) ~ div {
+    display: none !important;
+}
