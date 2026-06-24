@@ -3,8 +3,8 @@
 ---
 
 
-# Droshar Atlas
-
-<iframe src="/atlas/" style="width:100%; height:800px; border:none; border-radius:8px;"></iframe>
+<meta http-equiv="refresh" content="0; url=/atlas/">
 
 [Open the Interactive Droshar Map](/atlas/)
+
+<a href="/atlas/" style="font-size:1.25rem;">🗺️ Open Interactive Atlas</a>
