@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Web-Home.md","permalink":"/web-home/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"0-Atlas/Web-Home.md","permalink":"/0-atlas/web-home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 

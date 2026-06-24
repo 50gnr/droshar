@@ -50,7 +50,7 @@ Where their remains lie, the land itself bends, mutates, and breathes with stran
 ### **Ignovar, the Ember-Heart**
 - **Domain:** Fire, magma, and creation through destruction.  
 - **Form:** A burning colossus, heart blazing with molten core.  
-- **Fate:** His fall carved the southern volcanic ridges near [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]].  
+- **Fate:** His fall carved the southern volcanic ridges near [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]].  
 - **Legacy:** Black glass plains, ember-veined mountains, and flame elementals trace their origin to his corpse.  
 
 ---

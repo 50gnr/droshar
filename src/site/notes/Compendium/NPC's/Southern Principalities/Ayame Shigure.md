@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Ayame Shigure.md","permalink":"/3-npc-s/southern-principalities/ayame-shigure/","tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"aliases":["Ayame","Mother Shigure","Keeper of the Compound"],"cover":"[[Ayame Shigure.png]]","DM_file":"[[Ayame Shigure - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Ayame Shigure.md","permalink":"/3-npc-s/southern-principalities/ayame-shigure/","tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","shigure-family","quartermaster"],"aliases":["Ayame","Mother Shigure","Keeper of the Compound"],"cover":"[[Ayame Shigure.png]]","DM_file":"[[Ayame Shigure - DM]]"}}
 ---
 
 
@@ -17,7 +17,7 @@
 > Role | Keeper of the Shigure Compound
 > Affiliation | [[Shigure Family\|Shigure Family]], [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]]
 > Age | Elderly
-> Residence | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]]
+> Residence | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound]]
 > Status | Active
 >
 > ###### Traits
@@ -32,7 +32,7 @@
 
 ## Overview
 
-Ayame Shigure is the heart of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Shigure Compound]].
+Ayame Shigure is the heart of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound]].
 
 If Daichi is the compound's history, Ayame is its present.
 
