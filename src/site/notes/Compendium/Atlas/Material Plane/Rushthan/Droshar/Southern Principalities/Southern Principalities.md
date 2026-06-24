@@ -197,6 +197,6 @@ They have never said this aloud in the same room.
 > >     name: Session Notes
 > >     filters:
 > >       and:
-> >         - file.inFolder("Session Notes")
+> >         - file.inFolder("Session Notes/C2 Southern Principalities/Recap")
 > >         - file.hasLink(this.file)
 > > ```

@@ -209,6 +209,18 @@ Not everyone does.
 
 ---
 
+## Quotes
+
+> "The gates are open. Come inside."
+
+> "A mission starts with preparation and ends with coming home."
+
+> "The forest keeps many secrets. This is one of the kinder ones."
+
+---
+
+# Hidden Data
+
 ## DM Notes
 
 ### Themes
@@ -233,15 +245,7 @@ No matter how dangerous the campaign becomes, returning here should feel like st
 
 ---
 
-## Quotes
 
-> "The gates are open. Come inside."
-
-> "A mission starts with preparation and ends with coming home."
-
-> "The forest keeps many secrets. This is one of the kinder ones."
-
----
 
 ![Shigure Compound Decr.png](/img/user/Assets/Images/SP/Shigure%20Compound%20Decr.png)
 
@@ -272,6 +276,6 @@ No matter how dangerous the campaign becomes, returning here should feel like st
 > >     name: Session Notes
 > >     filters:
 > >       and:
-> >         - file.inFolder("Session Notes")
+> >         - file.inFolder("Session Notes/C2 Southern Principalities/Recap")
 > >         - file.hasLink(this.file)
 > > ```

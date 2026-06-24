@@ -108,6 +108,6 @@ Bardune sees In’nali as **reckless but necessary**—people who _force answers
 > >     name: Session Notes
 > >     filters:
 > >       and:
-> >         - file.inFolder("Session Notes")
+> >         - file.inFolder("Session Notes/C2 Southern Principalities/Recap")
 > >         - file.hasLink(this.file)
 > > ```
