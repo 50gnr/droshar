@@ -40,15 +40,16 @@
 
     const label = marker.link || "Unknown Location";
     const desc = marker.description ? `<p>${marker.description}</p>` : "";
+    const searchUrl = `/?q=${encodeURIComponent(label)}`;
 
-    L.marker(marker.loc)
-      .addTo(map)
-      .bindTooltip(label, {
-        direction: "top",
-        offset: [0, -10],
-        opacity: 0.95
-      })
-      .bindPopup(`<strong>${label}</strong>${desc}`);
+L.marker(marker.loc)
+  .addTo(map)
+  .bindTooltip(label, {
+    direction: "top",
+    offset: [0, -10],
+    opacity: 0.95
+  })
+  .bindPopup(`<strong>${label}</strong><br><a href="${searchUrl}">Open note</a>${desc}`);
   });
 })();
 </script>
