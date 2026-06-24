@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/In'nali.md","permalink":"/1-droshar/southern-principalities/in-nali/","tags":["location/city"],"dg-note-properties":{"type":"locale","locations":["[[Southern Principalities]]"],"tags":["location/city"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/In'nali.md","permalink":"/1-droshar/southern-principalities/in-nali/","tags":["location/city"],"dg-note-properties":{"type":"locale","locations":["[[Southern Principalities]]"],"tags":["location/city"],"aliases":["In'nali"]}}
 ---
 
 

@@ -10,7 +10,7 @@
 >  _“The South endures not because it is strong—but because it is dangerous to rule.”_
 
 
-- **Centers:** [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]], [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali]]
+- **Centers:** [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]], [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]]
     
 - **Identity:**  
     A chain of ancient principalities nestled among bamboo valleys, mist-choked mountains, and fractured coastlines. These lands predate the Empire and were never fully conquered—only _contained_. Power here is local, ritualized, and deeply entangled with place. Authority flows through oaths, bloodlines, monasteries, and traditions whose original purposes are half-forgotten.
