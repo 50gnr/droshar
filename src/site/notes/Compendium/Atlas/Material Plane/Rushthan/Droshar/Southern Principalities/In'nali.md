@@ -3,7 +3,7 @@
 ---
 
 
-![in'nali.png](/img/user/Assets/Maps/In'nali/in'nali.png)
+![IN`NALI-td.png](/img/user/Assets/Images/Maps/In'nali/IN%60NALI-td.png)
 # In'nali
 
 

@@ -3,7 +3,7 @@
 ---
 
 > [!infobox|no-t right]
-> ![lotus choir.png](/img/user/Assets/Images/SP/lotus%20choir.png)
+> ![lotus choir.png](/img/user/Assets/Images/SP-Scene/lotus%20choir.png)
 
 # The Lotus Choir
 

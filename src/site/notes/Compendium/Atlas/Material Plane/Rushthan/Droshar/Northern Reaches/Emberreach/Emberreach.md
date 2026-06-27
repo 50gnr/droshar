@@ -3,7 +3,7 @@
 ---
 
 
-![Emberreach.webp\|banner](/img/user/Assets/Images/Location/Emberreach.webp)
+![Emberreach.webp\|banner](/img/user/Assets/Images/Maps/Emberreach.webp)
 ###### Emberreach
 <span class="sub2"></span>
 ___
@@ -79,7 +79,7 @@ ___
 
 ```leaflet  
 id: MapCalcExample ### Must be unique with no spaces  
-image: [Emberreach.webp](/img/user/Assets/Images/Location/Emberreach.webp) ### Link to the map image file. Do not add a ! in front of the image  
+image: [Emberreach.webp](/img/user/Assets/Images/Maps/Emberreach.webp) ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [5376, 9472]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 700 ### Size of the leaflet embed in px on your screen  
 width: 95% ### Size of the leaflet embed in your note  

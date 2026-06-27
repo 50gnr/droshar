@@ -7,7 +7,7 @@
 
 > [!infobox|no-t right]
 > # Aketsu Blackwing
-> ![Aketsu Blackwing.png](/img/user/Assets/Images/SP/SP%20NPC's/Aketsu%20Blackwing.png)]
+> ![Aketsu Blackwing.png](/img/user/Assets/Images/NPC/Aketsu%20Blackwing.png)]
 > ###### Basic Information
 > Type | Detail
 > ---|---

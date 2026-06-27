@@ -3,7 +3,7 @@
 ---
 
 
-![bardune.png](/img/user/Assets/Maps/Bardune/bardune.png)
+![bardune.png](/img/user/Assets/Images/Maps/Bardune/bardune.png)
 # Bardune
 
 

@@ -7,7 +7,7 @@
 
 > [!infobox|no-t right]
 > # Seiha Riverlily
-> ![Seiha Riverlily.png](/img/user/Assets/Images/SP/SP%20NPC's/Seiha%20Riverlily.png)
+> ![Seiha Riverlily.png](/img/user/Assets/Images/NPC/Seiha%20Riverlily.png)
 > ###### Basic Information
 > Type | Detail
 > ---|---

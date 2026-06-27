@@ -7,7 +7,7 @@
 
 > [!infobox|no-t right]
 > # Shōren Vale
-> ![Shoren Vale.png](/img/user/Assets/Images/SP/SP%20NPC's/Shoren%20Vale.png)
+> ![Shoren Vale.png](/img/user/Assets/Images/NPC/Shoren%20Vale.png)
 > ###### Basic Information
 > Type | Detail
 > ---|---
