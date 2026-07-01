@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** Before winter descends, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] casts weakness into the flames — both symbolic and practical. Broken tools, cracked weapons, and ruined charms are burned at the [[Titan’s Pyre\|Titan’s Pyre]].
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** Before winter descends, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] casts weakness into the flames — both symbolic and practical. Broken tools, cracked weapons, and ruined charms are burned at the [[Titan’s Pyre\|Titan’s Pyre]].
 
 **Customs.** Each family contributes one thing to burn. Hunters often toss in broken arrows or dulled knives. Apprentices are expected to give something personal — a childhood toy, a worn-out tool — to mark their step into the harsh season.
 

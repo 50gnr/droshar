@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** The frozen river is [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]’s lifeline, and when its ice first cracks in spring, it heralds survival. In old tales, the crack was the voice of river spirits freed from winter’s grip.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** The frozen river is [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]’s lifeline, and when its ice first cracks in spring, it heralds survival. In old tales, the crack was the voice of river spirits freed from winter’s grip.
 
 **Customs.** When the first crack thunders, bells ring across the village. Children throw flowers, carved charms, or tokens into the river to appease the spirits. Hunters interpret the tone of the crack — sharp, soft, late, or early — as omens for the coming season.
 

@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** A celebration of strength and skill, the Ember Games began as a way to test hunters in contests without risking death.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** A celebration of strength and skill, the Ember Games began as a way to test hunters in contests without risking death.
 
 **Customs.** Archery, wrestling, axe-throwing, endurance runs. Wagers are common, and rivalries flare hot. The Lodge views it as practice — the villagers see it as festival.
 

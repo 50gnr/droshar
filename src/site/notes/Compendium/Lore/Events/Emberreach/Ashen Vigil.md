@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg) **Origins.** When the first hunters of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] died in the dawn of winter, their bodies were burned at the [[Titan’s Bones\|Titan’s Bones]], their names carved into bone so they would never be forgotten. The Ashen Vigil is the continuation of this rite — a night to remember the dead and honor the cycle.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg) **Origins.** When the first hunters of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] died in the dawn of winter, their bodies were burned at the [[Titan’s Bones\|Titan’s Bones]], their names carved into bone so they would never be forgotten. The Ashen Vigil is the continuation of this rite — a night to remember the dead and honor the cycle.
 **Customs.** At dusk, families light torches and gather at the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Ashen Lodge/Titan's Pyre/Titan's Pyre\|Titan's Pyre]]. Hunters recite the names of all lost that year, each name pressed into the titan bone. The village stays silent until dawn, save for chanting. Children carry small bone charms to remind them that “the hunt claims all.”
 **Tone.** Somber, reverent. It’s the night [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] feels most bound together. PCs may be asked to carry the ashes of a fallen hunter or carve a name themselves.
 

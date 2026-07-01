@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Daichi Shigure.md","permalink":"/3-npc-s/southern-principalities/daichi-shigure/","tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"aliases":["Daichi","The Silent Wing","Old Crow"],"cover":"[[Daichi Shigure.png]]","DM_file":"[[Daichi Shigure - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Daichi Shigure.md","permalink":"/3-npc-s/southern-principalities/daichi-shigure/","tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tengu","lotus-choir","retired-operative","shigure-family"],"aliases":["Daichi","The Silent Wing","Old Crow"],"cover":"[[Daichi Shigure.png]]","DM_file":"[[Daichi Shigure - DM]]"}}
 ---
 
 
@@ -16,7 +16,7 @@
 > Role | Retired Lotus Operative
 > Affiliation | [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]], [[Shigure Family\|Shigure Family]]
 > Age | Elderly
-> Residence | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound/Shigure Compound]]
+> Residence | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]
 > Status | Retired
 >
 > ###### Traits
@@ -215,8 +215,6 @@ It is experience.
 
 A legendary operative confronting the reality that time eventually defeats everyone.
 
----
-
 ### Inspirations
 
 - Hattori Hanzō (elder years)
@@ -224,7 +222,6 @@ A legendary operative confronting the reality that time eventually defeats every
 - retired special forces operators
 - old samurai cinema
 
----
 
 ### Presentation Notes
 
@@ -235,7 +232,6 @@ A legendary operative confronting the reality that time eventually defeats every
 - Never dramatic
 - Never self-important
 
----
 
 ### Important
 

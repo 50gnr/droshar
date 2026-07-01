@@ -3,7 +3,7 @@
 ---
 
 
-![banner.jpg\|banner](/img/user/Assets/Images/banner.jpg)
+![banner.jpg\|banner](/img/user/Assets/Images/default/banner.jpg)
 # Northern Reaches
 <span class="sub2"></span>
 ___

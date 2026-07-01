@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** Born from desperation during [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]’s first brutal winters, when food was scarce, and survival uncertain. The settlers gathered what little they had and shared it.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** Born from desperation during [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]’s first brutal winters, when food was scarce, and survival uncertain. The settlers gathered what little they had and shared it.
 
 **Customs.** Each household contributes something, no matter how small — a dried root, a strip of jerky, a flask of ale. The feast is meager but meaningful, a promise that no Emberreacher starves alone. Tales of great hunts are told to remind all why they endure.
 

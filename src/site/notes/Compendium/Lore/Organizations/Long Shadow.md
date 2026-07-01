@@ -7,7 +7,7 @@
 
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Lore.** The [[Compendium/NPC's/Salren/Kael Vorrath\|Emperor]]’s reach extends like frost across the land, inevitable and consuming. In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], the Empire is present in whispers, gold, and promises of safety.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Lore.** The [[Compendium/NPC's/Salren/Kael Vorrath\|Emperor]]’s reach extends like frost across the land, inevitable and consuming. In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], the Empire is present in whispers, gold, and promises of safety.
 >
 >**Values.** Dominion, wealth, order under imperial will.  
 >

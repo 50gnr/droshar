@@ -4,7 +4,7 @@
 
 
 # Calendar
-![calendar.webp](/img/user/Assets/Images/calendar.webp)
+![calendar.webp](/img/user/Assets/Images/default/calendar.webp)
 
 ## 📜 The Reckoning of Ash 
 

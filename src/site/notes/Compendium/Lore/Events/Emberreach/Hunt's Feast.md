@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** When crops are harvested and the last great hunts complete, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] feasts to give thanks.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** When crops are harvested and the last great hunts complete, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] feasts to give thanks.
 
 **Customs.** Hunters present trophies in the square. Families share preserved meats, roasted beasts, and rare summer ales. Rival bands compare kills, and apprentices show their worth.
 

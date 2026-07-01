@@ -18,11 +18,11 @@
 > Race | Hanimori  
 > Status | Alive  
 > Age | Old AF  
-> HP | 50 / 71  
-> AC | 80  
-> Passive Perception | 13
+> HP | 135 / 135  
+> AC | 18  
+> Passive Perception | 14
 > Affiliation | [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] 
-> Languages | Celestial,Common,Dwarvish 
+> Languages | Common,Thieves Can't 
 
 ## Overview
 

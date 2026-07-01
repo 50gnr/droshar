@@ -9,7 +9,7 @@
 
 > [!infobox|no-t right]
 > # Shigure Compound
-> ![Shigure Compound.png](/img/user/Assets/Images/SP-Scene/Shigure%20Compound.png)
+> ![Shigure Compound.png](/img/user/Assets/Images/SP-Scene/Shigure/Shigure%20Compound.png)
 > ###### Basic Information
 > Type | Detail
 > ---|---
@@ -247,7 +247,7 @@ No matter how dangerous the campaign becomes, returning here should feel like st
 
 
 
-![Shigure Compound Decr.png](/img/user/Assets/Images/SP-Scene/Shigure%20Compound%20Decr.png)
+![Shigure Compound Decr.png](/img/user/Assets/Images/SP-Scene/Shigure/Shigure%20Compound%20Decr.png)
 
 > [!column|flex 3]
 >> [!important]- QUESTS:

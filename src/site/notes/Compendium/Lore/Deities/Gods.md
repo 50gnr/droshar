@@ -7,7 +7,7 @@
 ___
 
 > [!infobox|no-t right]
-> ![portrait.jpg](/img/user/Assets/Images/portrait.jpg)
+> ![portrait.jpg](/img/user/Assets/Images/default/portrait.jpg)
 > ###### Details:
 > | Type | Stat |
 > | ---- | ---- |

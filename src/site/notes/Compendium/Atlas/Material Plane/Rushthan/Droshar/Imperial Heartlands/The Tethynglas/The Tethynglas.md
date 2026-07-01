@@ -3,7 +3,7 @@
 ---
 
 
-![banner.jpg\|banner](/img/user/Assets/Images/banner.jpg)
+![banner.jpg\|banner](/img/user/Assets/Images/default/banner.jpg)
 ###### The Tethynglas
 <span class="sub2">:FasTree: Forest</span>
 ___

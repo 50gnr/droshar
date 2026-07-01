@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** The equinox marks the balance of night and day — and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] sees it as the start of the hunting season. It is also the traditional graduation rite for apprentices.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** The equinox marks the balance of night and day — and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]] sees it as the start of the hunting season. It is also the traditional graduation rite for apprentices.
 
 **Customs.** Lodge apprentices undertake their first sanctioned monster hunt. Those who succeed carve their sigil into bone. Those who fail return in shame, or not at all.
 

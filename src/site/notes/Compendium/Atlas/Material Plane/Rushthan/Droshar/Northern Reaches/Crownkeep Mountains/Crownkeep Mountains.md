@@ -3,7 +3,7 @@
 ---
 
 
-![banner.jpg\|banner](/img/user/Assets/Images/banner.jpg)
+![banner.jpg\|banner](/img/user/Assets/Images/default/banner.jpg)
 ###### Crownkeep Mountains
 <span class="sub2">:FasMountain: Mountain</span>
 ___

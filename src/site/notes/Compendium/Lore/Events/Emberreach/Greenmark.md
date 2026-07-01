@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** When [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]’s first settlers survived their first spring, they marked their homes with moss and green paint, hoping to invite life back after winter’s grip.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** When [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]’s first settlers survived their first spring, they marked their homes with moss and green paint, hoping to invite life back after winter’s grip.
 
 **Customs.** Families smear moss or green paint over doorframes. Hunters wear willow branches in their hair. Apprentices are often sent to fetch the “first bloom” — a flower that appears deep in the thawing woods — as a test of courage.
 

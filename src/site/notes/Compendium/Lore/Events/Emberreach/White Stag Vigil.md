@@ -8,7 +8,7 @@
 ___
 
 > [!quote|no-t]
->![embed.jpg\|right wm-sm](/img/user/Assets/Images/embed.jpg)**Origins.** The White Stag, said to have led settlers to [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], is seen as a sacred omen. Sightings are rare, and always portentous.
+>![embed.jpg\|right wm-sm](/img/user/Assets/Images/default/embed.jpg)**Origins.** The White Stag, said to have led settlers to [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], is seen as a sacred omen. Sightings are rare, and always portentous.
 
 **Customs.** For a week, villagers hang white banners and keep watch at night. Hunters may set out in pursuit, though the stag is rarely caught. Legends say those who kill it doom [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]], while those who follow it find destiny.
 
