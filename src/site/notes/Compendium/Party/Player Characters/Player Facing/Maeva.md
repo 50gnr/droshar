@@ -31,9 +31,21 @@
 
 
 
-# Description
+## Description
 
-This is the persons description. 
+As a Changeling, Maeva rarely maintains one appearance for long.
+
+Some disguises are practical.
+
+Others are beautiful.
+
+Some exist only because they make a conversation easier.
+
+Regardless of her appearance, she carries herself with quiet confidence and deliberate grace.
+
+Those meeting her for the first time often leave believing they met exactly the person they expected.
+
+---
 
 
 </div></div>
