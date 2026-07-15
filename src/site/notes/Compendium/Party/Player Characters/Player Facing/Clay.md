@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"4-Party/Clay.md","permalink":"/4-party/clay/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Clay Clay Clay]]"}}
+{"dg-publish":true,"dg-path":"4-Party/Clay.md","permalink":"/4-party/clay/","tags":["player","character","party"],"dg-note-properties":{"type":"vercel-character","aliases":null,"tags":["player","character","party"],"source":"[[Compendium/Party/Player Characters/Clay Clay Clay]]"}}
 ---
 
 

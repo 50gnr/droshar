@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Magatsuchi.md","permalink":"/2-lore/deities/kaiju/magatsuchi/","tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"dg-note-properties":{"type":"kaiju","locations":["[Pondermoss Weald]]","[[House of the Forgotten]]"],"tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"aliases":["Magatsuchi","The Remembering Root","Keeper of Forgotten Kings","The Witness Beneath the Leaves"],"cover":"[[Magatsuchi.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Pondermoss%20Weald.md)"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Magatsuchi.md","permalink":"/2-lore/deities/kaiju/magatsuchi/","tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"dg-note-properties":{"type":"kaiju","locations":["[Pondermoss Weald]]","[[House of the Forgotten]]"],"tags":["kaiju","southern-principalities","five-kaiju","memory","history","truth"],"aliases":["Magatsuchi","The Remembering Root","Keeper of Forgotten Kings","The Witness Beneath the Leaves"],"cover":"[[Magatsuchi.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Pondermoss%20Weald/Pondermoss%20Weald.md)"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > ---|---
 > Species | Great Kaiju
 > Status | Active
-> Region | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Pondermoss Weald\|Pondermoss Weald]]
+> Region | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Pondermoss Weald/Pondermoss Weald\|Pondermoss Weald]]
 > Threat | Regional
 > Domain | Memory, History, Truth
 >
@@ -27,7 +27,7 @@
 
 ## Overview
 
-Magatsuchi is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]].
+Magatsuchi is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]].
 
 Unlike the others, Magatsuchi is rarely associated with natural disasters or physical destruction.
 
@@ -57,7 +57,7 @@ No verified account agrees entirely with another.
 
 ## The Pondermoss Weald
 
-Most stories place Magatsuchi within the depths of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Pondermoss Weald\|Pondermoss Weald]].
+Most stories place Magatsuchi within the depths of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Pondermoss Weald/Pondermoss Weald\|Pondermoss Weald]].
 
 The ancient forest is home to countless shrines, forgotten tombs, and overgrown ruins.
 

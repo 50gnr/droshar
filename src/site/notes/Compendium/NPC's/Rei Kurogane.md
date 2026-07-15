@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Rei Kurogane.md","permalink":"/3-npc-s/rei-kurogane/","tags":["npc","haniwa","lotus-choir","shigure-family","apprentice"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]"],"tags":["npc","haniwa","lotus-choir","shigure-family","apprentice"],"aliases":["Rei","Rei Kurogane"],"cover":"[[Rei.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Rei Kurogane.md","permalink":"/3-npc-s/rei-kurogane/","tags":["npc","haniwa","lotus-choir","shigure-family","apprentice"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities (41116)]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]"],"tags":["npc","haniwa","lotus-choir","shigure-family","apprentice"],"aliases":["Rei","Rei Kurogane"],"cover":"[[Rei.png]]"}}
 ---
 
 

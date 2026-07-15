@@ -27,7 +27,7 @@
 
 ## Overview
 
-Imanada is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]].
+Imanada is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]].
 
 Known throughout coastal communities as the Lord of Sea Beasts, Imanada is associated with death, remembrance, and the passage of souls.
 

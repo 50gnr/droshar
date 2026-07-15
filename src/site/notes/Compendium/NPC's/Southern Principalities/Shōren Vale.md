@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Shōren Vale.md","permalink":"/3-npc-s/southern-principalities/shoren-vale/","tags":["npc","kitsune","lotus-choir","mastermind","political","spymaster"],"dg-note-properties":{"type":"npc","locations":["[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]]"],"tags":["npc","kitsune","lotus-choir","mastermind","political","spymaster"],"aliases":["Master of Petitions","The Quiet Fox","Voice of the Lotus","Shōren"],"cover":"[[Shoren Vale.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities.md)","DM_file":"[[Shoren Vale - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Shōren Vale.md","permalink":"/3-npc-s/southern-principalities/shoren-vale/","tags":["npc","kitsune","lotus-choir","mastermind","political","spymaster"],"dg-note-properties":{"type":"npc","locations":["[Southern Principalities (41116)]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]]"],"tags":["npc","kitsune","lotus-choir","mastermind","political","spymaster"],"aliases":["Master of Petitions","The Quiet Fox","Voice of the Lotus","Shōren"],"cover":"[[Shoren Vale.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities%20(41116).md)","DM_file":"[[Shoren Vale - DM]]"}}
 ---
 
 
@@ -15,7 +15,7 @@
 > Class | Rogue (Mastermind) / Bard (College of Whispers)
 > Role | Master of Petitions
 > Age | Unknown
-> Residence | Publicly between [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]]
+> Residence | Publicly between [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]
 > Status | Active
 >
 > ###### Traits
@@ -28,7 +28,7 @@
 
 ## Overview
 
-Shōren Vale is the current **Master of Petitions** within the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]], an administrative office responsible for resolving disputes, trade grievances, shrine conflicts, and matters that fall between the authority of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]].
+Shōren Vale is the current **Master of Petitions** within the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]], an administrative office responsible for resolving disputes, trade grievances, shrine conflicts, and matters that fall between the authority of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]].
 
 The position grants him access to nearly every pressure point in the South.
 
@@ -76,11 +76,11 @@ Among common folk:
 - Some view him as a peacemaker
 - Others believe trouble follows wherever his letters arrive
 
-In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]], he is often regarded with suspicion.
+In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]], he is often regarded with suspicion.
 
 > “He trims roots and calls it gardening.”
 
-In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]], he is viewed more pragmatically.
+In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]], he is viewed more pragmatically.
 
 > “Peace survives because men like him dirty their hands.”
 
@@ -378,7 +378,7 @@ The disaster is deliberate.
 
 ## Arc II — The Fracture
 
-The theft and staging of a sacred relic deepens distrust between [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]].
+The theft and staging of a sacred relic deepens distrust between [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]].
 
 The cities prove they cannot trust one another.
 

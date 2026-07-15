@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Nomi.md","permalink":"/2-lore/deities/kaiju/nomi/","tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"dg-note-properties":{"type":"kaiju","locations":["[Tofuoka Hills]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Kihōsō\|Kihōsō]]"],"tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"aliases":["Nomi","The Broodmother","The Sulphur Queen"],"cover":"[[Nomi.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Tofuoka%20Hills.md)"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Nomi.md","permalink":"/2-lore/deities/kaiju/nomi/","tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"dg-note-properties":{"type":"kaiju","locations":["[Tofuoka Hills]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Kihōsō\|Kihōsō]]"],"tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"aliases":["Nomi","The Broodmother","The Sulphur Queen"],"cover":"[[Nomi.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Tofuoka%20Hills/Tofuoka%20Hills.md)"}}
 ---
 
 
@@ -13,7 +13,7 @@
 > ---|---
 > Species | Kabuto Kaiju
 > Status | Active
-> Region | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills\|Tofuoka Hills]]
+> Region | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills\|Tofuoka Hills]]
 > Threat | Regional
 > Domain | Acid, Broods, Sulphur
 >
@@ -27,7 +27,7 @@
 
 ## Overview
 
-Nomi is one of the five known great kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]].
+Nomi is one of the five known great kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]].
 
 Unlike many destructive kaiju, Nomi does not appear motivated by conquest, hunger, or territorial aggression.
 
@@ -35,7 +35,7 @@ Instead, the creature is driven by a singular biological imperative:
 
 **to spawn.**
 
-Recent sightings place Nomi within the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills\|Tofuoka Hills]], where the creature has established a route between deep sulphur deposits and the vast aquifer beneath [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Kihōsō\|Kihōsō]].
+Recent sightings place Nomi within the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills\|Tofuoka Hills]], where the creature has established a route between deep sulphur deposits and the vast aquifer beneath [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Kihōsō\|Kihōsō]].
 
 Though earthquakes initially accompanied its arrival, those disturbances have largely ceased.
 
@@ -59,7 +59,7 @@ When moving through the hills, entire roads can be reshaped beneath its weight.
 
 ## The Water Crisis
 
-The people of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Kihōsō\|Kihōsō]] have long relied on a vast underground aquifer for drinking water.
+The people of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Kihōsō\|Kihōsō]] have long relied on a vast underground aquifer for drinking water.
 
 Since Nomi's arrival, the creature has repeatedly travelled between sulphur deposits and the aquifer itself.
 
@@ -92,7 +92,7 @@ Rather:
 
 > The region happens to be where Nomi intends to raise its young.
 
-This distinction offers little comfort to the people of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Kihōsō\|Kihōsō]].
+This distinction offers little comfort to the people of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Kihōsō\|Kihōsō]].
 
 ---
 

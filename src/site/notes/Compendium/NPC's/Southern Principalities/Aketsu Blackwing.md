@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Aketsu Blackwing.md","permalink":"/3-npc-s/southern-principalities/aketsu-blackwing/","tags":["npc","tengu","innali","high-steward","mountain-court"],"dg-note-properties":{"type":"npc","locations":["[In'nali]]","[[Southern Principalities]]"],"tags":["npc","tengu","innali","high-steward","mountain-court"],"aliases":["Keeper of the Northern Road","The Black Wing Steward","Lord Aketsu"],"cover":"[[Aketsu Blackwing.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/In'nali.md)","DM_file":"[[Aketsu Blackwing - DM]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Aketsu Blackwing.md","permalink":"/3-npc-s/southern-principalities/aketsu-blackwing/","tags":["npc","tengu","innali","high-steward","mountain-court"],"dg-note-properties":{"type":"npc","locations":["[Southern Principalities]]","[[Southern Principalities (41116)]]"],"tags":["npc","tengu","innali","high-steward","mountain-court"],"aliases":["Keeper of the Northern Road","The Black Wing Steward","Lord Aketsu"],"cover":"[[Aketsu Blackwing.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities.md)","DM_file":"[[Aketsu Blackwing - DM]]"}}
 ---
 
 
@@ -12,7 +12,7 @@
 > Type | Detail
 > ---|---
 > Race | Tengu
-> Role | High Steward of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]]
+> Role | High Steward of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]
 > Affiliation | Mountain Court of In’nali
 > Age | Late Middle Age
 > Residence | The Upper Citadel
@@ -31,7 +31,7 @@
 
 # Overview
 
-Aketsu Blackwing serves as the current **High Steward of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]]**, the highest administrative and military authority within the mountain city.
+Aketsu Blackwing serves as the current **High Steward of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]**, the highest administrative and military authority within the mountain city.
 
 To the people of In’nali, Aketsu is not viewed as a ruler in the traditional sense.
 
@@ -85,7 +85,7 @@ hesitation kills cities.
 
 # Public Reputation
 
-Within [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali\|In'nali]], Aketsu is viewed as:
+Within [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]], Aketsu is viewed as:
 - dependable
 - severe
 - incorruptible
@@ -101,7 +101,7 @@ he is sometimes feared.
 
 Aketsu’s loyalty is to In’nali itself — not to noble bloodlines.
 
-In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]], he is often regarded as:
+In [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]], he is often regarded as:
 - inflexible
 - militaristic
 - dangerously pragmatic
@@ -140,7 +140,7 @@ Aketsu takes this duty personally.
 
 ---
 
-# Relationship to [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune\|Bardune]]
+# Relationship to [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]]
 
 Aketsu respects Bardune’s wisdom and endurance,
 but quietly believes the river-city has become:
