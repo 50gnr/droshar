@@ -110,6 +110,8 @@ An open courtyard and practice yard used for:
 
 Many young operatives receive their first lessons here.
 
+Frequently visited by [[Compendium/NPC's/Southern Principalities/Rei Kurogane\|Rei Kurogane]] and [[Compendium/NPC's/Southern Principalities/Kaede Mizuno\|Kaede Mizuno]] the Shigure / Lotus Choir Apprentices.
+
 ---
 
 ### Bathhouse
@@ -121,6 +123,8 @@ A favorite gathering place among residents.
 Conversations held within the baths are traditionally considered private.
 
 Whether that custom is actually respected is another matter entirely.
+
+Home to the [[Compendium/Lore/Creatures/Shigure Kappa\|Shigure Kappa]]!
 
 ---
 

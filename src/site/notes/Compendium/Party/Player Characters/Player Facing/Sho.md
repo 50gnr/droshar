@@ -53,7 +53,7 @@ Rarely appears surprised.
 
 Years of planning have taught him that most disasters begin long before anyone realizes something is wrong.
 
-Despite this discipline, Sho is approachable among his companions. He enjoys quiet evenings with [[Lady Maeva the Chosen\|Lady Maeva the Chosen]], studying old texts, discussing strange theories, or simply sharing a drink after a successful operation.
+Despite this discipline, Sho is approachable among his companions. He enjoys quiet evenings with [[Compendium/Party/Player Characters/Maeva the Chosen\|Maeva the Chosen]], studying old texts, discussing strange theories, or simply sharing a drink after a successful operation.
 
 ---
 
@@ -101,13 +101,13 @@ But it can make surviving one far more likely.
 
 ---
 
-## Relationship to [[Compendium/Party/Player Characters/Maeva the Chosen\|Maeva the Chosen]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Maeva\|Maeva]]
 
 Maeva is Sho's closest companion.
 
 The two have spent nearly a decade serving the Lotus Choir together and share a bond neither fully understands nor feels the need to explain.
 
-Whether discussing impossible theories or relaxing over drinks at [[Sung and Gung\|Sung and Gung]], they are rarely far apart.
+Whether discussing impossible theories or relaxing over drinks at [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Sung & Gung\|Sung & Gung]], they are rarely far apart.
 
 ---
 
