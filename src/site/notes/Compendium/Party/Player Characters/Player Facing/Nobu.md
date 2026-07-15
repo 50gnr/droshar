@@ -102,31 +102,6 @@ _"Children are much harder to fool than adults."_
 
 _"Tea first. Decisions after."_
 
-```ability
-abilities:
-  strength: 10
-  dexterity: 10
-  constitution: 10
-  intelligence: 10
-  wisdom: 10
-  charisma: 10
-
-proficiencies:
-  - intelligence
-  - wisdom
-```
-
-<br>
-
-```skills
-proficiencies:
-  - arcana
-  - deception
-  - history
-  - insight
-  - investigation
-```
-
 
 </div></div>
 

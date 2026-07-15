@@ -5,22 +5,6 @@
 
 # Marika's Menagerie
 
-> [!NOTE] Parent Location
-> `INPUT[inlineListSuggester(optionQuery(#location),optionQuery(#poi),optionQuery(#Category/PointofInterest)):MyContainer]`
-
----
-
-## Quest Info
-
-**Type:** `INPUT[inlineSelect(option(main), option(side), option(world), option(rumor), option(personal)):quest_type]`  
-**Status:** `INPUT[inlineSelect(option(Rumor), option(Not Started), option(In Progress), option(Complete), option(Failed), option(Abandoned)):questStatus]`  
-**Date Obtained:** `INPUT[datePicker:questObtained]`  
-**Quest Giver:** `INPUT[suggester(optionQuery(#Category/People), optionQuery(#npc)):questGiver]`  
-**Quest Location:** `INPUT[suggester(optionQuery(#location), optionQuery(#poi)):questLocationObtained]`  
-**Session Obtained:** `INPUT[suggester(optionQuery(#Category/Journal), optionQuery(#session)):questSessionObtained]`
-
----
-
 ## Operation Goal
 
 Determine whether Marika's Menagerie is merely an extraordinary traveling circus... or something far stranger.
@@ -56,7 +40,7 @@ Others refuse to speak of it at all.
 - The circus is said to disappear as suddenly as it arrives.
 
 ---
-
+# Hidden Data
 ## Current Leads
 
 - [ ] Discover when the Menagerie next appears.
@@ -65,7 +49,6 @@ Others refuse to speak of it at all.
 
 ---
 
-# Hidden Data
 
 ## Truth
 

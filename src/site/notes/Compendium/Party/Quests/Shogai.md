@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Rumors/Shogai.md","permalink":"/2-lore/rumors/shogai/","tags":["Category/Quest","quest/world","rumor","yokai"],"dg-note-properties":{"type":"quest","tags":["Category/Quest","quest/world","rumor","yokai"],"MyContainer":["[Southern Principalities (41116)]]"],"MyCategory":"Folklore","obsidianUIMode":"preview","questObtained":null,"questStatus":"Rumor","questGiver":null,"questLocationObtained":"[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]]","questSessionObtained":null,"questNotes":null,"questLootAvail":null,"questLookEarned":null,"questThreat":"Unknown","questType":"Folklore","NoteIcon":"quest","cover":"[[shogai.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities%20(41116).md)","aliases":["Shogai","Skinwalkers"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Rumors/Shogai.md","permalink":"/2-lore/rumors/shogai/","tags":["Category/Quest","quest/world","rumor","yokai"],"dg-note-properties":{"type":"quest","tags":["Category/Quest","quest/world","rumor","yokai"],"MyContainer":["[[Southern Principalities (41116)]]"],"MyCategory":"Folklore","obsidianUIMode":"preview","questObtained":null,"questStatus":"Rumor","questGiver":null,"questLocationObtained":"[[Southern Principalities (41116)]]","questSessionObtained":null,"questNotes":null,"questLootAvail":null,"questLookEarned":null,"questThreat":"Unknown","questType":"Folklore","NoteIcon":"quest","cover":"[[shogai.png]]","aliases":["Shogai","Skinwalkers"]}}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ## Summary
 
-Reports continue to surface throughout the wilderness of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]] regarding entities known as **Shogai**, more commonly called **Skinwalkers**.
+Reports continue to surface throughout the wilderness of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]] regarding entities known as **Shogai**, more commonly called **Skinwalkers**.
 
 Witnesses claim these creatures imitate people, animals, and familiar voices in order to lure victims away from safety.
 
