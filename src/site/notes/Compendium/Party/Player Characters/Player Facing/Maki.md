@@ -24,7 +24,6 @@
 > Affiliation | [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] 
 > Languages | Common 
 
-## Overview
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
