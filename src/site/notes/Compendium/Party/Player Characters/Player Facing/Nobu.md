@@ -34,7 +34,7 @@
 
 Nobu Shigure serves the Lotus Choir as a Cleaner, specializing in discreetly resolving problems that cannot be left behind. Whether protecting an operative's identity, recovering sensitive information, or ensuring a mission truly ends, he approaches every assignment with quiet professionalism and unwavering discipline.
 
-Raised within the Shigure Compound, Nobu has spent most of his life surrounded by generations of Choir operatives. Duty comes naturally to him, but so does hospitality. Away from assignments, he is an easy companion—welcoming, dependable, and rarely one to seek the spotlight.
+Raised within the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]], Nobu has spent most of his life surrounded by generations of Choir operatives. Duty comes naturally to him, but so does hospitality. Away from assignments, he is an easy companion—welcoming, dependable, and rarely one to seek the spotlight.
 
 ## Description
 
@@ -72,13 +72,13 @@ Nobu believes that discipline is built through ordinary habits rather than extra
 
 Duty gives his work purpose, but kindness reminds him why the work matters.
 
-## Relationship to Maki Maki
+## Relationship to [[Compendium/Party/Player Characters/Maki Maki\|Maki Maki]]
 
 Nobu has worked alongside Maki Maki more than anyone else on the team. As a Cleaner, his assignments have a habit of intersecting with the minister's work often enough that the two have developed an easy professional rapport.
 
 Experience has also taught Nobu that when Maki's name appears in a briefing, it is wise to leave a little extra room in the schedule.
 
-## Relationship to the Lotus Choir
+## Relationship to the [[Compendium/Lore/Organizations/The Lotus Choir\|Lotus Choir]]
 
 Born into a family that has served the Choir for generations, Nobu has never known another life. He believes deeply in its purpose and trusts the judgment of those who lead it, carrying out his duties with quiet conviction.
 

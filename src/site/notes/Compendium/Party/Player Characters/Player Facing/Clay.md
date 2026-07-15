@@ -31,9 +31,15 @@
 
 
 
-# Description
+## Description
 
-This is the persons description. 
+Clay is a towering Haniwa formed from hardened earth and weathered clay. His body carries the marks of long service: repaired cracks, worn surfaces, old impacts, and careful restoration layered across more than a hundred years of assignments.
+
+His most recognizable possession is an enormous **ōdzutsu hand cannon**, powerful enough to break fortified positions from a distance and heavy enough to serve as a brutal club when enemies close the gap.
+
+Despite his size and destructive equipment, Clay moves with surprising control. Years of infiltration work have taught him when to remain unseen, when to wait, and when restraint has stopped being useful.
+
+---
 
 
 </div></div>
