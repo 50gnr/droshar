@@ -29,157 +29,124 @@
 
 
 
+# Overview
 
-# ShoSlovak Trogaro
+ShoSlovak Trogaro serves the [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] as the principal planner behind many of its operations. While others execute the mission, Sho is usually the one who has already considered a dozen ways it might fail—and prepared for each of them.
 
+For nearly ten years he has worked alongside the Choir, helping guide political change, gathering intelligence, and ensuring every assignment begins with the best possible chance of success.
 
-> [!infobox|no-t right]
-> ![Assets/Images/Party/ShoSlovak Trogaro.png\|ShoSlovak Trogaro.png](/img/user/Assets/Images/Party/ShoSlovak%20Trogaro.png)
-> ###### Details:
-> | Type | Stat |
-> | ---- | ---- |
-> | :FasCrown: Level   | 10 |
-> | :RiSwordFill: Class |  Warlock|
-> | :FasUserShield: Archetype |  `=this.char_subclass`|
-> |  :FasUserGroup: Race |  Human|
-> | :FasArrowsUpDownLeftRight: HP | `=this.hp`
+Those closest to him know that preparation is more than a habit.
 
+For Sho...
 
-```badges
-items:
-  - label: Spell Save
-    value: 14
-  - label: AC
-    value: '{{frontmatter.ac}}'
-  - label: AC (Mage Armor)
-    value: 15
-```
-> [!NOTE|no-title]
-> ~~~meta-bind
-> INPUT[select(
-> option(1, 🤹Abilities+Skills),
-> option(2, ⚔️Inventory),
-> option(3, 🔗Connections),
-> option(4, 🧑‍🤝‍🧑Relationships),
-> class(tabbed)
-> )]
-> ~~~
-> >[!tabbed-box-maxh]
-> > >[!div-m|no-title]
-> > > ![[Compendium/Party/Player Characters/Player Facing/Sho#Skills\|no-h clean]]
-> >
-> > > ![[Compendium/Party/Player Characters/Player Facing/Sho#Inventory\|no-h1 clean]]
-> >
-> > > [!div-m|no-title]
-> > > ![[Compendium/Party/Player Characters/Player Facing/Sho#Connections\|no-h1 clean]]
-> > 
-> > > [!div-m|no-title]
-> > > ![[Compendium/Party/Player Characters/Player Facing/Sho#Relationships\|no-h1 clean]]
+It is survival.
 
+---
 
+## Description
 
-# Description
+Sho is methodical in nearly everything he does. His equipment is meticulously organized, his notes are exhaustive, and every tool has a purpose.
 
-This is the persons description. 
+He rarely appears rushed.
 
-# GM Notes
+Rarely appears surprised.
 
-Make notes of what you need to track in the town here. 
+Years of planning have taught him that most disasters begin long before anyone realizes something is wrong.
 
+Despite this discipline, Sho is approachable among his companions. He enjoys quiet evenings with [[Lady Maeva the Chosen\|Lady Maeva the Chosen]], studying old texts, discussing strange theories, or simply sharing a drink after a successful operation.
 
+---
 
-# Hidden Data
+## Public Reputation
 
-# Skills
+Within the Lotus Choir:
 
-```ability
-abilities:
-  strength: 10
-  dexterity: 10
-  constitution: 10
-  intelligence: 10
-  wisdom: 10
-  charisma: 10
+- operational planner
+- strategist
+- researcher
+- meticulous organizer
+- dependable under pressure
 
-proficiencies:
-  - intelligence
-  - wisdom
-```
+Among companions:
 
-<br>
+Sho is usually the first to ask,
 
-```skills
-proficiencies:
-  - arcana
-  - deception
-  - history
-  - insight
-  - investigation
-```
+> "What happens if this goes wrong?"
 
-# Inventory
+His plans are rarely exciting.
 
-The following items belong to ShoSlovak Trogaro.
+They simply have an irritating tendency to work.
 
-Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
+---
 
+## Personality
 
-# Connections
+Sho believes good planning saves lives.
 
-Is the person linked to any groups or quests?
+He is patient, analytical, and endlessly curious, particularly when confronted with ancient history, forgotten ruins, or unusual magical phenomena.
 
-Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
+He possesses a perfectionist streak that occasionally borders on obsessive. When circumstances escape his carefully prepared plans, he often withdraws to regain his composure before returning with a clear head.
 
-Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
+He is fiercely loyal to those he trusts, though he often expresses that loyalty through preparation rather than words.
 
-# Relationships
+---
 
-List important relationships here.
+## Philosophy
 
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid or unexpected token
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:700894)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:12473:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)</pre>mermaid", "flowchart LR", `Current[${current}]`];
+> _"Hope is not a strategy."_
 
-parents.forEach((p, i) => {
-  lines.push(`P${i}[${label(p)}] --> Current`);
-});
+Preparation cannot prevent every disaster.
 
-partner.forEach((p, i) => {
-  lines.push(`Current --> PT${i}[${label(p)}]`);
-});
+But it can make surviving one far more likely.
 
-children.forEach((c, i) => {
-  lines.push(`Current --> C${i}[${label(c)}]`);
-});
+---
 
-siblings.forEach((s, i) => {
-  lines.push(`Current --> S${i}[${label(s)}]`);
-});
+## Relationship to [[Compendium/Party/Player Characters/Maeva the Chosen\|Maeva the Chosen]]
 
-allies.forEach((a, i) => {
-  lines.push(`Current --> A${i}[${label(a)}]`);
-});
+Maeva is Sho's closest companion.
 
-enemies.forEach((e, i) => {
-  lines.push(`Current --> E${i}[${label(e)}]`);
-});
+The two have spent nearly a decade serving the Lotus Choir together and share a bond neither fully understands nor feels the need to explain.
 
-lines.push("```");
+Whether discussing impossible theories or relaxing over drinks at [[Sung and Gung\|Sung and Gung]], they are rarely far apart.
 
-dv.paragraph(lines.join("\n"));
-```
+---
 
-# Faction Standing
+## Relationship to [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]]
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Faction</span></th><th class="table-view-th"><span>Your Standing</span></th><th class="table-view-th"><span>Benefits</span></th><th class="table-view-th"><span>Primary Contact</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table></div>
+The Lotus Choir gave Sho purpose when he needed it most.
+
+They provided knowledge, direction, and a place where his unusual talents could become useful rather than feared.
+
+He remains deeply committed to the organization, believing its work helps preserve the future he hopes to protect.
+
+---
+
+## Relationship to the Party
+
+Sho helped assemble and plan many of the team's earliest operations.
+
+Although he offers advice freely, he has little interest in commanding others.
+
+His role is to ensure everyone understands the risks before the first step is taken.
+
+The final decision always belongs to the team.
+
+---
+
+## Quotes
+
+> "Let's make the mistake on paper instead."
+
+> "There is always another contingency."
+
+> "Give me ten minutes."
+
+> "That wasn't supposed to happen."
+
+> "We'll need a better plan."
+
+---
+
 
 </div></div>
 
