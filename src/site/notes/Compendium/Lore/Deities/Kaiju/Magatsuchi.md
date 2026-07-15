@@ -27,7 +27,7 @@
 
 ## Overview
 
-Magatsuchi is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]].
+Magatsuchi is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]].
 
 Unlike the others, Magatsuchi is rarely associated with natural disasters or physical destruction.
 

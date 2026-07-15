@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Bardune/Bardune.md","permalink":"/1-droshar/southern-principalities/bardune/bardune/","tags":["location/city"],"dg-note-properties":{"type":"locale","locations":["[[Southern Principalities (41116)]]"],"tags":["location/city"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Bardune/Bardune.md","permalink":"/1-droshar/southern-principalities/bardune/bardune/","tags":["location/city"],"dg-note-properties":{"type":"locale","locations":["[[Southern Principalities]]"],"tags":["location/city"]}}
 ---
 
 

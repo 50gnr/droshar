@@ -27,7 +27,7 @@
 
 ## Overview
 
-Bakuryō is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]]. 
+Bakuryō is one of the Five Great Kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]. 
 
 For centuries she has been regarded as the guardian of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Hakuryū Valley\|Hakuryū River]] and the countless communities that rely upon its waters.
 

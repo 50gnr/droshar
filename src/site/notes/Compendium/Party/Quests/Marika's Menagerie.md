@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Rumors/Marika's Menagerie.md","permalink":"/2-lore/rumors/marika-s-menagerie/","tags":["Category/Quest","quest","rumor"],"dg-note-properties":{"type":"quest","tags":["Category/Quest","quest","rumor"],"MyContainer":["[[Southern Principalities (41116)]]"],"MyCategory":null,"quest_type":"rumor","questObtained":null,"questStatus":"Rumor","questGiver":null,"questLocationObtained":null,"questSessionObtained":null,"questNotes":null,"questLootAvail":null,"questLookEarned":null,"cover":"[[Marika's Menagerie.png]]","obsidianUIMode":"preview"}}
+{"dg-publish":true,"dg-path":"2-Lore/Rumors/Marika's Menagerie.md","permalink":"/2-lore/rumors/marika-s-menagerie/","tags":["Category/Quest","quest","rumor"],"dg-note-properties":{"type":"quest","tags":["Category/Quest","quest","rumor"],"MyContainer":["[[Southern Principalities]]"],"MyCategory":null,"quest_type":"rumor","questObtained":null,"questStatus":"Rumor","questGiver":null,"questLocationObtained":null,"questSessionObtained":null,"questNotes":null,"questLootAvail":null,"questLookEarned":null,"cover":"[[Marika's Menagerie.png]]","obsidianUIMode":"preview"}}
 ---
 
 

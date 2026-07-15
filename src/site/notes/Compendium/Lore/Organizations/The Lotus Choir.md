@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Organizations/The Lotus Choir.md","permalink":"/2-lore/organizations/the-lotus-choir/","tags":["faction"],"dg-note-properties":{"tags":["faction"],"locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]]"],"aliases":["The Choir","Lotus Choir","The Lotus"]}}
+{"dg-publish":true,"dg-path":"2-Lore/Organizations/The Lotus Choir.md","permalink":"/2-lore/organizations/the-lotus-choir/","tags":["faction"],"dg-note-properties":{"tags":["faction"],"locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]"],"aliases":["The Choir","Lotus Choir","The Lotus"]}}
 ---
 
 > [!infobox|no-t right]
@@ -9,7 +9,7 @@
 
 > *"A petition unheard is a problem waiting to grow."*
 
-The **Lotus Choir** is a loose network of petitioners, messengers, investigators, and specialists operating throughout the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]]. While not officially recognized by either [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali]] or [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]], the organization has quietly earned a reputation for solving problems that governments, temples, and local officials cannot—or will not—address.
+The **Lotus Choir** is a loose network of petitioners, messengers, investigators, and specialists operating throughout the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]. While not officially recognized by either [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]] or [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]], the organization has quietly earned a reputation for solving problems that governments, temples, and local officials cannot—or will not—address.
 
 The Choir accepts requests from all levels of society. Farmers, merchants, nobles, monks, and village elders have all been known to seek its aid. Some petitions are simple disputes, while others concern missing persons, dangerous spirits, corruption, or matters too delicate for public attention.
 

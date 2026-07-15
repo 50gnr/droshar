@@ -27,7 +27,7 @@
 
 ## Overview
 
-Nomi is one of the five known great kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities (41116)\|Southern Principalities (41116)]].
+Nomi is one of the five known great kaiju of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]].
 
 Unlike many destructive kaiju, Nomi does not appear motivated by conquest, hunger, or territorial aggression.
 

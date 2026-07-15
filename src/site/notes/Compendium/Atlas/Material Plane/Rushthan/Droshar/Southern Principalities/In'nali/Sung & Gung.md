@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/In'nali/Sung & Gung.md","permalink":"/1-droshar/southern-principalities/in-nali/sung-and-gung/","tags":["location","tavern","social",[["In'nali"]],[["Maeva the Chosen"]]],"dg-note-properties":{"type":"location","location_type":"tavern","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]","[[Southern Principalities (41116)]]"],"tags":["location","tavern","social",[["In'nali"]],[["Maeva the Chosen"]]],"aliases":["Sung & Gung","The Twin Cups"],"cover":"[[Sung and Gung.png\|Sung and Gung.png]]"}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/In'nali/Sung & Gung.md","permalink":"/1-droshar/southern-principalities/in-nali/sung-and-gung/","tags":["location","tavern","social",[["In'nali"]],[["Maeva the Chosen"]]],"dg-note-properties":{"type":"location","location_type":"tavern","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]]"],"tags":["location","tavern","social",[["In'nali"]],[["Maeva the Chosen"]]],"aliases":["Sung & Gung","The Twin Cups"],"cover":"[[Sung and Gung.png\|Sung and Gung.png]]"}}
 ---
 
 

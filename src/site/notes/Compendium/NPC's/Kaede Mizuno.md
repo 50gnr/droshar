@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Kaede Mizuno.md","permalink":"/3-npc-s/kaede-mizuno/","tags":["npc","tanuki","lotus-choir","shigure-family","apprentice"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities (41116)]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tanuki","lotus-choir","shigure-family","apprentice"],"aliases":["Kaede","Kaede Mizuno"],"cover":"[[Kaede.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Kaede Mizuno.md","permalink":"/3-npc-s/kaede-mizuno/","tags":["npc","tanuki","lotus-choir","shigure-family","apprentice"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]"],"tags":["npc","tanuki","lotus-choir","shigure-family","apprentice"],"aliases":["Kaede","Kaede Mizuno"],"cover":"[[Kaede.png]]"}}
 ---
 
 

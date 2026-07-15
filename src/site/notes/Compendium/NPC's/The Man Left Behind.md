@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/The Man Left Behind.md","permalink":"/3-npc-s/the-man-left-behind/","tags":["npc","lotus-choir","former-operative","rival"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities (41116)]]"],"tags":["npc","lotus-choir","former-operative","rival"],"aliases":["The Man Left Behind"],"cover":"[[Image Name.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/The Man Left Behind.md","permalink":"/3-npc-s/the-man-left-behind/","tags":["npc","lotus-choir","former-operative","rival"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]"],"tags":["npc","lotus-choir","former-operative","rival"],"aliases":["The Man Left Behind"],"cover":"[[Image Name.png]]"}}
 ---
 
 
