@@ -108,7 +108,7 @@ Whenever possible, Maki prefers both.
 
 ---
 
-## Relationship to [[Compendium/Party/Player Characters/ShoSlovak Trogaro\|ShoSlovak Trogaro]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Sho\|ShoSlovak Trogaro]]
 
 Sho is the planner.
 
@@ -118,7 +118,7 @@ Where Sho builds the operation, Maki prepares the world around it. The two have 
 
 ---
 
-## Relationship to [[Compendium/Party/Player Characters/Nobumasa Shigure\|Nobumasa Shigure]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Nobu\|Nobumasa Shigure]]
 
 Maki's operations frequently leave Nobu responsible for ensuring every loose end is properly tied.
 
