@@ -178,9 +178,9 @@ The decisions belong to everyone.
 
 ## Known Items
 
-| Known Items                                                                                          |
-| ---------------------------------------------------------------------------------------------------- |
-| [[Locate the Eye Ball\|Locate the Eye Ball]], [[Assets/Templates/Template-Quest\|Template-Quest]] |
+| Known Items |
+| ----------- |
+| \-          |
 
 { .block-language-dataview}
 
