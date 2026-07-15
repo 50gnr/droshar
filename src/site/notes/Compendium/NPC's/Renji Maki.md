@@ -30,7 +30,7 @@
 
 ## Overview
 
-Renji Maki is the older brother of [[Compendium/Party/Player Characters/Maki Maki\|Maki Maki]].
+Renji Maki is the older brother of [[Compendium/Party/Player Characters/Player Facing/Maki\|Maki Maki]].
 
 For many years, most believed Ren had simply disappeared.
 
