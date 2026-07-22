@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Creatures/Shigure Kappa.md","permalink":"/2-lore/creatures/shigure-kappa/","tags":["creature","yokai","kappa","shigure-compound"],"dg-note-properties":{"type":"creature","locations":["[Shigure Compound]]"],"tags":["creature","yokai","kappa","shigure-compound"],"aliases":["Hot Spring Kappa","kappa","Bathhouse Gremlin"],"cover":"[[Kappa.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Shigure%20Compound.md)"}}
+{"dg-publish":true,"dg-path":"2-Lore/Creatures/Shigure Kappa.md","permalink":"/2-lore/creatures/shigure-kappa/","tags":["creature","yokai","kappa","shigure-compound"],"dg-note-properties":{"type":"creature","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Shigure Compound\|Shigure Compound]]"],"tags":["creature","yokai","kappa","shigure-compound"],"aliases":["Hot Spring Kappa","kappa","Bathhouse Gremlin"],"cover":"[[Kappa.png]]"}}
 ---
 
 

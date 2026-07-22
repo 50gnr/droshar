@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Bakuryō.md","permalink":"/2-lore/deities/kaiju/bakuryo/","tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"dg-note-properties":{"type":"kaiju","locations":["[Hakuryū Valley]]","[[Hakuryū River]]"],"tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"aliases":["Bakuryō","The River Dragon","Keeper of the Current","Lady of the Hakuryū"],"cover":"[[Bakuryo.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Hakury%C5%AB%20Valley.md)"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Bakuryō.md","permalink":"/2-lore/deities/kaiju/bakuryo/","tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"dg-note-properties":{"type":"kaiju","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Hakuryū Valley\|Hakuryū Valley]]","[[Hakuryū River]]"],"tags":["kaiju","southern-principalities","five-kaiju","river","balance","water"],"aliases":["Bakuryō","The River Dragon","Keeper of the Current","Lady of the Hakuryū"],"cover":"[[Bakuryo.png]]"}}
 ---
 
 

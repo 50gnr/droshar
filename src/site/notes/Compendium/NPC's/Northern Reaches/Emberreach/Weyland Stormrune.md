@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Weyland Stormrune.md","permalink":"/3-npc-s/northern-reaches/emberreach/weyland-stormrune/","tags":["race/human","affinity/unknown","job/guild leader","quest/giver"],"dg-note-properties":{"type":"npc","locations":["[Emberreach]]"],"tags":["race/human","affinity/unknown","job/guild leader","quest/giver"],"aliases":["weyland","Weyland"],"cover":"[[elias-drexel.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Northern%20Reaches/Emberreach/Emberreach.md)"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Weyland Stormrune.md","permalink":"/3-npc-s/northern-reaches/emberreach/weyland-stormrune/","tags":["race/human","affinity/unknown","job/guild leader","quest/giver"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]"],"tags":["race/human","affinity/unknown","job/guild leader","quest/giver"],"aliases":["weyland","Weyland"],"cover":"[[elias-drexel.png]]"}}
 ---
 
 ###### Weyland Stormrune

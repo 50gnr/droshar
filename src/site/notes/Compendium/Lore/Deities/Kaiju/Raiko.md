@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Raiko.md","permalink":"/2-lore/deities/kaiju/raiko/","tags":["kaiju","southern-principalities","five-kaiju","storm","thunder"],"dg-note-properties":{"type":"kaiju","locations":["[Tetsumine Basin]]","[[Ironspire]]"],"tags":["kaiju","southern-principalities","five-kaiju","storm","thunder"],"aliases":["Raiko","Herald of Storms","The Storm King"],"cover":"[[Raiko.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Tetsumine%20Basin/Tetsumine%20Basin.md)"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Raiko.md","permalink":"/2-lore/deities/kaiju/raiko/","tags":["kaiju","southern-principalities","five-kaiju","storm","thunder"],"dg-note-properties":{"type":"kaiju","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tetsumine Basin/Tetsumine Basin\|Tetsumine Basin]]","[[Ironspire]]"],"tags":["kaiju","southern-principalities","five-kaiju","storm","thunder"],"aliases":["Raiko","Herald of Storms","The Storm King"],"cover":"[[Raiko.png]]"}}
 ---
 
 

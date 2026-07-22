@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Tofuoka Hills/Kihōsō.md","permalink":"/1-droshar/southern-principalities/tofuoka-hills/kihoso/","tags":["location","city","frontier","mining"],"dg-note-properties":{"type":"place","locations":["[Tofuoka Hills]]","[[Southern Principalities]]"],"tags":["location","city","frontier","mining"],"aliases":["Kihōsō"],"cover":"[[Kihoso.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Tofuoka%20Hills/Tofuoka%20Hills.md)"}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Tofuoka Hills/Kihōsō.md","permalink":"/1-droshar/southern-principalities/tofuoka-hills/kihoso/","tags":["location","city","frontier","mining"],"dg-note-properties":{"type":"place","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills\|Tofuoka Hills]]","[[Southern Principalities]]"],"tags":["location","city","frontier","mining"],"aliases":["Kihōsō"],"cover":"[[Kihoso.png]]"}}
 ---
 
 

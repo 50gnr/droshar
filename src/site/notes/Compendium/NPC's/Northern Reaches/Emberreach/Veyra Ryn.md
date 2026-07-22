@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Veyra Ryn.md","permalink":"/3-npc-s/northern-reaches/emberreach/veyra-ryn/","tags":["affinity/unknown","job/trapper","race/dragonborn"],"dg-note-properties":{"type":"npc","locations":["[Emberreach]]"],"tags":["affinity/unknown","job/trapper","race/dragonborn"],"cover":"[[veyra.jpg](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Northern%20Reaches/Emberreach/Emberreach.md)"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Veyra Ryn.md","permalink":"/3-npc-s/northern-reaches/emberreach/veyra-ryn/","tags":["affinity/unknown","job/trapper","race/dragonborn"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]"],"tags":["affinity/unknown","job/trapper","race/dragonborn"],"cover":"[[veyra.jpg]]"}}
 ---
 
 ###### Veyra Ryn

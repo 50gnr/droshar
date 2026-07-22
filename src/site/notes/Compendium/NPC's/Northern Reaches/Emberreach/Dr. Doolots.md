@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Dr. Doolots.md","permalink":"/3-npc-s/northern-reaches/emberreach/dr-doolots/","tags":["npc","scholar","zoologist","brootmother"],"dg-note-properties":{"type":"npc","locations":["[Emberreach]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Imperial Heartlands/The Tethynglas/The Tethynglas\|The Tethynglas]]"],"tags":["npc","scholar","zoologist","brootmother"],"date":"2026-03-03","aliases":[null],"cover":"[[dr doolots.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Northern%20Reaches/Emberreach/Emberreach.md)"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Dr. Doolots.md","permalink":"/3-npc-s/northern-reaches/emberreach/dr-doolots/","tags":["npc","scholar","zoologist","brootmother"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Imperial Heartlands/The Tethynglas/The Tethynglas\|The Tethynglas]]"],"tags":["npc","scholar","zoologist","brootmother"],"date":"2026-03-03","aliases":[null],"cover":"[[dr doolots.png]]"}}
 ---
 
 
