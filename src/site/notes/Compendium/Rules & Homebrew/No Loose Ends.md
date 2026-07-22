@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"5-Rules & Homebrew/No Loose Ends.md","permalink":"/5-rules-and-homebrew/no-loose-ends/","tags":[["Nobu"]],"dg-note-properties":{"tags":[["Nobu"]]}}
+{"dg-publish":true,"dg-path":"5-Rules & Homebrew/No Loose Ends.md","permalink":"/5-rules-and-homebrew/no-loose-ends/","tags":[[["Nobu"]]],"dg-note-properties":{"tags":[[["Nobu"]]]}}
 ---
 
 > **No Loose Ends**

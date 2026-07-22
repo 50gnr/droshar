@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"5-Rules & Homebrew/The Body Remembers.md","permalink":"/5-rules-and-homebrew/the-body-remembers/","tags":[["Clay"]],"dg-note-properties":{"tags":[["Clay"]]}}
+{"dg-publish":true,"dg-path":"5-Rules & Homebrew/The Body Remembers.md","permalink":"/5-rules-and-homebrew/the-body-remembers/","tags":[[["Clay"]]],"dg-note-properties":{"tags":[[["Clay"]]]}}
 ---
 
 
