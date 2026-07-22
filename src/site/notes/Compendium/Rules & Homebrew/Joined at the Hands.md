@@ -4,9 +4,8 @@
 
 
 
-# Feature
 
-> **Joined at the Hands  **
+> **Joined at the Hands**
 >   
 > As a **bonus action**, if Sho and Maeva are within 5 feet of each other, they may press their prosthetic hands together. The two prosthetics seamlessly fuse into a single living construct, linking them for up to *1 minute*. The link ends early if either creature is **incapacitated**, or either creature ends the effect as a **bonus action**.
 > 
