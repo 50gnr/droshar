@@ -4,15 +4,17 @@
 
 > **No Loose Ends**
 > 
-> As a **bonus action**, Nobu designates one creature he can see within 60 feet as his unfinished business. The designation lasts for **1 minute**, until Nobu is **incapacitated**, or until the target drops to 0 hit points.
+> As a **bonus action**, Nobu designates one creature he can see within **60 feet** as his unfinished business. The designation lasts for **1 minute**, until Nobu is **incapacitated**, or until the target drops to **0 hit points**.
 > 
 > While the target is designated:
 > 
-> - Nobu always knows the direction of the target while it is within 60 feet of him, provided it is not behind **total cover**.
-> - The target gains no benefit from **half cover** against Nobu’s attacks.
-> - When the target damages one of Nobu’s allies, Nobu can use his **reaction** to move up to half his Speed toward the target. This movement does not provoke **opportunity attacks** from the designated target.
-> - Nobu has **advantage** on Wisdom checks made to track or locate the target.
-> 
-> Nobu has **disadvantage** on attack rolls against creatures other than the designated target.
+> - Nobu does not need **advantage** on the attack roll or an ally within 5 feet of the target to use **Sneak Attack** against it, provided he does not have **disadvantage** on the attack roll and otherwise uses a weapon eligible for Sneak Attack.
+>     
+> - The target cannot benefit from the **Disengage action** against Nobu.
+>     
+> - When the target makes an attack against a creature other than Nobu, Nobu can use his **reaction** to make one attack against it with his **kusarigama**.
+>     
+> - On a hit with this reaction attack, Nobu can pull the target up to **10 feet toward himself**, provided the target is no more than **one size larger** than him.
+>   
 > 
 > Once Nobu uses this feature, he cannot use it again until he finishes a **short or long rest**.
