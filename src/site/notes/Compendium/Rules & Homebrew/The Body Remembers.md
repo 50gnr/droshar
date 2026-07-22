@@ -3,20 +3,17 @@
 ---
 
 
-
->  **The Body Remembers**
+> **The Body Remembers**
 > 
-> When Clay enters his Rage, he can surrender his conscious control and allow an ancient martial instinct to guide his hands.
+> Clay’s Rage manifests as an unnatural state of **hyper-focus** rather than fury. His body becomes still, his awareness recedes, and forgotten instinct guides Odutzu in his hands.
 > 
-> For the duration of that Rage:
+> While Clay is **Raging**, he gains the following benefits:
 > 
-> - Clay can use **Strength** instead of **Dexterity** for attack and damage rolls made with ranged weapons.
-> - A ranged attack made using **Strength** qualifies for his **Rage** damage bonus.
-> - He can apply **Sneak Attack** to the attack normally, provided he otherwise meets Sneak Attack’s requirements.
-> - Being within 5 feet of a hostile creature does not impose **disadvantage** on his ranged attacks.
+> - Clay can apply his **Rage Damage bonus** to attacks made with **Odutzu using Dexterity**.
+>     
+> - Clay can use **Reckless Attack** with Odutzu, despite the attack being ranged and using Dexterity.
+>     
+> - **Once during each Rage**, after Clay misses with an attack made using Odutzu, he can reroll the attack roll. He must use the new roll.
+>     
 > 
-> However:
-> 
-> - Clay cannot use **Reckless Attack** with these ranged attacks.
-> - His ranged weapon’s normal and long ranges are **halved**.
-> - After Clay makes a ranged attack, his Speed is reduced by 10 feet until the start of his next turn.
+> Whenever Clay uses **Reckless Attack** with Odutzu, attack rolls against him have **advantage** as normal. In addition, until the start of his next turn, Clay has **disadvantage on Dexterity saving throws** and cannot take **reactions**.
