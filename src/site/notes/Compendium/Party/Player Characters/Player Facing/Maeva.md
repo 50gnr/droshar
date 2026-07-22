@@ -164,9 +164,9 @@ Though rarely openly sentimental, she quietly watches over those she considers h
 
 ## Known Items
 
-| Known Items                                |
-| ------------------------------------------ |
-| [[The Chosens Shield\|The Chosens Shield]] |
+| Known Items                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------- |
+| [[The Chosens Shield\|The Chosens Shield]], [[Compendium/Rules & Homebrew/Joined at the Hands\|Joined at the Hands]] |
 
 { .block-language-dataview}
 

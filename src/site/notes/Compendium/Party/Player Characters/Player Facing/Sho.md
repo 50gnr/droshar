@@ -155,9 +155,9 @@ The final decision always belongs to the team.
 
 ## Known Items
 
-| Known Items |
-| ----------- |
-| \-          |
+| Known Items                                                                 |
+| --------------------------------------------------------------------------- |
+| [[Compendium/Rules & Homebrew/Joined at the Hands\|Joined at the Hands]] |
 
 { .block-language-dataview}
 
