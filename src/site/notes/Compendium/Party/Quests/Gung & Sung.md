@@ -106,11 +106,11 @@ Poor results create increasingly visible anomalies:
 **Available:** `INPUT[suggester(optionQuery(#item)):questLootAvail]`  
 **Earned:** `INPUT[suggester(optionQuery(#item)):questLookEarned]`
 
-🤝 [[Compendium/Rules & Homebrew/Reward Palette (Southern Principalities)#Favors\|Free drinks and basement access]]
+🤝 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Favors\|Free drinks and basement access]]
 
-📜 [[Compendium/Rules & Homebrew/Reward Palette (Southern Principalities)#Information (Downtime)\|A clearer understanding of their shared temporal signature]]
+📜 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Information (Downtime)\|A clearer understanding of their shared temporal signature]]
 
-✨ [[Compendium/Rules & Homebrew/Reward Palette (Southern Principalities)#Story Rewards\|A private tradition shared by Sho and Maeva]]
+✨ [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Story Rewards\|A private tradition shared by Sho and Maeva]]
 
 ---
 

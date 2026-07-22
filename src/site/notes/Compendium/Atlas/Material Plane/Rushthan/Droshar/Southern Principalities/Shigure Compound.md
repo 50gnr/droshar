@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Shigure Compound.md","permalink":"/1-droshar/southern-principalities/shigure-compound/","tags":["locale","safehouse","lotus-choir","tengu","home-base"],"dg-note-properties":{"type":"locale","location_type":"compound","locations":["[Southern Principalities]]"],"primary_faction":["[[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]]"],"owners":["[[Shigure Family\|Shigure Family]]"],"residents":["[[Compendium/NPC's/Southern Principalities/Daichi Shigure\|Daichi Shigure]]","[[Compendium/NPC's/Southern Principalities/Ayame Shigure\|Ayame Shigure]]","[[Compendium/Party/Player Characters/Nobumasa Shigure\|Nobu]]"],"aliases":["The Compound","Shigure Estate","The Hidden Nest"],"cover":"[[Shigure Compound.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities.md)","tags":["locale","safehouse","lotus-choir","tengu","home-base"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Shigure Compound.md","permalink":"/1-droshar/southern-principalities/shigure-compound/","tags":["locale","safehouse","lotus-choir","tengu","home-base"],"dg-note-properties":{"type":"locale","location_type":"compound","locations":["[Southern Principalities]]"],"primary_faction":["[[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]]"],"owners":["[[Shigure Family\|Shigure Family]]"],"residents":["[[Compendium/NPC's/Southern Principalities/Daichi Shigure\|Daichi Shigure]]","[[Compendium/NPC's/Southern Principalities/Ayame Shigure\|Ayame Shigure]]","[[Nobumasa Shigure|Nobu]]"],"aliases":["The Compound","Shigure Estate","The Hidden Nest"],"cover":"[[Shigure Compound.png](/img/user/Compendium/Atlas/Material%20Plane/Rushthan/Droshar/Southern%20Principalities/Southern%20Principalities.md)","tags":["locale","safehouse","lotus-choir","tengu","home-base"]}}
 ---
 
 
@@ -85,7 +85,7 @@ Most visitors spend their first evening here sharing a meal.
 
 ---
 
-### The Archive
+### [[Shigure Archive.png\|The Archive]]
 
 A secure records hall maintained jointly by the Shigure family and trusted members of [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]].
 
@@ -114,7 +114,7 @@ Frequently visited by [[Compendium/NPC's/Southern Principalities/Rei Kurogane\|R
 
 ---
 
-### Bathhouse
+### [Hot Springs](/img/user/Assets/Images/SP-Scene/Shigure/Shigure%20baths.png)
 
 Fed by natural geothermal springs.
 
@@ -189,7 +189,10 @@ The location is little more than rumor.
 
 - [[Compendium/NPC's/Southern Principalities/Ayame Shigure\|Ayame Shigure]]
 - [[Compendium/NPC's/Southern Principalities/Daichi Shigure\|Daichi Shigure]]
-- [[Compendium/Party/Player Characters/Nobumasa Shigure\|Nobu]]
+- [[Compendium/Party/Player Characters/Player Facing/Nobu\|Nobu]]
+- [[Compendium/NPC's/Southern Principalities/Rei Kurogane\|Rei Kurogane]]
+- [[Compendium/NPC's/Southern Principalities/Kaede Mizuno\|Kaede Mizuno]]
+- [[Compendium/Lore/Creatures/Shigure Kappa\|Shigure Kappa]]
 
 Over the years, dozens of Choir operatives have considered the compound their home between assignments.
 
