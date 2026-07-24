@@ -189,9 +189,9 @@ Clay maintains the weapon personally and allows very few people to handle it.
 
 ## Known Items
 
-| Known Items |
-| ----------- |
-| \-          |
+| Known Items                                                                        |
+| ---------------------------------------------------------------------------------- |
+| [[Compendium/Rules & Homebrew/Features/The Body Remembers\|The Body Remembers]] |
 
 { .block-language-dataview}
 

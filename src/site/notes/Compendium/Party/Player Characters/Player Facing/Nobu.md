@@ -113,9 +113,9 @@ _"Tea first. Decisions after."_
 
 
 
-| Known Items                                                                   |
-| ----------------------------------------------------------------------------- |
-| [[Compendium/Lore/Objects/The Shigure Kusarigama\|The Shigure Kusarigama]] |
+| Known Items                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Compendium/Lore/Objects/The Shigure Kusarigama\|The Shigure Kusarigama]], [[Compendium/Rules & Homebrew/Features/No Loose Ends\|No Loose Ends]] |
 
 { .block-language-dataview}
 

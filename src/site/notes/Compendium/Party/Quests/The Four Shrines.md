@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Rumors/The Four Shrines.md","permalink":"/2-lore/rumors/the-four-shrines/","tags":["Category/Quest","quest"],"dg-note-properties":{"type":"quest","tags":["Category/Quest","quest"],"MyContainer":["[[The Four Shrines|The Four Shrines]]"],"MyCategory":null,"quest_type":"main","questObtained":null,"questStatus":"Not Started","questGiver":"[[Compendium/NPC's/Southern Principalities/Shōren Vale\|The Quiet Fox]]","questLocationObtained":"[[Shigure Compound]]","questSessionObtained":"[[Session 1 - The Quiet Fox Calls]]","questNotes":null,"questLootAvail":["12,000gp","5-8 Consumables","2r 1vr meaningful items"],"questLookEarned":null,"cover":"[[hakuryu valley regional.png]]","obsidianUIMode":"preview"}}
+{"dg-publish":true,"dg-path":"2-Lore/Rumors/The Four Shrines.md","permalink":"/2-lore/rumors/the-four-shrines/","tags":["Category/Quest","quest"],"dg-note-properties":{"type":"quest","tags":["Category/Quest","quest"],"MyContainer":["[[The Four Shrines|The Four Shrines]]"],"MyCategory":null,"quest_type":"main","questObtained":null,"questStatus":"Not Started","questGiver":"[[Shōren Vale|The Quiet Fox]]","questLocationObtained":"[[Shigure Compound]]","questSessionObtained":"[[Session 1 - The Quiet Fox Calls]]","questNotes":null,"questLootAvail":["12,000gp","5-8 Consumables","2r 1vr meaningful items"],"questLookEarned":null,"cover":"[[hakuryu valley regional.png]]","obsidianUIMode":"preview"}}
 ---
 
 
-# Four Bakuryō Shrines
+# Four Shrines
 
 
 ## Operation Goal
 
-Recover the Four Offerings from the Bakuryō Shrines without drawing unnecessary attention.
+Recover the Four Offerings from the Shrines without drawing unnecessary attention.
 
 ---
 
@@ -24,38 +24,29 @@ Recover the Four Offerings from the Bakuryō Shrines without drawing unnecessary
 >
 > Preserve operational secrecy.
 >
-> Further intelligence has been prepared within the Shigure Archive.
->
-> — [[Compendium/NPC's/Southern Principalities/Shōren Vale\|The Quiet Fox]]
+> — The Quiet Fox
 
 ---
 
 ## Objectives
 
-- [ ] Recover the offering from the [[Prep/Southern Prince C2/Arc 1#Location - Farm\|Farmer's Shrine]]
-- [ ] Recover the offering from the [[Prep/Southern Prince C2/Arc 1#Location - Rapids\|Shrine of the Rapids]]
-- [ ] Recover the offering from the [[Prep/Southern Prince C2/Arc 1#Location - Mirror Lake\|Mirror Lake Shrine]]
-- [ ] Recover the offering from the [[Prep/Southern Prince C2/Arc 1#Location - Falling Clouds\|Monastery of Falling Clouds]]
-- [ ] Return all recovered offerings to [[Compendium/NPC's/Southern Principalities/Shōren Vale\|The Quiet Fox]]
-
+- [ ] Recover the offering from the [Farmer's Shrine](/img/user/Assets/Images/SP-Scene/Shrines/farmer-bp.png)
+- [ ] Recover the offering from the [Shrine of the Rapids](/img/user/Assets/Images/SP-Scene/Shrines/elemental%20shrine-bp.png)
+- [ ] Recover the offering from the [Mirror Lake Shrine](/img/user/Assets/Images/SP-Scene/Shrines/Mirror%20Lake%20Shrine-BP.png)
+- [ ] Recover the offering from the [Monastery of Falling Clouds](/img/user/Assets/Images/SP-Scene/Shrines/Monestary-bp.png)
+- [ ] Return all recovered offerings to The Quiet Fox
+      
 ---
 
 ## Known Details
 
 The Shigure Archive records indicate:
 
-- Four Bakuryō Shrines remain active throughout Hakuryū Valley.
+- Four Shrines spread throughout Hakuryū Valley.
 - Each shrine safeguards a ceremonial offering.
 - The shrines continue to serve nearby communities.
 - Operational secrecy is expected at all times.
 - No explanation has been provided for why these particular shrines were selected.
-
----
-
-## Important NPCs
-
-- [[Compendium/NPC's/Southern Principalities/Shōren Vale\|The Quiet Fox]]
-- Shrine Caretakers (Unknown)
 
 ---
 
@@ -71,8 +62,8 @@ The Shigure Archive records indicate:
 
 ## Current Leads
 
-- [ ] Study the Shigure Archive.
-- [ ] Decide the shrine visitation order.
+- [x] Study the Shigure Archive.
+- [x] Decide the shrine visitation order.
 - [ ] Prepare cover identities.
 - [ ] Gather equipment and supplies.
 - [ ] Develop an operational plan.
