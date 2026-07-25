@@ -86,7 +86,7 @@ They are unknowingly dismantling the valley's oldest safeguard.
 
 ---
 
-## Bakuryō's Purpose
+## Purpose
 
 Each shrine protects one of Bakuryō's Four Offerings.
 
