@@ -31,7 +31,7 @@ Recover the Four Offerings from the Shrines without drawing unnecessary attentio
 ## Objectives
 
 - [ ] Recover the offering from the [Farmer's Shrine](/img/user/Assets/Images/SP-Scene/Shrines/farmer-bp.png)
-- [ ] Recover the offering from the [Shrine of the Rapids](/img/user/Assets/Images/SP-Scene/Shrines/elemental%20shrine-bp.png)
+- [ ] Recover the offering from the [Shrine of the Rapids](/img/user/Assets/Images/SP-Scene/Shrines/elemental%20shrine%20bp.png)
 - [ ] Recover the offering from the [Mirror Lake Shrine](/img/user/Assets/Images/SP-Scene/Shrines/Mirror%20Lake%20Shrine-BP.png)
 - [ ] Recover the offering from the [Monastery of Falling Clouds](/img/user/Assets/Images/SP-Scene/Shrines/Monestary-bp.png)
 - [ ] Return all recovered offerings to The Quiet Fox
