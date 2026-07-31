@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Peeper.md","permalink":"/3-npc-s/northern-reaches/emberreach/peeper/","tags":["affinity/friendly","job/Librarian","race/Aberation"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]","[[Peepers  Library]]"],"tags":["affinity/friendly","job/Librarian","race/Aberation"],"cover":"[[Peeper.jpg]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Peeper.md","permalink":"/3-npc-s/northern-reaches/emberreach/peeper/","tags":["affinity/friendly","job/Librarian","race/Aberation"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Peepers  Library/Peepers  Library]]"],"tags":["affinity/friendly","job/Librarian","race/Aberation"],"cover":"[[Assets/Images/NPC/Peeper.jpg]]"}}
 ---
 
 

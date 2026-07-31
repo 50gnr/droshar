@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Imperial Heartlands/The Tethynglas/The Tethynglas.md","permalink":"/1-droshar/imperial-heartlands/the-tethynglas/the-tethynglas/","tags":["location/forest"],"dg-note-properties":{"type":"locale","locations":["[[Imperial Heartlands]]","[[Northern Reaches]]"],"tags":["location/forest"],"aliases":["The Withering Wood","Withering wood","Tethynglas"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Imperial Heartlands/The Tethynglas/The Tethynglas.md","permalink":"/1-droshar/imperial-heartlands/the-tethynglas/the-tethynglas/","tags":["location/forest"],"dg-note-properties":{"type":"locale","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Imperial Heartlands/Imperial Heartlands]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Northern Reaches]]"],"tags":["location/forest"],"aliases":["The Withering Wood","Withering wood","Tethynglas"]}}
 ---
 
 

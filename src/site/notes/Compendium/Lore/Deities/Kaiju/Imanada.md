@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Imanada.md","permalink":"/2-lore/deities/kaiju/imanada/","tags":["kaiju","southern-principalities","five-kaiju","sea","death","spirits"],"dg-note-properties":{"type":"kaiju","locations":["[[Sea of Songs]]","[[Akibatsu Cove]]","[[Southern Coast]]"],"tags":["kaiju","southern-principalities","five-kaiju","sea","death","spirits"],"aliases":["Imanada","Lord of Sea Beasts","The Tide Shepherd","The Mourning Whale"],"cover":"[[Imanada.png]]"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Imanada.md","permalink":"/2-lore/deities/kaiju/imanada/","tags":["kaiju","southern-principalities","five-kaiju","sea","death","spirits"],"dg-note-properties":{"type":"kaiju","locations":["[[Sea of Songs]]","[[Akibatsu Cove]]","[[Southern Coast]]"],"tags":["kaiju","southern-principalities","five-kaiju","sea","death","spirits"],"aliases":["Imanada","Lord of Sea Beasts","The Tide Shepherd","The Mourning Whale"],"cover":"[[Assets/Images/Lore/Kaiju/Imanada.png]]"}}
 ---
 
 

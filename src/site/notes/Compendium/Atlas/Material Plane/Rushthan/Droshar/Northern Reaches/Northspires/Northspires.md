@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Northern Reaches/Northspires/Northspires.md","permalink":"/1-droshar/northern-reaches/northspires/northspires/","tags":["location/mountain"],"dg-note-properties":{"type":"locale","locations":["[[Northern Reaches]]"],"tags":["location/mountain"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Northern Reaches/Northspires/Northspires.md","permalink":"/1-droshar/northern-reaches/northspires/northspires/","tags":["location/mountain"],"dg-note-properties":{"type":"locale","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Northern Reaches]]"],"tags":["location/mountain"]}}
 ---
 
 

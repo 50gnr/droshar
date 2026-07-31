@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Organizations/Amethyst Moon.md","permalink":"/2-lore/organizations/amethyst-moon/","tags":["organization","biomancy","titan-touched","transformation","faction"],"dg-note-properties":{"type":"organization","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Droshar\|Droshar]]"],"tags":["organization","biomancy","titan-touched","transformation","faction"],"aliases":["Amethyst Moon","The Violet Moon","Moon-Touched"],"cover":"[[amethyst moon.png]]"}}
+{"dg-publish":true,"dg-path":"2-Lore/Organizations/Amethyst Moon.md","permalink":"/2-lore/organizations/amethyst-moon/","tags":["organization","biomancy","titan-touched","transformation","faction"],"dg-note-properties":{"type":"organization","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Droshar]]"],"tags":["organization","biomancy","titan-touched","transformation","faction"],"aliases":["Amethyst Moon","The Violet Moon","Moon-Touched"],"cover":"[[Assets/Images/Lore/lore/amethyst moon.png]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/The Man Left Behind.md","permalink":"/3-npc-s/southern-principalities/the-man-left-behind/","tags":["npc","lotus-choir","former-operative","rival"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]"],"tags":["npc","lotus-choir","former-operative","rival"],"aliases":["The Man Left Behind"],"cover":"[[Image Name.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/The Man Left Behind.md","permalink":"/3-npc-s/southern-principalities/the-man-left-behind/","tags":["npc","lotus-choir","former-operative","rival"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities]]"],"tags":["npc","lotus-choir","former-operative","rival"],"aliases":["The Man Left Behind"],"cover":"[[Image Name.png]]"}}
 ---
 
 

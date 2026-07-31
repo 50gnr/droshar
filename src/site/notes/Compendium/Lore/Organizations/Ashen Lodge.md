@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Organizations/Ashen Lodge.md","permalink":"/2-lore/organizations/ashen-lodge/","dg-note-properties":{"type":"organization","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach\|Emberreach]]"],"tags":null,"aliases":[null]}}
+{"dg-publish":true,"dg-path":"2-Lore/Organizations/Ashen Lodge.md","permalink":"/2-lore/organizations/ashen-lodge/","dg-note-properties":{"type":"organization","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Emberreach]]"],"tags":null,"aliases":[null]}}
 ---
 
 

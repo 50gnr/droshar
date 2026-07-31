@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills.md","permalink":"/1-droshar/southern-principalities/tofuoka-hills/tofuoka-hills/","tags":["location","region","western-frontier"],"dg-note-properties":{"type":"place","locations":["[[Southern Principalities \|Southern Principalities ]]"],"tags":["location","region","western-frontier"],"aliases":["Tofuoka Hills"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills.md","permalink":"/1-droshar/southern-principalities/tofuoka-hills/tofuoka-hills/","tags":["location","region","western-frontier"],"dg-note-properties":{"type":"place","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities]]"],"tags":["location","region","western-frontier"],"aliases":["Tofuoka Hills"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/The Magistrate.md","permalink":"/3-npc-s/southern-principalities/the-magistrate/","tags":[["job/magistrate"]],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]]"],"tags":[["job/magistrate"]],"aliases":[null],"cover":"[[Image Name.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/The Magistrate.md","permalink":"/3-npc-s/southern-principalities/the-magistrate/","tags":[["job/magistrate"]],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune]]"],"tags":[["job/magistrate"]],"aliases":[null],"cover":"[[Image Name.png]]"}}
 ---
 
 

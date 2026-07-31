@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Bombi the Green.md","permalink":"/3-npc-s/northern-reaches/emberreach/bombi-the-green/","tags":[["affinity/friendly"],"job/merchant","race/gnome"],"dg-note-properties":{"type":"npc","locations":["[[Drassig]]"],"tags":[["affinity/friendly"],"job/merchant","race/gnome"],"aliases":[null],"cover":"[[bombi2.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Bombi the Green.md","permalink":"/3-npc-s/northern-reaches/emberreach/bombi-the-green/","tags":[["affinity/friendly"],"job/merchant","race/gnome"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Western Provinces/Drassig/Drassig]]"],"tags":[["affinity/friendly"],"job/merchant","race/gnome"],"aliases":[null],"cover":"[[Assets/Images/NPC/bombi2.png]]"}}
 ---
 
 

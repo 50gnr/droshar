@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Yūsha Village.md","permalink":"/1-droshar/southern-principalities/yusha-village/","tags":["location","settlement","village","coastal"],"dg-note-properties":{"type":"place","locations":["[[Southern Principalities]]"],"tags":["location","settlement","village","coastal"],"aliases":["Yūsha Village","Yusha Village"],"cover":"[[Yusha Village.png]]","Associated_Kaiju":["[[Iminada]]"],"population":300}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Yūsha Village.md","permalink":"/1-droshar/southern-principalities/yusha-village/","tags":["location","settlement","village","coastal"],"dg-note-properties":{"type":"place","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities]]"],"tags":["location","settlement","village","coastal"],"aliases":["Yūsha Village","Yusha Village"],"cover":"[[Yusha Village.png]]","Associated_Kaiju":["[[Iminada]]"],"population":300}}
 ---
 
 

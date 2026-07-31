@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 01 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-01-recap/","title":"The Quiet Fox Calls","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":1,"title":"The Quiet Fox Calls","session_date":"2026-07-23","arc":"Arc I - The River Runs Backward","players":["Clay Clay Clay","Nobumasa Shigure","Lady Maeva","Maki Maki","ShoSlovak Trogaro"],"OneLiner":"A simple retrieval. A clean escape. Tomorrow, the real work begins.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
+{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 01 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-01-recap/","title":"1 - The Quiet Fox Calls","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":1,"title":"1 - The Quiet Fox Calls","session_date":"2026-07-23","arc":"Arc I - The River Runs Backward","players":["Clay Clay Clay","Nobumasa Shigure","Lady Maeva","Maki Maki","ShoSlovak Trogaro"],"OneLiner":"A simple retrieval. A clean escape. Tomorrow, the real work begins.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
 ---
 
 

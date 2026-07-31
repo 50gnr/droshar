@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Hakuryū Valley.md","permalink":"/1-droshar/southern-principalities/hakuryu-valley/","tags":["location/valley"],"dg-note-properties":{"type":"landmark","locations":["[[Southern Principalities]]"],"tags":["location/valley"]}}
+{"dg-publish":true,"dg-path":"1-Droshar/Southern Principalities/Hakuryū Valley.md","permalink":"/1-droshar/southern-principalities/hakuryu-valley/","tags":["location/valley"],"dg-note-properties":{"type":"landmark","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities]]"],"tags":["location/valley"]}}
 ---
 
 ![hakuryu valley regional.png](/img/user/Assets/Images/SP-Scene/hakuryu%20valley%20regional.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Renji Maki.md","permalink":"/3-npc-s/southern-principalities/renji-maki/","tags":["npc","recurring","lotus-choir"],"dg-note-properties":{"type":"npc","locations":["[[Southern Principalities]]"],"tags":["npc","recurring","lotus-choir"],"aliases":["Ren","Renji"],"cover":"[[Renji Maki.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Southern Principalities/Renji Maki.md","permalink":"/3-npc-s/southern-principalities/renji-maki/","tags":["npc","recurring","lotus-choir"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities]]"],"tags":["npc","recurring","lotus-choir"],"aliases":["Ren","Renji"],"cover":"[[Assets/Images/NPC/Renji Maki.png]]"}}
 ---
 
 

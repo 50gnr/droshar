@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Eira Mossroot.md","permalink":"/3-npc-s/northern-reaches/emberreach/eira-mossroot/","tags":["affinity/friendly","job/chef","race/shifter|elf"],"dg-note-properties":{"type":"npc","locations":["[[Mossroot's Hall]]"],"tags":["affinity/friendly","job/chef","race/shifter|elf"],"cover":"[[eira.png]]"}}
+{"dg-publish":true,"dg-path":"3-NPC's/Northern Reaches/Emberreach/Eira Mossroot.md","permalink":"/3-npc-s/northern-reaches/emberreach/eira-mossroot/","tags":["affinity/friendly","job/chef","race/shifter|elf"],"dg-note-properties":{"type":"npc","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Northern Reaches/Emberreach/Mossroot's Hall/Mossroot's Hall]]"],"tags":["affinity/friendly","job/chef","race/shifter|elf"],"cover":"[[Assets/Images/NPC/eira.png]]"}}
 ---
 
 # Eira Mossroot

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Nomi.md","permalink":"/2-lore/deities/kaiju/nomi/","tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"dg-note-properties":{"type":"kaiju","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills\|Tofuoka Hills]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Kihōsō\|Kihōsō]]"],"tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"aliases":["Nomi","The Broodmother","The Sulphur Queen"],"cover":"[[Nomi.png]]"}}
+{"dg-publish":true,"dg-path":"2-Lore/Deities/Kaiju/Nomi.md","permalink":"/2-lore/deities/kaiju/nomi/","tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"dg-note-properties":{"type":"kaiju","locations":["[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Tofuoka Hills]]","[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Tofuoka Hills/Kihōsō]]"],"tags":["kaiju","kabuto","southern-principalities","acid","spawning"],"aliases":["Nomi","The Broodmother","The Sulphur Queen"],"cover":"[[Assets/Images/Lore/Kaiju/nomi.png]]"}}
 ---
 
 
