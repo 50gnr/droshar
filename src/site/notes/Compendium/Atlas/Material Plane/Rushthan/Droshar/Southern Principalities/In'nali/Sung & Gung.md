@@ -158,13 +158,13 @@ A place worth coming home to.
 
 ### Story Opportunities
 
-🤝 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Favors\|Friendly regular]]
+🤝 [[Prep/Refrence/Reward Palette (Southern Principalities)#Favors\|Friendly regular]]
 
-📜 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Information (Downtime)\|Traveler's rumor]]
+📜 [[Prep/Refrence/Reward Palette (Southern Principalities)#Information (Downtime)\|Traveler's rumor]]
 
-💰 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Coin & Valuables\|Friendly wager]]
+💰 [[Prep/Refrence/Reward Palette (Southern Principalities)#Coin & Valuables\|Friendly wager]]
 
-✨ [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Story Rewards\|Unexpected reunion]]
+✨ [[Prep/Refrence/Reward Palette (Southern Principalities)#Story Rewards\|Unexpected reunion]]
 
 ---
 

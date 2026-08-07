@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 03 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-03-recap/","title":"2 - The Rapids Shrine Part 2","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":3,"title":"2 - The Rapids Shrine Part 2","session_date":"2026-08-06","arc":"Arc I - The River Runs Backward","players":["Clay Clay Clay","Nobumasa Shigure","Lady Maeva","Maki Maki","ShoSlovak Trogaro"],"OneLiner":"A simple retrieval. A clean escape. Tomorrow, the real work begins.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
 ---
 
+
+![genpei last stand.png](/img/user/Assets/Images/SP-Scene/genpei%20last%20stand.png)
 # Southern Principalities — Session Record
 
 ## Session 3 — The Rapids Turn Red

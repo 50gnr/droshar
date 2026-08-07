@@ -31,7 +31,7 @@ Recover the Four Offerings from the Shrines without drawing unnecessary attentio
 ## Objectives
 
 - [ ] Recover the offering from the [Farmer's Shrine](/img/user/Assets/Images/SP-Scene/Shrines/farmer-bp.png)
-- [ ] Recover the offering from the [Shrine of the Rapids](/img/user/Assets/Images/SP-Scene/Shrines/elemental%20shrine%20bp.png)
+- [x] Recover the offering from the [Shrine of the Rapids](/img/user/Assets/Images/SP-Scene/Shrines/elemental%20shrine%20bp.png)
 - [ ] Recover the offering from the [Mirror Lake Shrine](/img/user/Assets/Images/SP-Scene/Shrines/Mirror%20Lake%20Shrine-BP.png)
 - [ ] Recover the offering from the [Monastery of Falling Clouds](/img/user/Assets/Images/SP-Scene/Shrines/Monestary-bp.png)
 - [ ] Return all recovered offerings to The Quiet Fox
@@ -53,10 +53,10 @@ The Shigure Archive records indicate:
 ## Important Locations
 
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Hakuryū Valley\|Hakuryū Valley]]
-- [[Prep/Southern Prince C2/Arc 1#Location - Farm\|Farmer's Shrine]]
-- [[Prep/Southern Prince C2/Arc 1#Location - Rapids\|Shrine of the Rapids]]
-- [[Prep/Southern Prince C2/Arc 1#Location - Mirror Lake\|Mirror Lake Shrine]]
-- [[Prep/Southern Prince C2/Arc 1#Location - Falling Clouds\|Monastery of Falling Clouds]]
+- [[Prep/Southern Prince C2/Arc Docs/Arc 1#Location - Farm\|Farmer's Shrine]]
+- [[Prep/Southern Prince C2/Arc Docs/Arc 1#Location - Rapids\|Shrine of the Rapids]]
+- [[Prep/Southern Prince C2/Arc Docs/Arc 1#Location - Mirror Lake\|Mirror Lake Shrine]]
+- [[Prep/Southern Prince C2/Arc Docs/Arc 1#Location - Falling Clouds\|Monastery of Falling Clouds]]
 
 ---
 

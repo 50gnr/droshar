@@ -95,15 +95,15 @@ Not all stories can be true.
 
 ## Potential Rewards
 
-💰 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Coin & Valuables\|Festival prizes]]
+💰 [[Prep/Refrence/Reward Palette (Southern Principalities)#Coin & Valuables\|Festival prizes]]
 
-🧿 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Consumables\|Fortune Charm]]
+🧿 [[Prep/Refrence/Reward Palette (Southern Principalities)#Consumables\|Fortune Charm]]
 
-📜 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Information (Downtime)\|Performer journals]]
+📜 [[Prep/Refrence/Reward Palette (Southern Principalities)#Information (Downtime)\|Performer journals]]
 
-🤝 [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Favors\|Traveling performer contact]]
+🤝 [[Prep/Refrence/Reward Palette (Southern Principalities)#Favors\|Traveling performer contact]]
 
-✨ [[Prep/Southern Prince C2/Reward Palette (Southern Principalities)#Story Rewards\|An invitation to return]]
+✨ [[Prep/Refrence/Reward Palette (Southern Principalities)#Story Rewards\|An invitation to return]]
 
 ---
 
