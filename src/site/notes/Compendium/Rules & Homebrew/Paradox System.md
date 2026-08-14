@@ -17,7 +17,7 @@ For example, you might misplace some valuable information about future lottery r
 ### Temporal Meddling Table
 
 | Paradox Points Gained | Temporal Meddling                                                                                                                                                                                                                    |
-| --------------------- | --------------------------------------------------------------------------------------------------- |
+| ------------- | --------------------------------------------------------------------------------------------------- |
 | **1**                 | Interacting with a past or future version of yourself.                                                                                                                                                                               |
 | **1**                 | Acting upon significant information gathered from outside of your own time, or giving significant information to a creature that wouldn’t otherwise have access to it in its time and is likely to act upon it.                      |
 | **1**                 | Extracting a significant object from the past or future.                                                                                                                                                                             |
