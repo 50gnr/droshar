@@ -3,7 +3,7 @@
 ---
 
 
-![genpei last stand.png](/img/user/Assets/Images/SP-Scene/genpei%20last%20stand.png)
+![farmers scene.png](/img/user/Assets/Images/SP-Scene/Shrines/farmers%20scene.png)
 # Southern Principalities — Session Record
 
 ## Session 4 Recap — The Shrine That Wouldn’t Stay Empty
