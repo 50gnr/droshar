@@ -221,3 +221,19 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 		grid-template-columns: 1fr !important;
 	}
 }
+.dg-columns {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1.25rem;
+	align-items: start;
+}
+
+.dg-column {
+	min-width: 0;
+}
+
+@media (max-width: 800px) {
+	.dg-columns {
+		grid-template-columns: 1fr;
+	}
+}
