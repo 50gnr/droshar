@@ -86,6 +86,8 @@ Items used up through their intended use. Prices reflect practical utility rathe
 | Talisman of Ultimate Evil | 61,440 | Legendary |
 | Universal Solvent | 1,500 / tube | Legendary |
 
+
+# Hidden Data
 **Combat Items**
 
 Items whose primary value is improving damage, survivability, control, or direct combat performance. Add base weapon or armor cost where noted.
