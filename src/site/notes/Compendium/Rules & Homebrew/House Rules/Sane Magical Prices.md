@@ -654,3 +654,157 @@ These items are intentionally kept outside the normal pricing system because the
 | Wand of Wonder | Effects are too random for a stable utility-based price. |
 | Well of Many Worlds | Campaign-defining planar travel is better handled by GM availability than a fixed price. |
 
+## Ryoko's Guide to the Yokai Realms
+
+Prices below use the same utility-based SMP approach as the rest of this document rather than the sourcebook's broad rarity-price defaults. Where a named enchantment can appear on multiple base weapons or armor types, the listed price is the magical surcharge plus the mundane base item's price.
+
+**Ryoko Mundane Equipment**
+
+| Item | Price (gp) | Type |
+| :---- | -----: | :---- |
+| Advanced Prosthesis | 50 | Weapon |
+| Basic Prosthesis | 100 | Loot |
+| Chakram | 10 | Weapon |
+| Claw | 5 | Weapon |
+| Climbing Claw | 75 | Loot |
+| Combat Arm | 150 | Weapon |
+| Fire Charge | 5 | Loot |
+| Firecrackers | 1 | Loot |
+| Grappling Hook | 100 | Loot |
+| Hookshot | 50 | Loot |
+| Kusarigama | 5 | Weapon |
+| Meteor hammer | 3 | Weapon |
+| Nunchaku | 10 | Weapon |
+| Odzutsu | 150 | Weapon |
+| Odzutsu Shot | 0.5 | Consumable |
+| Odzutsu Shot (20) | 10 | Consumable |
+| Parachute | 50 | Loot |
+| Rope dart | 5 | Weapon |
+| Sai | 5 | Weapon |
+| Shuriken | 0.1 | Weapon |
+| Smokebomb | 25 | Consumable |
+| Smokeshot | 90 | Loot |
+| Steelslinger | 125 | Weapon |
+| Streamcutter | 75 | Loot |
+| Tessen | 5 | Weapon |
+| Tonfa | 1 | Weapon |
+| Wartail | 100 | Weapon |
+
+**Ryoko Magic Items**
+
+| Item | Price (gp) | Rarity |
+| :---- | ----- | :---- |
+| All-Terrain Leg (Rare) | 7,500 | Rare |
+| All-Terrain Leg (Uncommon) | 2,500 | Uncommon |
+| All-Terrain Leg (Very Rare) | 18,000 | Very Rare |
+| Armor of the Oni King (Rare) | 10,000 + base item | Rare |
+| Armor of the Oni King (Very Rare) | 30,000 + base item | Very Rare |
+| Blo Staff (Rare) | 6,000 | Rare |
+| Blo Staff (Uncommon) | 2,000 | Uncommon |
+| Blo Staff (Very Rare) | 15,000 | Very Rare |
+| Bonze's Bokken, Wind Ripper (Legendary) | 35,000 + base item | Legendary |
+| Bonze's Bokken, Wind Ripper (Rare) | 6,000 + base item | Rare |
+| Bonze's Bokken, Wind Ripper (Uncommon) | 2,000 + base item | Uncommon |
+| Bonze's Bokken, Wind Ripper (Very Rare) | 16,000 + base item | Very Rare |
+| Courtesan's War Fan (Uncommon) | 4,000 | Uncommon |
+| Courtesan's War Fan (Very Rare) | 18,000 | Very Rare |
+| Demonhunter Kimono (Legendary) | 60,000 | Legendary |
+| Demonhunter Kimono (Rare) | 12,000 | Rare |
+| Demonhunter Kimono (Very Rare) | 30,000 | Very Rare |
+| Draakannon (Rare) | 7,500 | Rare |
+| Draakannon (Uncommon) | 2,500 | Uncommon |
+| Draakannon (Very Rare) | 20,000 | Very Rare |
+| Earthpiercer (Common) | 250 | Common |
+| Earthpiercer (Rare) | 6,000 | Rare |
+| Earthpiercer (Uncommon) | 1,500 | Uncommon |
+| G.R.A.P.P.L.E.R. (Common) | 500 | Common |
+| G.R.A.P.P.L.E.R. (Rare) | 6,000 | Rare |
+| G.R.A.P.P.L.E.R. (Uncommon) | 2,000 | Uncommon |
+| G.R.A.P.P.L.E.R. (Very Rare) | 15,000 | Very Rare |
+| Godspeaker Kimono (Legendary) | 70,000 | Legendary |
+| Godspeaker Kimono (Rare) | 15,000 | Rare |
+| Godspeaker Kimono (Very Rare) | 35,000 | Very Rare |
+| Gofu Hat (Rare) | 1,500 | Rare |
+| Gofu Hat (Very Rare) | 4,000 | Very Rare |
+| Hakuja-to (Rare) | 8,000 + base item | Rare |
+| Hakuja-to (Uncommon) | 2,500 + base item | Uncommon |
+| Hakuja-to (Very Rare) | 20,000 + base item | Very Rare |
+| Hanabi Kicker (Rare) | 7,000 | Rare |
+| Hanabi Kicker (Uncommon) | 2,000 | Uncommon |
+| Hanabi Kicker (Very Rare) | 18,000 | Very Rare |
+| Helping Hand (Rare) | 7,500 | Rare |
+| Helping Hand (Uncommon) | 2,500 | Uncommon |
+| Iron Kasa (Common) | 250 | Common |
+| Iron Kasa (Rare) | 6,000 | Rare |
+| Iron Kasa (Uncommon) | 2,000 | Uncommon |
+| Iron Kasa (Very Rare) | 15,000 | Very Rare |
+| Jaw Breakers (Rare) | 10,000 + base item | Rare |
+| Jaw Breakers (Very Rare) | 25,000 + base item | Very Rare |
+| Jishin, Earth Render (Legendary) | 50,000 + base item | Legendary |
+| Jishin, Earth Render (Rare) | 9,000 + base item | Rare |
+| Jishin, Earth Render (Uncommon) | 3,000 + base item | Uncommon |
+| Jishin, Earth Render (Very Rare) | 24,000 + base item | Very Rare |
+| Kageboshi (Common) | 350 | Common |
+| Kageboshi (Rare) | 8,000 | Rare |
+| Kageboshi (Uncommon) | 2,500 | Uncommon |
+| Kageboshi (Very Rare) | 22,000 | Very Rare |
+| Kanaboom Stick (Rare) | 8,000 | Rare |
+| Kanaboom Stick (Uncommon) | 2,500 | Uncommon |
+| Kanaboom Stick (Very Rare) | 20,000 | Very Rare |
+| Kappa's Aquatic Visage (Rare) | 8,000 | Rare |
+| Kitsune Mask (Rare) | 12,000 | Rare |
+| Kitsune Mask (Uncommon) | 4,000 | Uncommon |
+| Kitsune Mask (Very Rare) | 30,000 | Very Rare |
+| Mask of the Oni (Rare) | 9,000 | Rare |
+| Mask of the Oni (Uncommon) | 3,000 | Uncommon |
+| Mask of the Oni (Very Rare) | 24,000 | Very Rare |
+| Mask of the Tengu (Rare) | 10,000 | Rare |
+| Mask of the Tengu (Very Rare) | 25,000 | Very Rare |
+| Mindcutter (Rare) | 10,000 | Rare |
+| Mindcutter (Uncommon) | 3,000 | Uncommon |
+| Mindcutter (Very Rare) | 25,000 | Very Rare |
+| Needlespitter Karakasa (Uncommon) | 3,000 | Uncommon |
+| Needlespitter Karakasa (Very Rare) | 22,000 | Very Rare |
+| Nekomata Shamisen (Rare) | 15,000 | Rare |
+| Nekomata Shamisen (Uncommon) | 5,000 | Uncommon |
+| Nekomata Shamisen (Very Rare) | 35,000 | Very Rare |
+| Onikiri, Demon Cutter (Legendary) | 65,000 + base item | Legendary |
+| Onikiri, Demon Cutter (Rare) | 12,000 + base item | Rare |
+| Onikiri, Demon Cutter (Uncommon) | 3,500 + base item | Uncommon |
+| Onikiri, Demon Cutter (Very Rare) | 30,000 + base item | Very Rare |
+| Reaper's Kama (Common) | 250 | Common |
+| Reaper's Kama (Rare) | 7,000 | Rare |
+| Reaper's Kama (Uncommon) | 2,000 | Uncommon |
+| Reaper's Kama (Very Rare) | 18,000 | Very Rare |
+| Ryūtō Nunchaku (Rare) | 8,000 | Rare |
+| Ryūtō Nunchaku (Uncommon) | 2,500 | Uncommon |
+| Ryūtō Nunchaku (Very Rare) | 20,000 | Very Rare |
+| Scorpion's Wartail (Rare) | 8,000 | Rare |
+| Scorpion's Wartail (Very Rare) | 22,000 | Very Rare |
+| Shisui, Water Slasher (Legendary) | 55,000 + base item | Legendary |
+| Shisui, Water Slasher (Rare) | 10,000 + base item | Rare |
+| Shisui, Water Slasher (Uncommon) | 3,000 + base item | Uncommon |
+| Shisui, Water Slasher (Very Rare) | 25,000 + base item | Very Rare |
+| Tanuki-zake (Common) | 50 | Common |
+| Tanuki-zake (Uncommon) | 150 | Uncommon |
+| Tanuki-zake (Very Rare) | 1,200 | Very Rare |
+| Terrorasque (Rare) | 12,000 + base item | Rare |
+| Terrorasque (Very Rare) | 30,000 + base item | Very Rare |
+| Wanyūdō's Burden (Rare) | 12,000 | Rare |
+| Wanyūdō's Burden (Very Rare) | 30,000 | Very Rare |
+| Weapon of the Green Tyrant (Legendary) | 45,000 + base item | Legendary |
+| Weapon of the Green Tyrant (Rare) | 9,000 + base item | Rare |
+| Weapon of the Green Tyrant (Uncommon) | 3,000 + base item | Uncommon |
+| Weapon of the Green Tyrant (Very Rare) | 24,000 + base item | Very Rare |
+| Windweaver (Rare) | 9,000 | Rare |
+| Windweaver (Uncommon) | 3,000 | Uncommon |
+| Windweaver (Very Rare) | 22,000 | Very Rare |
+| Wraithclaw (Rare) | 10,000 | Rare |
+| Wraithclaw (Uncommon) | 3,000 | Uncommon |
+| Wraithclaw (Very Rare) | 25,000 | Very Rare |
+| Xyxlwood Bonsai (Rare) | 12,000 | Rare |
+| Xyxlwood Bonsai (Uncommon) | 5,000 | Uncommon |
+| Yukimono (Rare) | 12,000 | Rare |
+| Yukimono (Very Rare) | 30,000 | Very Rare |
+
+> **Variant pricing:** Jaw Breakers are sold as a matched pair; their surcharge is added to the combined mundane price of both weapons. Wyrm's Breath Grenades retain their listed refill costs from the source item; the SMP price above is the reusable device itself.
