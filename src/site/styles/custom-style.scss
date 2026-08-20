@@ -3,32 +3,31 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
+    // background-color: white;
+    // .content {
     //   font-size: 14px;
-    //  }
-    //  h1 {
+    // }
+    // h1 {
     //   color: black;
-    //  }
+    // }
 }
+
 /* =======================================================
    DROSHAR CUSTOM CSS
    ======================================================= */
 
 /* Hide Hidden Data section and everything after it */
-
 .content h1[id="hidden-data"],
 .content h1[id="hidden-data"] ~ * {
-  display: none !important;
+	display: none !important;
 }
 
-/*
-Column callouts snippet for Obsidian
-author: @SlRvb
-https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts.css
-*/
 
-/* Columns */
+/* =======================================================
+   CALLOUT COLUMNS
+   Original snippet by @SlRvb / ITS Theme
+   ======================================================= */
+
 .callout[data-callout*="column"] {
 	--callout-color: var(--text-normal);
 	--callout-icon: layout-dashboard;
@@ -39,48 +38,59 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 	width: auto;
 	padding: 0;
 }
+
 .callout[data-callout*="column"] > .callout-content .callout-content {
 	border: 0;
 }
+
 .callout[data-callout*="column"] > .callout-content {
 	display: grid;
-	grid-template-columns: repeat(var(--columns), 1fr);
+	grid-template-columns: repeat(var(--columns), minmax(0, 1fr));
 	gap: 10px;
 	background: transparent;
 	box-shadow: none;
 	border: 0;
 	padding: 0;
 }
+
 .callout[data-callout*="column"]:is(
-		[data-callout-metadata~="slim-margins"],
-		[data-callout-metadata~="s-mg"]
-	)
-	> .callout-content {
+	[data-callout-metadata~="slim-margins"],
+	[data-callout-metadata~="s-mg"]
+) > .callout-content {
 	gap: 2px;
 }
-.callout[data-callout*="column"][data-callout-metadata~="3"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="3"] > .callout-content {
 	--columns: 3;
 }
-.callout[data-callout*="column"][data-callout-metadata~="4"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="4"] > .callout-content {
 	--columns: 4;
 }
-.callout[data-callout*="column"][data-callout-metadata~="5"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="5"] > .callout-content {
 	--columns: 5;
 }
-.callout[data-callout*="column"][data-callout-metadata~="6"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="6"] > .callout-content {
 	--columns: 6;
 }
-.callout[data-callout*="column"][data-callout-metadata~="7"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="7"] > .callout-content {
 	--columns: 7;
 }
-.callout[data-callout*="column"][data-callout-metadata~="8"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="8"] > .callout-content {
 	--columns: 8;
 }
-.callout[data-callout*="column"][data-callout-metadata~="9"] .callout-content {
+
+.callout[data-callout*="column"][data-callout-metadata~="9"] > .callout-content {
 	--columns: 9;
 }
-.callout[data-callout*="column"][data-callout-metadata~="flex"]
-	> .callout-content {
+
+
+/* Flex columns */
+.callout[data-callout*="column"][data-callout-metadata~="flex"] > .callout-content {
 	gap: 5px;
 	grid-template-columns: none;
 	display: flex;
@@ -88,56 +98,71 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 	flex-wrap: wrap;
 	margin-top: 0;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"]
 	> .callout-content
 	.callout {
 	flex: 1 1 calc(var(--file-line-width) / 2.5);
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="3"]
 	> .callout-content
 	.callout {
 	flex: 1 1 calc(var(--file-line-width) / 3.5);
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="resize"]
 	.callout {
 	flex: 1 1 auto;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="resize"]
 	.callout[data-callout-metadata~="wmicro"] {
 	width: 5%;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="resize"]
 	.callout[data-callout-metadata~="wtiny"] {
 	width: 10%;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="resize"]
 	.callout[data-callout-metadata~="wsmall"] {
 	width: 20%;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="resize"]
 	.callout[data-callout-metadata~="ws-med"] {
 	width: 30%;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="flex"][data-callout-metadata~="resize"]
 	.callout[data-callout-metadata~="wmed"] {
 	width: 40%;
 }
-.callout[data-callout*="column"][data-callout-metadata~="dataview"]
-	> .callout-content {
+
+
+/* Dataview columns */
+.callout[data-callout*="column"][data-callout-metadata~="dataview"] > .callout-content {
 	grid-template-columns: unset;
 	gap: unset;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="dataview"]
 	> .callout-content
 	.dataview.list-view-ul {
 	columns: var(--columns);
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="dataview"]
 	> .callout-content
 	.dataview
 	li {
 	break-inside: avoid;
 }
+
+
+/* List columns */
 .callout[data-callout*="column"][data-callout-metadata~="list-global"]
 	.callout
 	> .callout-content,
@@ -145,6 +170,7 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 	> .callout-content {
 	grid-template-columns: unset;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="list-global"]
 	.callout
 	> .callout-content
@@ -154,6 +180,7 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 	> ul {
 	columns: var(--columns);
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="list-global"]
 	.callout
 	> .callout-content
@@ -165,6 +192,7 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 	> li {
 	break-inside: avoid;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="list-global"]
 	.callout
 	> .callout-content
@@ -176,19 +204,23 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 	.list-bullet::after {
 	position: relative;
 }
+
+
+/* Grid list columns */
 .callout[data-callout*="column"][data-callout-metadata~="list-x"]
 	> .callout-content {
 	grid-template-columns: unset;
 }
+
 .callout[data-callout*="column"][data-callout-metadata~="list-x"]
 	> .callout-content
 	> ul {
 	display: grid;
-	grid-template-columns: repeat(var(--columns), 1fr);
+	grid-template-columns: repeat(var(--columns), minmax(0, 1fr));
 }
 
-/* --- custom edits -- */
 
+/* Callout custom edits */
 .callout[data-callout*="column"] > .callout-title {
 	display: none;
 }
@@ -196,84 +228,95 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 .callout[data-callout*="column"] > .callout-content {
 	border: 0 !important;
 }
+
 .callout[data-callout*="column"] > .callout-content .callout-content {
 	height: 100%;
 }
 
-@media (max-width: 800px) {
-	.callout[data-callout*="column"] > .callout-content {
-		grid-template-columns: 1fr !important;
-	}
-}
 
-.callout[data-callout*="column"] > .callout-content {
-	display: grid;
-	grid-template-columns: repeat(2, minmax(0, 1fr));
-	gap: 1.25rem;
-}
+/* =======================================================
+   CUSTOM HTML COLUMNS
+   Used by Sane Magical Prices and similar pages
+   ======================================================= */
 
-.callout[data-callout*="column"] .dg-column {
-	min-width: 0;
-}
-
-@media (max-width: 800px) {
-	.callout[data-callout*="column"] > .callout-content {
-		grid-template-columns: 1fr !important;
-	}
-}
 .dg-columns {
 	display: grid;
-	grid-template-columns: repeat(2, minmax(0, 1fr));
-	gap: 1.25rem;
+	grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+	gap: 2rem;
 	align-items: start;
+	width: 100%;
 }
 
 .dg-column {
 	min-width: 0;
 }
 
-@media (max-width: 800px) {
-	.dg-columns {
-		grid-template-columns: 1fr;
-	}
-}
-/* Keep SMP pricing tables aligned inside custom columns */
-.dg-column table {
-	width: 100%;
-	table-layout: fixed;
-	border-collapse: collapse;
-}
 
-/* Item */
-.dg-column table th:nth-child(1),
-.dg-column table td:nth-child(1) {
-	width: 58%;
-	text-align: left;
-}
-
-/* Price */
-.dg-column table th:nth-child(2),
-.dg-column table td:nth-child(2) {
-	width: 22%;
-	text-align: right;
-	white-space: nowrap;
-}
-
-/* Rarity */
-.dg-column table th:nth-child(3),
-.dg-column table td:nth-child(3) {
-	width: 20%;
-	text-align: center;
-	white-space: nowrap;
-}
-
-/* Give each subsection a little breathing room */
+/* Section labels */
 .dg-column > strong {
 	display: block;
 	margin-top: 1.25rem;
 	margin-bottom: 0.4rem;
+	font-size: 1.05em;
 }
 
 .dg-column > strong:first-child {
 	margin-top: 0;
+}
+
+
+/* Tables inside custom HTML columns */
+.dg-columns .dg-column table {
+	width: 100% !important;
+	max-width: none !important;
+	min-width: 0 !important;
+	table-layout: fixed !important;
+	border-collapse: collapse;
+}
+
+
+/* Item column */
+.dg-columns .dg-column table th:first-child,
+.dg-columns .dg-column table td:first-child {
+	width: 56% !important;
+	text-align: left !important;
+	overflow-wrap: anywhere;
+	word-break: normal;
+}
+
+
+/* Price column */
+.dg-columns .dg-column table th:nth-child(2),
+.dg-columns .dg-column table td:nth-child(2) {
+	width: 24% !important;
+	text-align: right !important;
+	white-space: nowrap;
+}
+
+
+/* Rarity column */
+.dg-columns .dg-column table th:nth-child(3),
+.dg-columns .dg-column table td:nth-child(3) {
+	width: 20% !important;
+	text-align: center !important;
+	white-space: nowrap;
+}
+
+
+/* =======================================================
+   MOBILE
+   ======================================================= */
+
+@media (max-width: 800px) {
+
+	/* Normal callout columns */
+	.callout[data-callout*="column"] > .callout-content {
+		grid-template-columns: 1fr !important;
+	}
+
+	/* Custom HTML columns */
+	.dg-columns {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+	}
 }
