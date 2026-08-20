@@ -3,7 +3,6 @@
 ---
 
 
-
 ## Sane Magical Prices
 
 **Mundane Equipment**
@@ -12,207 +11,227 @@ These are standard D&D 5.5e purchase prices for nonmagical equipment. Prices are
 
 > **Coin conversion:** 0.01 gp = 1 cp, 0.1 gp = 1 sp, 0.5 gp = 1 ep, 10 gp = 1 pp.
 
-> [!column]
-> <div class="dg-column">
->
-> **Mundane Weapons**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Battleaxe | 10 | Mundane |
-> | Blowgun | 10 | Mundane |
-> | Club | 0.1 | Mundane |
-> | Dagger | 2 | Mundane |
-> | Dart | 0.05 | Mundane |
-> | Flail | 10 | Mundane |
-> | Glaive | 20 | Mundane |
-> | Greataxe | 30 | Mundane |
-> | Greatclub | 0.2 | Mundane |
-> | Greatsword | 50 | Mundane |
-> | Halberd | 20 | Mundane |
-> | Hand Crossbow | 75 | Mundane |
-> | Handaxe | 5 | Mundane |
-> | Heavy Crossbow | 50 | Mundane |
-> | Javelin | 0.5 | Mundane |
-> | Lance | 10 | Mundane |
-> | Light Crossbow | 25 | Mundane |
-> | Light Hammer | 2 | Mundane |
-> | Longbow | 50 | Mundane |
-> | Longsword | 15 | Mundane |
-> | Mace | 5 | Mundane |
-> | Maul | 10 | Mundane |
-> | Morningstar | 15 | Mundane |
-> | Musket | 500 | Mundane |
-> | Pike | 5 | Mundane |
-> | Pistol | 250 | Mundane |
-> | Quarterstaff | 0.2 | Mundane |
-> | Rapier | 25 | Mundane |
-> | Scimitar | 25 | Mundane |
-> | Shortbow | 25 | Mundane |
-> | Shortsword | 10 | Mundane |
-> | Sickle | 1 | Mundane |
-> | Sling | 0.1 | Mundane |
-> | Spear | 1 | Mundane |
-> | Trident | 5 | Mundane |
-> | War Pick | 5 | Mundane |
-> | Warhammer | 15 | Mundane |
-> | Whip | 2 | Mundane |
->
-> **Mundane Ammunition**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Arrows (20) | 1 | Mundane |
-> | Bolts (20) | 1 | Mundane |
-> | Firearm Bullets (10) | 3 | Mundane |
-> | Sling Bullets (20) | 0.04 | Mundane |
-> | Blowgun Needles (50) | 1 | Mundane |
->
-> **Mundane Armor**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Breastplate | 400 | Mundane |
-> | Chain Mail | 75 | Mundane |
-> | Chain Shirt | 50 | Mundane |
-> | Half Plate Armor | 750 | Mundane |
-> | Hide Armor | 10 | Mundane |
-> | Leather Armor | 10 | Mundane |
-> | Padded Armor | 5 | Mundane |
-> | Plate Armor | 1,500 | Mundane |
-> | Ring Mail | 30 | Mundane |
-> | Scale Mail | 50 | Mundane |
-> | Shield | 10 | Mundane |
-> | Splint Armor | 200 | Mundane |
-> | Studded Leather Armor | 45 | Mundane |
->
-> **Barding:** Any armor can be purchased as barding for **4 × the normal armor price**.
->
-> **Mounts and Animals**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Camel | 50 | Mundane |
-> | Elephant | 200 | Mundane |
-> | Horse, Draft | 50 | Mundane |
-> | Horse, Riding | 75 | Mundane |
-> | Mastiff | 25 | Mundane |
-> | Mule | 8 | Mundane |
-> | Pony | 30 | Mundane |
-> | Warhorse | 400 | Mundane |
->
-> **Tack and Drawn Vehicles**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Carriage | 100 | Mundane |
-> | Cart | 15 | Mundane |
-> | Chariot | 250 | Mundane |
-> | Feed (per day) | 0.05 | Mundane |
-> | Saddle, Exotic | 60 | Mundane |
-> | Saddle, Military | 20 | Mundane |
-> | Saddle, Riding | 10 | Mundane |
-> | Sled | 20 | Mundane |
-> | Stabling (per day) | 0.5 | Mundane |
-> | Wagon | 35 | Mundane |
->
-> </div>
->
-> <div class="dg-column">
->
-> **Adventuring Gear**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Acid | 25 | Mundane |
-> | Alchemist's Fire | 50 | Mundane |
-> | Antitoxin | 50 | Mundane |
-> | Backpack | 2 | Mundane |
-> | Ball Bearings | 1 | Mundane |
-> | Barrel | 2 | Mundane |
-> | Basket | 0.4 | Mundane |
-> | Bedroll | 1 | Mundane |
-> | Bell | 1 | Mundane |
-> | Blanket | 0.5 | Mundane |
-> | Block and Tackle | 1 | Mundane |
-> | Book | 25 | Mundane |
-> | Bottle, Glass | 2 | Mundane |
-> | Bucket | 0.05 | Mundane |
-> | Burglar's Pack | 16 | Mundane |
-> | Caltrops | 1 | Mundane |
-> | Candle | 0.01 | Mundane |
-> | Case, Crossbow Bolt | 1 | Mundane |
-> | Case, Map or Scroll | 1 | Mundane |
-> | Chain | 5 | Mundane |
-> | Chest | 5 | Mundane |
-> | Climber's Kit | 25 | Mundane |
-> | Clothes, Fine | 15 | Mundane |
-> | Clothes, Traveler's | 2 | Mundane |
-> | Component Pouch | 25 | Mundane |
-> | Costume | 5 | Mundane |
-> | Crowbar | 2 | Mundane |
-> | Diplomat's Pack | 39 | Mundane |
-> | Dungeoneer's Pack | 12 | Mundane |
-> | Entertainer's Pack | 40 | Mundane |
-> | Explorer's Pack | 10 | Mundane |
-> | Flask | 0.02 | Mundane |
-> | Grappling Hook | 2 | Mundane |
-> | Healer's Kit | 5 | Mundane |
-> | Holy Water | 25 | Mundane |
-> | Hunting Trap | 5 | Mundane |
-> | Ink | 10 | Mundane |
-> | Ink Pen | 0.02 | Mundane |
-> | Jug | 0.02 | Mundane |
-> | Ladder | 0.1 | Mundane |
-> | Lamp | 0.5 | Mundane |
-> | Lantern, Bullseye | 10 | Mundane |
-> | Lantern, Hooded | 5 | Mundane |
-> | Lock | 10 | Mundane |
-> | Magnifying Glass | 100 | Mundane |
-> | Manacles | 2 | Mundane |
-> | Map | 1 | Mundane |
-> | Mirror | 5 | Mundane |
-> | Net | 1 | Mundane |
-> | Oil | 0.1 | Mundane |
-> | Paper | 0.2 | Mundane |
-> | Parchment | 0.1 | Mundane |
-> | Perfume | 5 | Mundane |
-> | Poison, Basic | 100 | Mundane |
-> | Pole | 0.05 | Mundane |
-> | Pot, Iron | 2 | Mundane |
-> | Pouch | 0.5 | Mundane |
-> | Priest's Pack | 33 | Mundane |
-> | Quiver | 1 | Mundane |
-> | Ram, Portable | 4 | Mundane |
-> | Rations | 0.5 | Mundane |
-> | Robe | 1 | Mundane |
-> | Rope | 1 | Mundane |
-> | Sack | 0.01 | Mundane |
-> | Scholar's Pack | 40 | Mundane |
-> | Shovel | 2 | Mundane |
-> | Signal Whistle | 0.05 | Mundane |
-> | Spikes, Iron | 1 | Mundane |
-> | Spyglass | 1,000 | Mundane |
-> | String (10 ft.) | 0.1 | Mundane |
-> | Tent | 2 | Mundane |
-> | Tinderbox | 0.5 | Mundane |
-> | Torch | 0.01 | Mundane |
-> | Vial | 1 | Mundane |
-> | Waterskin | 0.2 | Mundane |
->
-> **Large Vehicles**
->
-> | Item | Price (gp) | Rarity |
-> | :---- | -----: | ----- |
-> | Airship | 40,000 | Mundane |
-> | Galley | 30,000 | Mundane |
-> | Keelboat | 3,000 | Mundane |
-> | Longship | 10,000 | Mundane |
-> | Rowboat | 50 | Mundane |
-> | Sailing Ship | 10,000 | Mundane |
-> | Warship | 25,000 | Mundane |
->
-> </div>
+
+<div class="dg-columns">
+<div class="dg-column">
+<strong>Mundane Weapons</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Battleaxe</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Blowgun</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Club</td><td>0.1</td><td>Mundane</td></tr>
+<tr><td>Dagger</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Dart</td><td>0.05</td><td>Mundane</td></tr>
+<tr><td>Flail</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Glaive</td><td>20</td><td>Mundane</td></tr>
+<tr><td>Greataxe</td><td>30</td><td>Mundane</td></tr>
+<tr><td>Greatclub</td><td>0.2</td><td>Mundane</td></tr>
+<tr><td>Greatsword</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Halberd</td><td>20</td><td>Mundane</td></tr>
+<tr><td>Hand Crossbow</td><td>75</td><td>Mundane</td></tr>
+<tr><td>Handaxe</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Heavy Crossbow</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Javelin</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Lance</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Light Crossbow</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Light Hammer</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Longbow</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Longsword</td><td>15</td><td>Mundane</td></tr>
+<tr><td>Mace</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Maul</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Morningstar</td><td>15</td><td>Mundane</td></tr>
+<tr><td>Musket</td><td>500</td><td>Mundane</td></tr>
+<tr><td>Pike</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Pistol</td><td>250</td><td>Mundane</td></tr>
+<tr><td>Quarterstaff</td><td>0.2</td><td>Mundane</td></tr>
+<tr><td>Rapier</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Scimitar</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Shortbow</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Shortsword</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Sickle</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Sling</td><td>0.1</td><td>Mundane</td></tr>
+<tr><td>Spear</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Trident</td><td>5</td><td>Mundane</td></tr>
+<tr><td>War Pick</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Warhammer</td><td>15</td><td>Mundane</td></tr>
+<tr><td>Whip</td><td>2</td><td>Mundane</td></tr>
+</tbody>
+</table>
+<strong>Mundane Ammunition</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Arrows (20)</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Bolts (20)</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Firearm Bullets (10)</td><td>3</td><td>Mundane</td></tr>
+<tr><td>Sling Bullets (20)</td><td>0.04</td><td>Mundane</td></tr>
+<tr><td>Blowgun Needles (50)</td><td>1</td><td>Mundane</td></tr>
+</tbody>
+</table>
+<strong>Mundane Armor</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Breastplate</td><td>400</td><td>Mundane</td></tr>
+<tr><td>Chain Mail</td><td>75</td><td>Mundane</td></tr>
+<tr><td>Chain Shirt</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Half Plate Armor</td><td>750</td><td>Mundane</td></tr>
+<tr><td>Hide Armor</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Leather Armor</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Padded Armor</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Plate Armor</td><td>1,500</td><td>Mundane</td></tr>
+<tr><td>Ring Mail</td><td>30</td><td>Mundane</td></tr>
+<tr><td>Scale Mail</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Shield</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Splint Armor</td><td>200</td><td>Mundane</td></tr>
+<tr><td>Studded Leather Armor</td><td>45</td><td>Mundane</td></tr>
+</tbody>
+</table>
+<p><strong>Barding:</strong> Any armor can be purchased as barding for <strong>4 × the normal armor price</strong>.</p>
+<strong>Mounts and Animals</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Camel</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Elephant</td><td>200</td><td>Mundane</td></tr>
+<tr><td>Horse, Draft</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Horse, Riding</td><td>75</td><td>Mundane</td></tr>
+<tr><td>Mastiff</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Mule</td><td>8</td><td>Mundane</td></tr>
+<tr><td>Pony</td><td>30</td><td>Mundane</td></tr>
+<tr><td>Warhorse</td><td>400</td><td>Mundane</td></tr>
+</tbody>
+</table>
+<strong>Tack and Drawn Vehicles</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Carriage</td><td>100</td><td>Mundane</td></tr>
+<tr><td>Cart</td><td>15</td><td>Mundane</td></tr>
+<tr><td>Chariot</td><td>250</td><td>Mundane</td></tr>
+<tr><td>Feed (per day)</td><td>0.05</td><td>Mundane</td></tr>
+<tr><td>Saddle, Exotic</td><td>60</td><td>Mundane</td></tr>
+<tr><td>Saddle, Military</td><td>20</td><td>Mundane</td></tr>
+<tr><td>Saddle, Riding</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Sled</td><td>20</td><td>Mundane</td></tr>
+<tr><td>Stabling (per day)</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Wagon</td><td>35</td><td>Mundane</td></tr>
+</tbody>
+</table>
+</div>
+<div class="dg-column">
+<strong>Adventuring Gear</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Acid</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Alchemist's Fire</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Antitoxin</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Backpack</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Ball Bearings</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Barrel</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Basket</td><td>0.4</td><td>Mundane</td></tr>
+<tr><td>Bedroll</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Bell</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Blanket</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Block and Tackle</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Book</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Bottle, Glass</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Bucket</td><td>0.05</td><td>Mundane</td></tr>
+<tr><td>Burglar's Pack</td><td>16</td><td>Mundane</td></tr>
+<tr><td>Caltrops</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Candle</td><td>0.01</td><td>Mundane</td></tr>
+<tr><td>Case, Crossbow Bolt</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Case, Map or Scroll</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Chain</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Chest</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Climber's Kit</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Clothes, Fine</td><td>15</td><td>Mundane</td></tr>
+<tr><td>Clothes, Traveler's</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Component Pouch</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Costume</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Crowbar</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Diplomat's Pack</td><td>39</td><td>Mundane</td></tr>
+<tr><td>Dungeoneer's Pack</td><td>12</td><td>Mundane</td></tr>
+<tr><td>Entertainer's Pack</td><td>40</td><td>Mundane</td></tr>
+<tr><td>Explorer's Pack</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Flask</td><td>0.02</td><td>Mundane</td></tr>
+<tr><td>Grappling Hook</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Healer's Kit</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Holy Water</td><td>25</td><td>Mundane</td></tr>
+<tr><td>Hunting Trap</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Ink</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Ink Pen</td><td>0.02</td><td>Mundane</td></tr>
+<tr><td>Jug</td><td>0.02</td><td>Mundane</td></tr>
+<tr><td>Ladder</td><td>0.1</td><td>Mundane</td></tr>
+<tr><td>Lamp</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Lantern, Bullseye</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Lantern, Hooded</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Lock</td><td>10</td><td>Mundane</td></tr>
+<tr><td>Magnifying Glass</td><td>100</td><td>Mundane</td></tr>
+<tr><td>Manacles</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Map</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Mirror</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Net</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Oil</td><td>0.1</td><td>Mundane</td></tr>
+<tr><td>Paper</td><td>0.2</td><td>Mundane</td></tr>
+<tr><td>Parchment</td><td>0.1</td><td>Mundane</td></tr>
+<tr><td>Perfume</td><td>5</td><td>Mundane</td></tr>
+<tr><td>Poison, Basic</td><td>100</td><td>Mundane</td></tr>
+<tr><td>Pole</td><td>0.05</td><td>Mundane</td></tr>
+<tr><td>Pot, Iron</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Pouch</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Priest's Pack</td><td>33</td><td>Mundane</td></tr>
+<tr><td>Quiver</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Ram, Portable</td><td>4</td><td>Mundane</td></tr>
+<tr><td>Rations</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Robe</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Rope</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Sack</td><td>0.01</td><td>Mundane</td></tr>
+<tr><td>Scholar's Pack</td><td>40</td><td>Mundane</td></tr>
+<tr><td>Shovel</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Signal Whistle</td><td>0.05</td><td>Mundane</td></tr>
+<tr><td>Spikes, Iron</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Spyglass</td><td>1,000</td><td>Mundane</td></tr>
+<tr><td>String (10 ft.)</td><td>0.1</td><td>Mundane</td></tr>
+<tr><td>Tent</td><td>2</td><td>Mundane</td></tr>
+<tr><td>Tinderbox</td><td>0.5</td><td>Mundane</td></tr>
+<tr><td>Torch</td><td>0.01</td><td>Mundane</td></tr>
+<tr><td>Vial</td><td>1</td><td>Mundane</td></tr>
+<tr><td>Waterskin</td><td>0.2</td><td>Mundane</td></tr>
+</tbody>
+</table>
+<strong>Large Vehicles</strong>
+<table>
+<thead>
+<tr><th>Item</th><th>Price (gp)</th><th>Rarity</th></tr>
+</thead>
+<tbody>
+<tr><td>Airship</td><td>40,000</td><td>Mundane</td></tr>
+<tr><td>Galley</td><td>30,000</td><td>Mundane</td></tr>
+<tr><td>Keelboat</td><td>3,000</td><td>Mundane</td></tr>
+<tr><td>Longship</td><td>10,000</td><td>Mundane</td></tr>
+<tr><td>Rowboat</td><td>50</td><td>Mundane</td></tr>
+<tr><td>Sailing Ship</td><td>10,000</td><td>Mundane</td></tr>
+<tr><td>Warship</td><td>25,000</td><td>Mundane</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
 
 
 
