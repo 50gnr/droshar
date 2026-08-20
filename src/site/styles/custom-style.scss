@@ -205,3 +205,19 @@ https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Callouts
 		grid-template-columns: 1fr !important;
 	}
 }
+
+.callout[data-callout*="column"] > .callout-content {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 1.25rem;
+}
+
+.callout[data-callout*="column"] .dg-column {
+	min-width: 0;
+}
+
+@media (max-width: 800px) {
+	.callout[data-callout*="column"] > .callout-content {
+		grid-template-columns: 1fr !important;
+	}
+}
