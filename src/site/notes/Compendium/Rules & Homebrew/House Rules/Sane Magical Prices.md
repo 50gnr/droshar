@@ -656,7 +656,7 @@ These items are intentionally kept outside the normal pricing system because the
 
 ## Ryoko's Guide to the Yokai Realms
 
-Prices below use the same utility-based SMP approach as the rest of this document rather than the sourcebook's broad rarity-price defaults. Where a named enchantment can appear on multiple base weapons or armor types, the listed price is the magical surcharge plus the mundane base item's price.
+Prices below use the same utility-based SMP approach as the rest of this document rather than the sourcebook's broad rarity-price defaults. 
 
 **Ryoko Mundane Equipment**
 
