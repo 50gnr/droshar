@@ -6,7 +6,7 @@
 # Southern Principalities
 
 <audio controls preload="metadata">
-  <source src="/audio/SP-Session-05-Abridged.mp3" type="audio/mpeg">
+  <source src="/audio/SP-Session-05-ABRIDGED.mp3" type="audio/mpeg">
 </audio>
 
 # Session 05 — The Monastery of Falling Clouds
