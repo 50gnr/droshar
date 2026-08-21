@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 05 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-05-recap/","title":"The Monastery of Falling Clouds","tags":["session","recap"],"dg-note-properties":{"type":"session","session_number":5,"session_date":"2026-08-21","arc":"The River Runs Backward","title":"The Monastery of Falling Clouds","tags":["session","recap"],"NoteIcon":"FasBookOpen"}}
+{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 05 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-05-recap/","title":"5 - The Monastery of Falling Clouds Pt.1","tags":["session","recap"],"dg-note-properties":{"type":"session","session_number":5,"session_date":"2026-08-21","arc":"The River Runs Backward","title":"5 - The Monastery of Falling Clouds Pt.1","tags":["session","recap"],"NoteIcon":"FasBookOpen"}}
 ---
 
 
 # Southern Principalities
-![[SP-Session-05-Abridged.mp3]]
+
+<audio controls preload="metadata">
+  <source src="/audio/SP-Session-05-Abridged.mp3" type="audio/mpeg">
+</audio>
 
 # Session 05 — The Monastery of Falling Clouds
 
