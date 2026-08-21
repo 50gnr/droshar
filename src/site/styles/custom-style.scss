@@ -328,14 +328,11 @@ body {
    MOBILE-FRIENDLY CONTENT TABLES
    ======================================================= */
 
-/* Let ordinary article tables use the available width */
 .content table {
   width: 100%;
   max-width: 100%;
-  table-layout: auto;
 }
 
-/* Allow long item names to wrap instead of forcing width */
 .content table th,
 .content table td {
   white-space: normal;
@@ -343,48 +340,42 @@ body {
   word-break: normal;
 }
 
-/* Give secondary columns less room than the first */
-.content table th:first-child,
-.content table td:first-child {
-  width: auto;
-}
-
-.content table th:nth-child(2),
-.content table td:nth-child(2) {
-  width: 22%;
-  white-space: nowrap;
-}
-
-.content table th:nth-child(3),
-.content table td:nth-child(3) {
-  width: 22%;
-  white-space: nowrap;
-}
-
 /* Mobile */
 @media (max-width: 700px) {
+
   .content table {
-    width: 100%;
-    font-size: 0.88rem;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    table-layout: fixed !important;
+    font-size: 0.82rem;
   }
 
   .content table th,
   .content table td {
+    min-width: 0 !important;
+    max-width: none !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    word-break: normal !important;
     padding: 0.35rem 0.4rem;
   }
 
+  /* Main/name column */
   .content table th:first-child,
   .content table td:first-child {
-    width: 56%;
+    width: 56% !important;
   }
 
+  /* Second column */
   .content table th:nth-child(2),
   .content table td:nth-child(2) {
-    width: 22%;
+    width: 22% !important;
   }
 
+  /* Third column */
   .content table th:nth-child(3),
   .content table td:nth-child(3) {
-    width: 22%;
+    width: 22% !important;
   }
 }
