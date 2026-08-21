@@ -320,3 +320,71 @@ body {
 		gap: 1rem;
 	}
 }
+.internal-embed[src*="Assets/Audio/"] {
+  display: none !important;
+}
+
+/* =======================================================
+   MOBILE-FRIENDLY CONTENT TABLES
+   ======================================================= */
+
+/* Let ordinary article tables use the available width */
+.content table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: auto;
+}
+
+/* Allow long item names to wrap instead of forcing width */
+.content table th,
+.content table td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+/* Give secondary columns less room than the first */
+.content table th:first-child,
+.content table td:first-child {
+  width: auto;
+}
+
+.content table th:nth-child(2),
+.content table td:nth-child(2) {
+  width: 22%;
+  white-space: nowrap;
+}
+
+.content table th:nth-child(3),
+.content table td:nth-child(3) {
+  width: 22%;
+  white-space: nowrap;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .content table {
+    width: 100%;
+    font-size: 0.88rem;
+  }
+
+  .content table th,
+  .content table td {
+    padding: 0.35rem 0.4rem;
+  }
+
+  .content table th:first-child,
+  .content table td:first-child {
+    width: 56%;
+  }
+
+  .content table th:nth-child(2),
+  .content table td:nth-child(2) {
+    width: 22%;
+  }
+
+  .content table th:nth-child(3),
+  .content table td:nth-child(3) {
+    width: 22%;
+  }
+}
