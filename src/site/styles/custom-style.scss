@@ -304,41 +304,82 @@ body {
 
 
 /* =======================================================
-   MOBILE
-   ======================================================= */
-
-@media (max-width: 800px) {
-
-	/* Normal callout columns */
-	.callout[data-callout*="column"] > .callout-content {
-		grid-template-columns: 1fr !important;
-	}
-
-	/* Custom HTML columns */
-	.dg-columns {
-		grid-template-columns: 1fr;
-		gap: 1rem;
-	}
-}
-.internal-embed[src*="Assets/Audio/"] {
-  display: none !important;
-}
-
-/* =======================================================
-   MOBILE-FRIENDLY CONTENT TABLES
+   RESPONSIVE CONTENT TABLES
+   Consistent desktop + mobile behaviour
    ======================================================= */
 
 .content table {
   width: 100%;
   max-width: 100%;
+  min-width: 0 !important;
+  table-layout: fixed;
+  border-collapse: collapse;
+  box-sizing: border-box;
 }
 
 .content table th,
 .content table td {
+  min-width: 0 !important;
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+/* Item / primary column */
+.content table th:first-child,
+.content table td:first-child {
+  width: 52%;
   white-space: normal;
   overflow-wrap: anywhere;
   word-break: normal;
 }
+
+/* Price / secondary column */
+.content table th:nth-child(2),
+.content table td:nth-child(2) {
+  width: 30%;
+  white-space: nowrap;
+  overflow: visible;
+  text-overflow: clip;
+}
+
+/* Rarity / type column */
+.content table th:nth-child(3),
+.content table td:nth-child(3) {
+  width: 18%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+/* DG column tables */
+.dg-columns table {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0 !important;
+  table-layout: fixed !important;
+}
+
+.dg-columns table th:first-child,
+.dg-columns table td:first-child {
+  width: 52%;
+}
+
+.dg-columns table th:nth-child(2),
+.dg-columns table td:nth-child(2) {
+  width: 30%;
+  white-space: nowrap;
+  overflow: visible;
+}
+
+.dg-columns table th:nth-child(3),
+.dg-columns table td:nth-child(3) {
+  width: 18%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 
 /* Mobile */
 @media (max-width: 700px) {
@@ -354,28 +395,29 @@ body {
   .content table th,
   .content table td {
     min-width: 0 !important;
-    max-width: none !important;
-    white-space: normal !important;
-    overflow-wrap: anywhere !important;
-    word-break: normal !important;
-    padding: 0.35rem 0.4rem;
+    padding: 0.4rem 0.45rem;
   }
 
-  /* Main/name column */
   .content table th:first-child,
   .content table td:first-child {
-    width: 56% !important;
+    width: 50% !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere;
   }
 
-  /* Second column */
   .content table th:nth-child(2),
   .content table td:nth-child(2) {
-    width: 22% !important;
+    width: 32% !important;
+    white-space: nowrap !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
   }
 
-  /* Third column */
   .content table th:nth-child(3),
   .content table td:nth-child(3) {
-    width: 22% !important;
+    width: 18% !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
   }
 }
