@@ -421,3 +421,53 @@ body {
     text-overflow: ellipsis !important;
   }
 }
+/* =======================================================
+   TWO-COLUMN CONTENT TABLES
+   ======================================================= */
+
+/* Override the normal 3-column assumptions */
+.content table:has(
+  > thead > tr > th:nth-child(2):last-child
+) {
+
+  /* First column = label / value */
+  th:first-child,
+  td:first-child {
+    width: 25% !important;
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+  }
+
+  /* Second column = descriptive content */
+  th:nth-child(2),
+  td:nth-child(2) {
+    width: 75% !important;
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+    overflow-wrap: break-word !important;
+  }
+}
+
+
+/* Mobile */
+@media (max-width: 700px) {
+
+  .content table:has(
+    > thead > tr > th:nth-child(2):last-child
+  ) {
+
+    th:first-child,
+    td:first-child {
+      width: 28% !important;
+    }
+
+    th:nth-child(2),
+    td:nth-child(2) {
+      width: 72% !important;
+      white-space: normal !important;
+      overflow-wrap: break-word !important;
+    }
+  }
+}
