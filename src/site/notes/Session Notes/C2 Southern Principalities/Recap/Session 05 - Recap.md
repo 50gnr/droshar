@@ -11,7 +11,7 @@
 </audio>
 </div>
 
-![[SP-Session-05-ABRIDGED.mp3]]
+![[Assets/Audio/SP-Session-05-ABRIDGED.mp3]]
 
 # Session 05 — The Monastery of Falling Clouds
 

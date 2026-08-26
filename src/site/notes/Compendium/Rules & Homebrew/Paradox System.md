@@ -16,19 +16,19 @@ For example, you might misplace some valuable information about future lottery r
 
 ### Temporal Meddling Table
 
-| Paradox Points Gained | Temporal Meddling                                                                                                                                                                                                                    |
+| Paradox Points Gained - Examples | Temporal Meddling |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | **1**                 | Interacting with a past or future version of yourself.                                                                                                                                                                               |
-| **1**                 | Acting upon significant information gathered from outside of your own time, or giving significant information to a creature that wouldn’t otherwise have access to it in its time and is likely to act upon it.                      |
-| **1**                 | Extracting a significant object from the past or future.                                                                                                                                                                             |
+|                 | Acting upon significant information gathered from outside of your own time, or giving significant information to a creature that wouldn’t otherwise have access to it in its time and is likely to act upon it.                      |
+|                | Extracting a significant object from the past or future.                                                                                                                                                                             |
 | **2**                 | Killing or saving the life of a significant creature.                                                                                                                                                                                |
-| **2**                 | Creating a bootstrap paradox (e.g. going back in time and teaching a song from the present to its own creator—who originally wrote that song?)                                                                                       |
+|                 | Creating a bootstrap paradox (e.g. going back in time and teaching a song from the present to its own creator—who originally wrote that song?)                                                                                       |
 | **3**                 | Influencing events in the past that are likely to result in sweeping present changes to an area or number of creatures the size of a city.                                                                                           |
-| **3**                 | Retrieving a magic item from the past or future so that you now possess multiple copies of the same item, and again each day at dawn for each magic item you possess that’s the temporal copy of another already in your possession. |
+|                 | Retrieving a magic item from the past or future so that you now possess multiple copies of the same item, and again each day at dawn for each magic item you possess that’s the temporal copy of another already in your possession. |
 | **4**                 | Killing one of your ancestors before they can produce the lineage that eventually results in you.                                                                                                                                    |
-| **4**                 | Influencing events in the past that are likely to result in sweeping present changes to an area or number of creatures the size of an entire kingdom.                                                                                |
+|                 | Influencing events in the past that are likely to result in sweeping present changes to an area or number of creatures the size of an entire kingdom.                                                                                |
 | **5**                 | Killing a past version of yourself.                                                                                                                                                                                                  |
-| **5**                 | Influencing events in the past that are likely to result in sweeping present changes to the entire world.                                                                                                                            |
+|                 | Influencing events in the past that are likely to result in sweeping present changes to the entire world.                                                                                                                            |
 
 ### Here We Go Again
 
