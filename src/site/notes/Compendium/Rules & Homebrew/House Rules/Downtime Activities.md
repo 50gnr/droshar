@@ -141,6 +141,220 @@ Days spent on a downtime activity don't need to be consecutive unless the activi
 >>**Resources: 1 workweek.**
 >>
 
+# Downtime Activities
+
+While your character is not adventuring, they can perform downtime activities. Downtime is measured in **workweeks of 5 days**.
+
+Days spent on a downtime activity don't need to be consecutive unless the activity states otherwise. Some activities can be completed by multiple characters working together.
+
+<div class="dg-columns">
+
+<div class="dg-column">
+
+<h2>Buy a Magic Item</h2>
+
+<p>Spend time and money searching for a magic item that is available for sale.</p>
+
+<p>Make a <strong>Charisma (Persuasion) check</strong> to determine whether you locate an item. You gain a +1 bonus to the check for each workweek spent beyond the first and for each additional 100 gp spent, to a maximum bonus of +10.</p>
+
+<p><strong>Resources. At least 1 workweek and 100 gp.</strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Item Rarity</th>
+<th>Scroll Level</th>
+<th>DC</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Common</td><td>1st</td><td>10</td></tr>
+<tr><td>Uncommon</td><td>2nd–3rd</td><td>15</td></tr>
+<tr><td>Rare</td><td>4th–5th</td><td>20</td></tr>
+<tr><td>Very Rare</td><td>6th–8th</td><td>25</td></tr>
+<tr><td>Legendary</td><td>9th</td><td>30</td></tr>
+</tbody>
+</table>
+
+<hr>
+
+<h2>Carousing</h2>
+
+<p>Spend time drinking, eating, and socialising. Perhaps you can make some new friends, or enemies.</p>
+
+<p>Requires a <strong>Charisma (Persuasion) check</strong>.</p>
+
+<p><strong>Resources. 1 workweek and 10 gp to carouse with the lower classes, 50 gp to carouse with the middle classes, or 250 gp to carouse with the upper classes. Carousing with the upper classes also requires access to the local nobility.</strong></p>
+
+<hr>
+
+<h2>Crafting & Reforging</h2>
+
+<p>Use an appropriate tool proficiency to create or modify an item.</p>
+
+<p><strong>Resources. To determine the number of days required to craft an item, divide its cost in gp by 50.</strong></p>
+
+<p>You must have the appropriate tools, a suitable work area, and raw materials equal in value to half of the item's cost.</p>
+
+<h3>Potions</h3>
+
+<p>A character proficient with a <strong>Herbalism Kit</strong> can craft the following potions.</p>
+
+<p>Crafting costs are equal to <strong>half the potion's Sane market price</strong>.</p>
+
+<table>
+<thead>
+<tr>
+<th>Potion</th>
+<th>Rarity</th>
+<th>Time</th>
+<th>Crafting Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Potion of Healing</td><td>Common</td><td>1 day</td><td>25 gp</td></tr>
+<tr><td>Potion of Greater Healing</td><td>Uncommon</td><td>1 workweek</td><td>75 gp</td></tr>
+<tr><td>Potion of Superior Healing</td><td>Very Rare</td><td>3 workweeks</td><td>225 gp</td></tr>
+<tr><td>Potion of Supreme Healing</td><td>Very Rare</td><td>4 workweeks</td><td>675 gp</td></tr>
+</tbody>
+</table>
+
+<h3>Magic Items</h3>
+
+<p>Crafting or reforging a magic item requires appropriate components in addition to the necessary time, materials, and tool proficiency. The components required depend on the properties of the item being created or modified.</p>
+
+<hr>
+
+<h2>Crime</h2>
+
+<p>Sometimes crime pays, but you always run the risk of being arrested. Requires ability checks for <strong>Stealth</strong> and <strong>Thieves' Tools</strong>, and your choice of either <strong>Deception</strong>, <strong>Investigation</strong>, or <strong>Perception</strong>.</p>
+
+<p><strong>Resources. Planning a crime takes 1 workweek and 25 gp, which is spent planning and gathering information about potential targets.</strong></p>
+
+<hr>
+
+<h2>Gambling</h2>
+
+<p>An easy way to make a fortune, or lose one. Requires <strong>Deception</strong>, <strong>Insight</strong>, and <strong>Intimidation</strong> ability checks. If you are proficient with a relevant gaming set, that proficiency can replace one of the other checks.</p>
+
+<p><strong>Resources. 1 workweek and a stake of at least 10 gp.</strong></p>
+
+</div>
+
+<div class="dg-column">
+
+<h2>Pit Fighting</h2>
+
+<p>Compete in boxing, wrestling, and other forms of usually non-lethal combat in an organized setting. Requires <strong>Acrobatics</strong>, <strong>Athletics</strong>, and <strong>Constitution</strong> ability checks. You can replace any one of those ability checks with an attack roll made using one of your weapons.</p>
+
+<p><strong>Resources. 1 workweek.</strong></p>
+
+<hr>
+
+<h2>Relaxation</h2>
+
+<p>Take a break to relax and recover from sickness or a critical injury.</p>
+
+<p><strong>Resources. 1 workweek, during which time you need to maintain at least a modest lifestyle in order to gain the benefits of this activity.</strong></p>
+
+<hr>
+
+<h2>Religious Service</h2>
+
+<p>Spend time in service of, and try to win favor with, a religion or similar organization. Requires either a <strong>Religion</strong> or <strong>Persuasion</strong> ability check.</p>
+
+<p><strong>Resources. 1 workweek and access to a temple, religious group, deity, or entity whose beliefs and ethos are aligned with your own.</strong></p>
+
+<hr>
+
+<h2>Research</h2>
+
+<p>Try to uncover lore concerning a specific place, person, item, or subject. Requires an <strong>Intelligence check</strong>. Access to a good library or a sage gives you advantage, and spending additional gold grants a bonus.</p>
+
+<p><strong>Resources. 1 workweek and at least 50 gp. You gain a +1 bonus to the check for each additional 100 gp spent.</strong></p>
+
+<hr>
+
+<h2>Sell a Magic Item</h2>
+
+<p>Spread word that you have a magic item for sale and try to find the best offer currently available. Requires a <strong>Charisma (Persuasion) check</strong>.</p>
+
+<p><strong>Resources. 1 workweek and 25 gp.</strong></p>
+
+<p>The item's base value is determined using the <strong>Sane Magic Item Prices</strong> list.</p>
+
+<table>
+<thead>
+<tr>
+<th>Persuasion Check Total</th>
+<th>1–5</th>
+<th>6–10</th>
+<th>11–15</th>
+<th>16–20</th>
+<th>21+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>% of Item Value Offered</strong></td>
+<td>50%</td>
+<td>75%</td>
+<td>100%</td>
+<td>125%</td>
+<td>150%</td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+<h2>Scribe a Spell Scroll</h2>
+
+<p>Use your Arcana proficiency to inscribe a spell you know on a scroll.</p>
+
+<p><strong>Resources. The time and cost are based on the level of the spell. You must also provide all material components required for casting the spell, all of which are consumed in scribing the scroll.</strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Spell Level</th>
+<th>Time</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>0</td><td>1 hour</td><td>5 gp</td></tr>
+<tr><td>1st</td><td>1 day</td><td>30 gp</td></tr>
+<tr><td>2nd</td><td>3 days</td><td>60 gp</td></tr>
+<tr><td>3rd</td><td>1 workweek</td><td>100 gp</td></tr>
+<tr><td>4th</td><td>2 workweeks</td><td>160 gp</td></tr>
+<tr><td>5th</td><td>4 workweeks</td><td>320 gp</td></tr>
+<tr><td>6th</td><td>8 workweeks</td><td>640 gp</td></tr>
+<tr><td>7th</td><td>16 workweeks</td><td>1,280 gp</td></tr>
+<tr><td>8th</td><td>32 workweeks</td><td>2,560 gp</td></tr>
+<tr><td>9th</td><td>48 workweeks</td><td>5,120 gp</td></tr>
+</tbody>
+</table>
+
+<hr>
+
+<h2>Training</h2>
+
+<p>Spend time learning a new <strong>language or tool proficiency</strong>.</p>
+
+<p><strong>Resources. 10 workweeks, minus your Intelligence modifier, and 25 gp per workweek. Training is only possible from a proficient tutor.</strong></p>
+
+<hr>
+
+<h2>Work</h2>
+
+<p>Find temporary work to cover your general living costs. Requires an <strong>Athletics</strong>, <strong>Acrobatics</strong>, or <strong>Intelligence</strong> ability check if you use a set of tools, or a <strong>Performance</strong> check if you are providing entertainment.</p>
+
+<p><strong>Resources. 1 workweek.</strong></p>
+
+</div>
+
+</div>
 
 # Hidden Data
 
