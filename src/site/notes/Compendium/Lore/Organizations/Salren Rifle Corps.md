@@ -8,7 +8,7 @@
 > The **Salren Rifle Corps** are the Empire’s most disciplined magitech infantry.  
 They are not line soldiers. They are **precision deployments**.
 >
->The **[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Imperial Heartlands/The Capital/Salren/Salren\|Salren]] Rifle Corps** are the Empire’s most disciplined [[Compendium/Rules & Homebrew/Magitech\|Magitech]] infantry.  
+>The **[[Compendium/Atlas/Material Plane/Rushthan/Droshar/Imperial Heartlands/The Capital/Salren/Salren\|Salren]] Rifle Corps** are the Empire’s most disciplined [[Compendium/Rules & Homebrew/World n' Time Mechanics/Magitech\|Magitech]] infantry.  
 They are not line soldiers. They are **precision deployments**.
 >
 >Where conventional troops hold territory, the Rifle Corps enforce policy.
