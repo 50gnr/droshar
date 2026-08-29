@@ -265,17 +265,43 @@ body {
 }
 
 
-/* Tables inside custom HTML columns */
-.dg-columns .dg-column table {
+/* =======================================================
+   TABLES INSIDE DG COLUMNS
+   ======================================================= */
+
+.dg-column table {
+	display: table !important;
 	width: 100% !important;
-	max-width: none !important;
+	max-width: 100% !important;
 	min-width: 0 !important;
 	table-layout: fixed !important;
 	border-collapse: collapse;
 }
 
+.dg-column thead {
+	display: table-header-group !important;
+}
 
-/* Item column */
+.dg-column tbody {
+	display: table-row-group !important;
+}
+
+.dg-column tr {
+	display: table-row !important;
+	height: auto !important;
+}
+
+.dg-column th,
+.dg-column td {
+	display: table-cell !important;
+	height: auto !important;
+	min-width: 0 !important;
+	box-sizing: border-box;
+	vertical-align: top;
+}
+
+
+/* Default 3-column proportions */
 .dg-columns .dg-column table th:first-child,
 .dg-columns .dg-column table td:first-child {
 	width: 56% !important;
@@ -284,8 +310,6 @@ body {
 	word-break: normal;
 }
 
-
-/* Price column */
 .dg-columns .dg-column table th:nth-child(2),
 .dg-columns .dg-column table td:nth-child(2) {
 	width: 24% !important;
@@ -293,8 +317,6 @@ body {
 	white-space: nowrap;
 }
 
-
-/* Rarity column */
 .dg-columns .dg-column table th:nth-child(3),
 .dg-columns .dg-column table td:nth-child(3) {
 	width: 20% !important;
@@ -303,123 +325,163 @@ body {
 }
 
 
+/* Tables with 4+ columns */
+.dg-columns .dg-column table:has(tr > :nth-child(4)) {
+	table-layout: auto !important;
+}
+
+.dg-columns .dg-column table:has(tr > :nth-child(4)) th,
+.dg-columns .dg-column table:has(tr > :nth-child(4)) td {
+	width: auto !important;
+	white-space: normal !important;
+	overflow: visible !important;
+	text-overflow: clip !important;
+	overflow-wrap: anywhere;
+}
+
+
 /* =======================================================
    RESPONSIVE CONTENT TABLES
-   Consistent desktop + mobile behaviour
+   Normal tables outside DG columns
    ======================================================= */
 
-.content table {
-  width: 100%;
-  max-width: 100%;
-  min-width: 0 !important;
-  table-layout: fixed;
-  border-collapse: collapse;
-  box-sizing: border-box;
+.content table:not(.dg-column table) {
+	width: 100%;
+	max-width: 100%;
+	min-width: 0 !important;
+	table-layout: fixed;
+	border-collapse: collapse;
+	box-sizing: border-box;
 }
 
-.content table th,
-.content table td {
-  min-width: 0 !important;
-  box-sizing: border-box;
-  vertical-align: middle;
-}
-
-/* Item / primary column */
-.content table th:first-child,
-.content table td:first-child {
-  width: 52%;
-  white-space: normal;
-  overflow-wrap: anywhere;
-  word-break: normal;
-}
-
-/* Price / secondary column */
-.content table th:nth-child(2),
-.content table td:nth-child(2) {
-  width: 30%;
-  white-space: nowrap;
-  overflow: visible;
-  text-overflow: clip;
-}
-
-/* Rarity / type column */
-.content table th:nth-child(3),
-.content table td:nth-child(3) {
-  width: 18%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+.content table:not(.dg-column table) th,
+.content table:not(.dg-column table) td {
+	min-width: 0 !important;
+	box-sizing: border-box;
+	vertical-align: middle;
 }
 
 
-/* DG column tables */
-.dg-columns table {
-  width: 100%;
-  max-width: 100%;
-  min-width: 0 !important;
-  table-layout: fixed !important;
+/* Default 3-column layout */
+.content table:not(.dg-column table) th:first-child,
+.content table:not(.dg-column table) td:first-child {
+	width: 52%;
+	white-space: normal;
+	overflow-wrap: anywhere;
+	word-break: normal;
 }
 
-.dg-columns table th:first-child,
-.dg-columns table td:first-child {
-  width: 52%;
+.content table:not(.dg-column table) th:nth-child(2),
+.content table:not(.dg-column table) td:nth-child(2) {
+	width: 30%;
+	white-space: nowrap;
+	overflow: visible;
+	text-overflow: clip;
 }
 
-.dg-columns table th:nth-child(2),
-.dg-columns table td:nth-child(2) {
-  width: 30%;
-  white-space: nowrap;
-  overflow: visible;
-}
-
-.dg-columns table th:nth-child(3),
-.dg-columns table td:nth-child(3) {
-  width: 18%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+.content table:not(.dg-column table) th:nth-child(3),
+.content table:not(.dg-column table) td:nth-child(3) {
+	width: 18%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 
-/* Mobile */
-@media (max-width: 700px) {
+/* Two-column content tables */
+.content table:not(.dg-column table):has(
+	> thead > tr > th:nth-child(2):last-child
+) th:first-child,
+.content table:not(.dg-column table):has(
+	> thead > tr > th:nth-child(2):last-child
+) td:first-child {
+	width: 25% !important;
+	white-space: normal !important;
+	overflow: visible !important;
+	text-overflow: clip !important;
+}
 
-  .content table {
-    width: 100% !important;
-    max-width: 100% !important;
-    min-width: 0 !important;
-    table-layout: fixed !important;
-    font-size: 0.82rem;
-  }
+.content table:not(.dg-column table):has(
+	> thead > tr > th:nth-child(2):last-child
+) th:nth-child(2),
+.content table:not(.dg-column table):has(
+	> thead > tr > th:nth-child(2):last-child
+) td:nth-child(2) {
+	width: 75% !important;
+	white-space: normal !important;
+	overflow: visible !important;
+	text-overflow: clip !important;
+	overflow-wrap: break-word !important;
+}
 
-  .content table th,
-  .content table td {
-    min-width: 0 !important;
-    padding: 0.4rem 0.45rem;
-  }
 
-  .content table th:first-child,
-  .content table td:first-child {
-    width: 50% !important;
-    white-space: normal !important;
-    overflow-wrap: anywhere;
-  }
+/* =======================================================
+   MOBILE
+   ======================================================= */
 
-  .content table th:nth-child(2),
-  .content table td:nth-child(2) {
-    width: 32% !important;
-    white-space: nowrap !important;
-    overflow: visible !important;
-    text-overflow: clip !important;
-  }
+@media (max-width: 800px) {
 
-  .content table th:nth-child(3),
-  .content table td:nth-child(3) {
-    width: 18% !important;
-    white-space: nowrap !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-  }
+	.dg-columns {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+	}
+
+	.content table:not(.dg-column table) {
+		width: 100% !important;
+		max-width: 100% !important;
+		min-width: 0 !important;
+		table-layout: fixed !important;
+		font-size: 0.82rem;
+	}
+
+	.content table:not(.dg-column table) th,
+	.content table:not(.dg-column table) td {
+		min-width: 0 !important;
+		padding: 0.4rem 0.45rem;
+	}
+
+	.content table:not(.dg-column table) th:first-child,
+	.content table:not(.dg-column table) td:first-child {
+		width: 50% !important;
+		white-space: normal !important;
+		overflow-wrap: anywhere;
+	}
+
+	.content table:not(.dg-column table) th:nth-child(2),
+	.content table:not(.dg-column table) td:nth-child(2) {
+		width: 32% !important;
+		white-space: nowrap !important;
+		overflow: visible !important;
+		text-overflow: clip !important;
+	}
+
+	.content table:not(.dg-column table) th:nth-child(3),
+	.content table:not(.dg-column table) td:nth-child(3) {
+		width: 18% !important;
+		white-space: nowrap !important;
+		overflow: hidden !important;
+		text-overflow: ellipsis !important;
+	}
+
+	.content table:not(.dg-column table):has(
+		> thead > tr > th:nth-child(2):last-child
+	) th:first-child,
+	.content table:not(.dg-column table):has(
+		> thead > tr > th:nth-child(2):last-child
+	) td:first-child {
+		width: 28% !important;
+	}
+
+	.content table:not(.dg-column table):has(
+		> thead > tr > th:nth-child(2):last-child
+	) th:nth-child(2),
+	.content table:not(.dg-column table):has(
+		> thead > tr > th:nth-child(2):last-child
+	) td:nth-child(2) {
+		width: 72% !important;
+		white-space: normal !important;
+		overflow-wrap: break-word !important;
+	}
 }
 /* =======================================================
    TWO-COLUMN CONTENT TABLES
