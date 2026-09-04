@@ -33,13 +33,15 @@
 
 The Shigure Compound serves as one of the oldest surviving safehouses maintained by [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]].
 
-Hidden deep within the forests of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]], the compound has housed generations of operatives, scouts, messengers, and assassins. While officially belonging to the [[Shigure Family\|Shigure Family]], its gates have quietly welcomed countless agents needing a place to recover, regroup, or disappear.
+Hidden deep within the forests of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Southern Principalities\|Southern Principalities]], the compound is the private refuge of the [[Shigure Family\|Shigure Family]] and the Lotus Choir team assigned to them. It is not a general Choir facility. Its concealed approach is known only to the family, their current operatives, and the rare trusted courier.
 
-To outsiders it appears to be a secluded family estate.
+To outsiders it does not appear at all. The secluded valley and its hand-waved hidden approach keep ordinary travellers from ever reaching the estate.
 
-To those who know its true purpose, it is something closer to a sanctuary.
+To those permitted inside, it is home, sanctuary, and operations base in equal measure.
 
-Many members of the Choir spend years passing through its gates without ever learning its exact location.
+Lotus Choir teams are deliberately compartmentalized. They do not know the identities or safehouses of other teams and communicate through their assigned controllers. For the operatives based here, that controller is [[Compendium/NPC's/Southern Principalities/Shōren Vale\|the Quiet Fox]].
+
+Most members of the Choir will serve their entire lives without learning its exact location.
 
 ---
 
@@ -130,16 +132,9 @@ Home to the [[Compendium/Lore/Creatures/Shigure Kappa\|Shigure Kappa]]!
 
 ### Guest Houses
 
-Several detached residences intended for visiting operatives and their families.
+Several detached residences provide private quarters for the five operatives assigned to the Shigure family.
 
-The compound can comfortably house:
-
-- permanent residents
-- visiting agents
-- temporary refugees
-- long-term guests
-
-without appearing overcrowded.
+They are not used as public lodging, a refugee camp, or routine accommodation for other Lotus Choir teams.
 
 ---
 
@@ -189,9 +184,13 @@ The location is little more than rumor.
 
 - [[Compendium/NPC's/Southern Principalities/Ayame Shigure\|Ayame Shigure]]
 - [[Compendium/NPC's/Southern Principalities/Daichi Shigure\|Daichi Shigure]]
-- [[Compendium/Party/Player Characters/Player Facing/Nobu\|Nobu]]
+- [[Compendium/Party/Player Characters/Nobumasa Shigure\|Nobu]]
 - [[Compendium/NPC's/Southern Principalities/Rei Kurogane\|Rei Kurogane]]
 - [[Compendium/NPC's/Southern Principalities/Kaede Mizuno\|Kaede Mizuno]]
+- Maeva
+- Clay
+- Sho
+- Maki
 - [[Compendium/Lore/Creatures/Shigure Kappa\|Shigure Kappa]]
 
 Over the years, dozens of Choir operatives have considered the compound their home between assignments.
@@ -203,10 +202,12 @@ Over the years, dozens of Choir operatives have considered the compound their ho
 The Shigure Compound serves as:
 
 - Home Base
-- Safehouse
+- Family Safehouse
 - Downtime Location
 - Mission Briefing Site
 - Character Development Hub
+
+The compound should function like a hidden cave behind the campaign: secluded, difficult to find, and safe from the ordinary movement of the world. News and instructions usually arrive through paper foxes or other origami messengers rather than unfamiliar agents at the gate.
 
 Many assignments begin here.
 

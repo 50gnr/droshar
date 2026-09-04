@@ -3,6 +3,15 @@
 ---
 
 
+
+<div class="web-audio-only">
+<audio controls preload="metadata">
+  <source src="/audio/SP-Session-07-ABRIDGED.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+![[SP-Session-07-ABRIDGED.mp3]]
+
 # Southern Principalities — Session Record
 
 ## Session 7 Recap — The River Remembers
