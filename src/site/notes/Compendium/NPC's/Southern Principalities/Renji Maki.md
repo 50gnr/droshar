@@ -94,7 +94,7 @@ His work is simply to find them.
 
 ---
 
-## Relationship to [[Compendium/Party/Player Characters/Maki Maki\|Maki Maki]]
+## Relationship to [[Compendium/Party/Player Characters/Maki Maki\|Compendium/Party/Player Characters/Maki Maki]]
 
 Ren and Maki have not seen one another for many years.
 

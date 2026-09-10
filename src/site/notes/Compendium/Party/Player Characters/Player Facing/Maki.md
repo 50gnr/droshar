@@ -181,6 +181,7 @@ The decisions belong to everyone.
 | Known Items                                                                    |
 | ------------------------------------------------------------------------------ |
 | [[Compendium/Rules & Homebrew/Features/Command the Room\|Command the Room]] |
+| \-                                                                             |
 
 { .block-language-dataview}
 
