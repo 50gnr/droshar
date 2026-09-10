@@ -29,7 +29,7 @@
 
 ## At a Glance
 
-Piko survives beneath In'nali's Great Lift by carrying messages, finding shortcuts, guiding strangers, scavenging forbidden places, and occasionally acquiring things whose owners were apparently “finished with them.”
+Piko survives in In'nali by carrying messages, finding shortcuts, guiding strangers, scavenging forbidden places, and occasionally acquiring things whose owners were apparently “finished with them.”
 
 His satchel holds stolen maps, bent keys, chalk, string, snacks, and whatever currently qualifies as important evidence.
 
