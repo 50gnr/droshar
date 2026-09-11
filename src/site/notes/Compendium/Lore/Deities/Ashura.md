@@ -37,7 +37,7 @@ An unrestrained Aspect offers no mercy or surrender once battle begins. Death is
 
 The hidden [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Ashura Compound\|Ashura Compound]] shelters the [[Compendium/NPC's/Southern Principalities/Aspect of Ashura\|Waiting Aspect]], which has voluntarily sealed itself in contemplation. Why it chose restraint, what it awaits, and how long that restraint can last remain unknown.
 
-[[Compendium/Party/Player Characters/Clay Clay Clay\|Clay]] carries a shard associated with Ashura embedded within him. Whether it is one of the original Fragments of Fury, a piece of an Aspect, or something created from the same power has not been established.
+[[Compendium/Party/Player Characters/Player Facing/Clay\|Clay]] carries a shard associated with Ashura embedded within him. Whether it is one of the original Fragments of Fury, a piece of an Aspect, or something created from the same power has not been established.
 
 > [!note]- DM Boundary
 > Do not treat Clay as an Aspect of Ashura by default. The shard establishes a connection, not the answer to his origin.

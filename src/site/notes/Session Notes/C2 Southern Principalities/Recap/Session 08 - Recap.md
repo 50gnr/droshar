@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 08 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-08-recap/","title":"8b - Four Weeks of Floodwater","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":8,"title":"8b - Four Weeks of Floodwater","session_date":"2026-09-10","arc":"Arc I - The River Runs Backward","players":["Maeva","Clay","Nobu","Sho","Maki"],"OneLiner":"While the valley drowned in the consequences of their theft, the party spent four weeks building toward whatever came next.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
+{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 08 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-08-recap/","title":"8 - Four Weeks of Floodwater","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":8,"title":"8 - Four Weeks of Floodwater","session_date":"2026-09-10","arc":"Arc I - The River Runs Backward","players":["Maeva","Clay","Nobu","Sho","Maki"],"OneLiner":"While the valley drowned in the consequences of their theft, the party spent four weeks building toward whatever came next.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
 ---
 
 
@@ -14,7 +14,7 @@
 
 # Southern Principalities — Session Record
 
-## Session 8b Recap — Four Weeks of Floodwater
+## Session 8 Recap — Four Weeks of Floodwater
 
 The party returned from Mirror Lake at three in the morning and disappeared into the Shigure Compound for several days of hard-earned rest. Once everyone had recovered, they divided the operation's gold, consumables, and magic items, attuned to their new equipment, and stored the skin and scales taken from the Mirror Koi.
 
@@ -24,7 +24,7 @@ At first, the change reached the compound as an impossible silence. Its stream s
 
 Beyond the hidden valley, the disaster grew by the day. Waterwheels and irrigation wheels turned the wrong way. Boats pulled against their moorings. Fish gathered in drainage ditches, the water filled with churned mud, and roads became causeways and then islands. Farmers cut their own fields open to save homes uphill. Boats carried children, elders, seed grain, and ancestral tablets toward higher ground. [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]] and [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]] organized separate evacuations while the Shigure household quietly changed its trail markers and closed an approach before the flood could expose it.
 
-The party knew exactly when the river had turned—and why—but the world around them did not stop long enough to demand an answer.
+The party knew which night the disaster began and what operation had drawn Bakuryō from the lake. They still did not know who turned the scale beneath her jaw, and the world around them did not stop long enough to demand an answer.
 
 ### Maeva and Sho Build a Future on a Crime
 
