@@ -13,7 +13,7 @@
 > ---|---
 > Race | Huling
 > Role | Merchant Captain
-> Home Port | Mosswater Quays, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]]
+> Home Port | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune#Mosswater Quays\|Mosswater Quays]]
 > Vessel | *Quiet Heron*
 > Status | Active
 >

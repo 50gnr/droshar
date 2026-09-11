@@ -13,7 +13,7 @@
 > ---|---
 > Race | Tanuki Yokai
 > Role | Messenger, Guide, Scavenger
-> Territory | Streets beneath the Great Lift, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]]
+> Territory | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#Streets Beneath the Lift\|Streets beneath the Great Lift]]
 > Age | Perhaps eleven or twelve
 > Height | Barely four feet
 > Status | Active

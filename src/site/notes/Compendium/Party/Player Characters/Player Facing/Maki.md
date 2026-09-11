@@ -17,7 +17,7 @@
 > Subclass | —  
 > Race | Lizardman  
 > Status | Alive  
-> Age | `= this.source.char_age`  
+> Age | 48 of 60
 > HP | `= this.source.hp` / `= this.source.max_hp`  
 > AC | `= this.source.ac`  
 > Passive Perception | 1
@@ -181,7 +181,6 @@ The decisions belong to everyone.
 | Known Items                                                                    |
 | ------------------------------------------------------------------------------ |
 | [[Compendium/Rules & Homebrew/Features/Command the Room\|Command the Room]] |
-| \-                                                                             |
 
 { .block-language-dataview}
 

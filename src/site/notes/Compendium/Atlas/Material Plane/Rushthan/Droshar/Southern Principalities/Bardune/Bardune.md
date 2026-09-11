@@ -16,6 +16,14 @@
 **Primary Spirits:** Lake yokai, forest guardians, ancestral shades
 **Governor:** [[Compendium/NPC's/Southern Principalities/Seiha Riverlily\|Seiha Riverlily]]
 
+## Locations in the City
+
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune#Mosswater Quays\|Mosswater Quays]]
+
+### Mosswater Quays
+
+The Mosswater Quays serve Bardune's lake and river traffic. Shallow-draft vessels carry passengers and cargo between the city and smaller settlements throughout the surrounding waterways. Damp cedar docks, working captains, and long-standing debts shape business here. [[Compendium/NPC's/Southern Principalities/Captain Nami Reedwake\|Captain Nami Reedwake]] operates the *Quiet Heron* from these quays.
+
 ## Identity
 
 Bardune sits on the shores of a deep, cold lake hidden beneath an ancient forest canopy. The city was _grown_, not planned—built outward from shrines, docks, and spirit-bound clearings. Buildings lean, streets curve, and fog is considered a sign of good fortune.

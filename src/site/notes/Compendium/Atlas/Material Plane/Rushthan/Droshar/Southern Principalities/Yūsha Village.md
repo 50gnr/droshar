@@ -33,6 +33,7 @@ Notable features include:
 - Tide pools
 - Sea shrines
 - Rocky beaches
+- The mountain road toward [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]], including the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Unnamed Ridge Warehouse\|Unnamed Ridge Warehouse]]
 
 Most buildings are constructed from weathered timber and stone, designed to withstand strong winds and seasonal storms.
 

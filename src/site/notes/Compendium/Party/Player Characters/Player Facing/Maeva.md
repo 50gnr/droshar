@@ -30,6 +30,8 @@
 
 Lady Maeva serves the [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] as an infiltration specialist, moving effortlessly between disguises, identities, and social circles.
 
+During Session 08, Maeva and Sho acquired the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Unnamed Ridge Warehouse\|Unnamed Ridge Warehouse]]. Maeva spent one of her carousing favours establishing [[Compendium/NPC's/Southern Principalities/Baron Husk\|Baron Husk]] as a contact capable of bringing wealthy attention and an entourage.
+
 A wardrobe exists for every occasion.
 
 A conversation exists for every situation.

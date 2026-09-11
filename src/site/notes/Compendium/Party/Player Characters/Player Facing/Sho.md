@@ -33,6 +33,8 @@
 
 ShoSlovak Trogaro serves the [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] as the principal planner behind many of its operations. While others execute the mission, Sho is usually the one who has already considered a dozen ways it might fail—and prepared for each of them.
 
+During Session 08, Sho and Maeva acquired the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Unnamed Ridge Warehouse\|Unnamed Ridge Warehouse]]. Sho also established [[Compendium/NPC's/Southern Principalities/Bughav\|Bughav]] as a slow but effective procurement contact for special resources and uncommon items.
+
 For nearly ten years he has worked alongside the Choir, helping guide political change, gathering intelligence, and ensuring every assignment begins with the best possible chance of success.
 
 Those closest to him know that preparation is more than a habit.

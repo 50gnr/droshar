@@ -30,11 +30,11 @@ Recover the Four Offerings from the Shrines without drawing unnecessary attentio
 
 ## Objectives
 
-- [ ] Recover the offering from the [Farmer's Shrine](/img/user/Assets/Images/SP-Scene/Shrines/farmer-bp.png)
+- [x] Recover the offering from the [Farmer's Shrine](/img/user/Assets/Images/SP-Scene/Shrines/farmer-bp.png)
 - [x] Recover the offering from the [Shrine of the Rapids](/img/user/Assets/Images/SP-Scene/Shrines/elemental%20shrine%20bp.png)
-- [ ] Recover the offering from the [Mirror Lake Shrine](/img/user/Assets/Images/SP-Scene/Shrines/Mirror%20Lake%20Shrine-BP.png)
-- [ ] Recover the offering from the [Monastery of Falling Clouds](/img/user/Assets/Images/SP-Scene/Shrines/Monestary-bp.png)
-- [ ] Return all recovered offerings to The Quiet Fox
+- [x] Recover the offering from the [Mirror Lake Shrine](/img/user/Assets/Images/SP-Scene/Shrines/Mirror%20Lake%20Shrine-BP.png)
+- [x] Recover the offering from the [Monastery of Falling Clouds](/img/user/Assets/Images/SP-Scene/Shrines/Monestary-bp.png)
+- [x] Return all recovered offerings to The Quiet Fox
       
 ---
 
@@ -66,7 +66,7 @@ The Shigure Archive records indicate:
 - [x] Decide the shrine visitation order.
 - [ ] Prepare cover identities.
 - [ ] Gather equipment and supplies.
-- [ ] Develop an operational plan.
+- [x] Develop an operational plan.
 
 ---
 

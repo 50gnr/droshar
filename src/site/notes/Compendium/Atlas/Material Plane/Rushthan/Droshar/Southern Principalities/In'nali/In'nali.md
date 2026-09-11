@@ -17,6 +17,23 @@
 **Steward:** [[Compendium/NPC's/Southern Principalities/Aketsu Blackwing\|Aketsu Blackwing]]
 ## Locations in the City
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Sung & Gung\|Sung & Gung]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#The Great Lift\|The Great Lift]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#Lower Lift Docks\|Lower Lift Docks]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#Streets Beneath the Lift\|Streets Beneath the Lift]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Unnamed Ridge Warehouse\|Unnamed Ridge Warehouse]] — on the mountain road toward [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Yūsha Village\|Yūsha Village]]
+
+### The Great Lift
+
+The Great Lift connects In'nali's elevated districts with the traffic arriving below the plateau. Cargo, travellers, pilots, merchants, and labourers converge around it before being carried upward.
+
+### Lower Lift Docks
+
+The city's lower air docks cluster around the base of the Great Lift. Independent pilots load cargo here, hire crews, trade weather reports, and wait for clearance to rise past the plateau. [[Compendium/NPC's/Southern Principalities/Toma Cloudwake\|Toma Cloudwake]] operates the *Silver Cicada* from these docks.
+
+### Streets Beneath the Lift
+
+Markets, alleys, shrine steps, night stalls, cheap rooms, and dockside businesses fill the crowded streets beneath the Great Lift. These are working streets rather than a formally named slum. Children, messengers, guides, and scavengers such as [[Compendium/NPC's/Southern Principalities/Piko\|Piko]] learn routes and conversations that more respectable visitors overlook.
+
 ## Identity
 
 In’nali is built atop a massive plateau, its cliffs carved into stepped districts connected by lifts, stairs, and switchback roads. From below it appears unreachable; from above it feels exposed—always in the wind, always watched by the sky.

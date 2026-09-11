@@ -13,7 +13,7 @@
 > ---|---
 > Race | Karasu Tengu
 > Role | Independent Airship Pilot
-> Home Port | Lower Lift Docks, [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]]
+> Home Port | [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#Lower Lift Docks\|Lower Lift Docks]]
 > Vessel | *Silver Cicada*
 > Status | Active
 >

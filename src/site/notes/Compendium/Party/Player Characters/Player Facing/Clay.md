@@ -34,6 +34,8 @@
 
 Clay Clay Clay is a Haniwa warrior who has served alongside the [[Shigure Family\|Shigure Family]] and [[Compendium/Lore/Organizations/The Lotus Choir\|The Lotus Choir]] for most of his century-long existence.
 
+Clay carries a shard of [[Compendium/Lore/Deities/Ashura\|Ashura]] embedded within him. It may be connected to the scattered **Fragments of Fury**, but its exact nature remains unresolved. During Session 08 he returned to the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Ashura Compound\|Ashura Compound]] to honour that connection and search for traces of his forgotten origin.
+
 He has worked with three generations of Shigure operatives, watching children become agents, agents become leaders, and leaders eventually pass their duties to those who followed. Through all of it, Clay has remained remarkably consistent.
 
 When subtlety fails, defenses harden, or an extraction turns violent, Clay is the person sent to make certain everyone else still has a way out.
