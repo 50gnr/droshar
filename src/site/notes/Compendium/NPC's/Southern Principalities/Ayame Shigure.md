@@ -148,7 +148,7 @@ It is simply to remain beside him.
 
 ---
 
-## Relationship to [[Compendium/Party/Player Characters/Nobumasa Shigure\|Nobu]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Nobu\|Nobu]]
 
 Ayame understands Nobu better than he would like.
 

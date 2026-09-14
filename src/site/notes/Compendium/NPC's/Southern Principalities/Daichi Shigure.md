@@ -136,7 +136,7 @@ Survival above glory.
 ---
 
 
-## Relationship to [[Compendium/Party/Player Characters/Nobumasa Shigure\|Nobu]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Nobu\|Nobu]]
 
 Daichi never pressured Nobu to follow in his footsteps.
 
