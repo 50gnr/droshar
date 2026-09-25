@@ -72,7 +72,7 @@ Nobu believes that discipline is built through ordinary habits rather than extra
 
 Duty gives his work purpose, but kindness reminds him why the work matters.
 
-## Relationship to [[Compendium/Party/Player Characters/Maki Maki\|Compendium/Party/Player Characters/Maki Maki]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Maki\|Maki]]
 
 Nobu has worked alongside Maki Maki more than anyone else on the team. As a Cleaner, his assignments have a habit of intersecting with the minister's work often enough that the two have developed an easy professional rapport.
 

@@ -1,23 +1,7 @@
 ---
-type: session-recap
-session_number: 10
-title: 10 - Follow the Thread
-session_date: 2026-09-24
-arc: Arc II - The Fracture
-players:
-  - Maeva
-  - Clay
-  - Nobu
-  - Sho
-  - Maki
-OneLiner: Four Root Wardens led the party from a garden in Bardune to the Stillwater Array—and one bad step left a dead man tied to a tree behind them.
-tags:
-  - session
-  - recap
-  - Category/Journal
-obsidianUIMode: preview
-dg-publish: true
+{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 10 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-10-recap/","title":"10 - Follow the Thread","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":10,"title":"10 - Follow the Thread","session_date":"2026-09-24","arc":"Arc II - The Fracture","players":["Maeva","Clay","Nobu","Sho","Maki"],"OneLiner":"Four Root Wardens led the party from a garden in Bardune to the Stillwater Array—and one bad step left a dead man tied to a tree behind them.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
 ---
+
 
 
 <div class="web-audio-only">
@@ -32,7 +16,7 @@ dg-publish: true
 
 ## Session 10 Recap — Follow the Thread
 
-The party had six days before four nursery carts left [[Rootglass Conservatory]]. Somewhere beneath their ordinary canvas covers would be the Anchors of the [[Stillwater Array]]. The carts would depart separately, follow different roads out of [[Bardune]], and eventually converge with the Array's Heart and Accord Bell. The Quiet Fox needed the party to follow them without interrupting the delivery or revealing that anyone knew the Array existed.
+The party had six days before four nursery carts left [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Rootglass Conservatory\|Rootglass Conservatory]]. Somewhere beneath their ordinary canvas covers would be the Anchors of the [[Compendium/Party/Quests/Stillwater Array\|Stillwater Array]]. The carts would depart separately, follow different roads out of [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune\|Bardune]], and eventually converge with the Array's Heart and Accord Bell. The Quiet Fox needed the party to follow them without interrupting the delivery or revealing that anyone knew the Array existed.
 
 Before the clock began, everyone returned to the Shigure baths and accepted the Kappa's invitation to a friendly game of Liar's Dice. The Kappa denied cheating before anyone accused him. Ayame examined the cups, examined the Kappa, and quietly left the room. Dice vanished beneath lacquered cups, bids climbed beyond reason, and the evening gave the party a rare stretch of laughter before another mission built around secrets, pursuit, and consequences.
 
@@ -80,7 +64,7 @@ They reported the body's rough location over the earpieces, caught up to the wag
 
 ### Where the Roads Met
 
-Around two in the morning, the jungle opened beside the muddy [[Hakuryū Valley|Hakuryū]]. The flood line stood above their heads on the trunks. Driftwood lay caught in exposed roots, while new green shoots pushed through the wreckage below. Near the river, old circular stonework had been cleared and restored: a central basin, a landing at the water, and four prepared beds arranged around it.
+Around two in the morning, the jungle opened beside the muddy [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Hakuryū Valley\|Hakuryū]]. The flood line stood above their heads on the trunks. Driftwood lay caught in exposed roots, while new green shoots pushed through the wreckage below. Near the river, old circular stonework had been cleared and restored: a central basin, a landing at the water, and four prepared beds arranged around it.
 
 All four carts arrived. The four Root Wardens had reached the convergence site.
 

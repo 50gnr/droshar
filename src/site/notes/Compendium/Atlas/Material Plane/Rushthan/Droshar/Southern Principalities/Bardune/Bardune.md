@@ -19,6 +19,7 @@
 ## Locations in the City
 
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Bardune#Mosswater Quays\|Mosswater Quays]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Bardune/Rootglass Conservatory\|Rootglass Conservatory]]
 
 ### Mosswater Quays
 
