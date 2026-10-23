@@ -54,7 +54,7 @@ The third route narrowed into a muddy jungle road. Maki slipped, and the noise c
 
 The quiet pursuit became an improvised confidence trick. One party member assumed the appearance of the elderly pink-petaled Hanamori from Maki's vision—quickly dubbed **Sir Petalborn**—and stepped forward as though the entire encounter were authorized. The two guards, Chris and Jon, were not convinced. Arrows came out. The false elder took shafts in both shoulders while commands, lies, invisibility, and magic piled on top of one another.
 
-The party finally forced the scene back under control. Jon was put to sleep and dragged into the trees. Chris's memory was rewritten, erasing the confrontation and replacing it with a version he could accept. Jon was bound and gagged behind a tree, stripped of his uniform, and impersonated well enough that the false Jon could return to Chris and continue walking beside the cart.
+The party finally forced the scene back under control. Jon was put to sleep and dragged into the trees. Chris's memory was rewritten, erasing the confrontation and replacing it with a version he could accept(Maeva). Jon was bound and gagged behind a tree, stripped of his uniform, and impersonated well enough that the false Jon could return to Chris and continue walking beside the cart.
 
 That solution left the real Jon alive behind them.
 

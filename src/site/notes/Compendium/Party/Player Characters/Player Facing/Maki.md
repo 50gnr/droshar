@@ -12,7 +12,7 @@
 > Type | Stat  
 > ---|---  
 > Player | Tarren  
-> Level | 10  
+> Level | 12  
 > Class | Bard  
 > Subclass | —  
 > Race | Lizardman  

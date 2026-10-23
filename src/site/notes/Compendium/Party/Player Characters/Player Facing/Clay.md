@@ -12,7 +12,7 @@
 > Type | Stat  
 > ---|---  
 > Player | Wyatt  
-> Level | 10  
+> Level | 12  
 > Class | Rogue / Barbarian  
 > Subclass | —  
 > Race | Hanimori  

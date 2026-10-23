@@ -1,23 +1,7 @@
 ---
-type: session-recap
-session_number: 11
-title: 11 - Take Stillwater
-session_date: 2026-10-01
-arc: Arc II - The Fracture
-players:
-  - Maeva
-  - Clay
-  - Nobu
-  - Sho
-  - Maki
-OneLiner: The Stillwater Array worked. The party took its Heart and Bell, but the Root Wardens—and a badly wounded Nobu—remained on the bloodied riverbank.
-tags:
-  - session
-  - recap
-  - Category/Journal
-obsidianUIMode: preview
-dg-publish: true
+{"dg-publish":true,"dg-path":"6-Session Notes/C2 Southern Principalities/Recap/Session 11 - Recap.md","permalink":"/6-session-notes/c2-southern-principalities/recap/session-11-recap/","title":"11 - Take Stillwater","tags":["session","recap","Category/Journal"],"dg-note-properties":{"type":"session-recap","session_number":11,"title":"11 - Take Stillwater","session_date":"2026-10-01","arc":"Arc II - The Fracture","players":["Maeva","Clay","Nobu","Sho","Maki"],"OneLiner":"The Stillwater Array worked. The party took its Heart and Bell, but the Root Wardens—and a badly wounded Nobu—remained on the bloodied riverbank.","tags":["session","recap","Category/Journal"],"obsidianUIMode":"preview"}}
 ---
+
 
 <div class="web-audio-only">
 <audio controls preload="metadata">
@@ -31,7 +15,7 @@ dg-publish: true
 
 ## Session 11 Recap — Take Stillwater
 
-The four [[Root Wardens]] stood in separate beds around an old stone basin beside the [[Hakuryū Valley|Hakuryū]]. Three Ebizo guarded the coral-cased Heart. The [[Accord Bell]] had yet to arrive. The party had followed the components here under orders from the [[Quiet Fox]]: let the [[Stillwater Array]] become whole, then take it.
+The four [[Root Wardens\|Root Wardens]] stood in separate beds around an old stone basin beside the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/Hakuryū Valley\|Hakuryū]]. Three Ebizo guarded the coral-cased Heart. The [[Accord Bell\|Accord Bell]] had yet to arrive. The party had followed the components here under orders from the [[Quiet Fox\|Quiet Fox]]: let the [[Compendium/Party/Quests/Stillwater Array\|Stillwater Array]] become whole, then take it.
 
 Before sunrise, a small moss-covered yokai slipped through the hiding places and delivered the next instruction on a scrap of parchment. Once the Array was secured, the party was to cross the Hakuryū to the east and follow a marked route to an abandoned warehouse. Further instructions would wait there. The message gave them a destination. It did not give them a way to carry four enormous, living Wardens across a fast river.
 

@@ -12,7 +12,7 @@
 > Type | Stat  
 > ---|---  
 > Player | Jasen  
-> Level | 10  
+> Level | 12  
 > Class | Rogue  
 > Subclass | —  
 > Race | Hanataka Tengu  

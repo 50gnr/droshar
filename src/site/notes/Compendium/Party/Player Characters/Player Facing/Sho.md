@@ -12,7 +12,7 @@
 > Type | Stat  
 > ---|---  
 > Player | Josh  
-> Level | 10  
+> Level | 12  
 > Class | Warlock  
 > Subclass | —  
 > Race | Human  

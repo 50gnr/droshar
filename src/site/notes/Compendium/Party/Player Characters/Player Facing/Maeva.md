@@ -12,7 +12,7 @@
 > Type | Stat  
 > ---|---  
 > Player | Louis  
-> Level | 10  
+> Level | 12  
 > Class | Cleric  
 > Subclass | —  
 > Race | Changeling  
