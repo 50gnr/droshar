@@ -4,7 +4,6 @@
 
 
 <div class="web-audio-only">
-<style>main.content .web-audio-only + p { display: none; }</style>
 <audio controls preload="metadata">
   <source src="/audio/SP-Session-15-ABRIDGED.mp3" type="audio/mpeg">
 </audio>
