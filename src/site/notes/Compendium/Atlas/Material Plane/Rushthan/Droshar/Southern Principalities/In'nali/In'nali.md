@@ -17,6 +17,8 @@
 **Steward:** [[Compendium/NPC's/Southern Principalities/Aketsu Blackwing\|Aketsu Blackwing]]
 ## Locations in the City
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Sung & Gung\|Sung & Gung]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Maki's Candy Shop\|Maki's Candy Shop]] — Maki's confectionery on the plateau; [[Compendium/NPC's/Southern Principalities/Remy\|Remy]] makes the sweets.
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Amekado Sweets\|Amekado Sweets]] — [[Compendium/NPC's/Southern Principalities/Genzo Amekado\|Genzo Amekado]]'s nearby confectionery.
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#The Great Lift\|The Great Lift]]
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#Lower Lift Docks\|Lower Lift Docks]]
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#Streets Beneath the Lift\|Streets Beneath the Lift]]
@@ -39,6 +41,13 @@ Markets, alleys, shrine steps, night stalls, cheap rooms, and dockside businesse
 In’nali is built atop a massive plateau, its cliffs carved into stepped districts connected by lifts, stairs, and switchback roads. From below it appears unreachable; from above it feels exposed—always in the wind, always watched by the sky.
 
 In’nali believes survival comes from **commanding position**, not concealment.
+
+## Current Night Curfew
+
+Following the Stillwater crisis, the plateau's commercial streets close for curfew. Shutters are down, most windows are dark, and guards check movement at key junctions. Authorized night workers and deliveries still pass under inspection.
+
+> [!note]- In'nali Under Curfew
+> ![Session 15 - Innali Under Curfew.png](/img/user/Assets/Images/SP-Scene/Session%2015%20-%20Innali%20Under%20Curfew.png)
 
 ## Philosophy
 
