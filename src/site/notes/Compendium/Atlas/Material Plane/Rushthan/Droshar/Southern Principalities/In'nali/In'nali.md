@@ -17,6 +17,7 @@
 **Steward:** [[Compendium/NPC's/Southern Principalities/Aketsu Blackwing\|Aketsu Blackwing]]
 ## Locations in the City
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Sung & Gung\|Sung & Gung]]
+- [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/High Circles Reception Hall\|High Circles Reception Hall]] — Upper City civic receptions and private ceremonies.
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Maki's Candy Shop\|Maki's Candy Shop]] — Maki's confectionery on the plateau; [[Compendium/NPC's/Southern Principalities/Remy\|Remy]] makes the sweets.
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/Amekado Sweets\|Amekado Sweets]] — [[Compendium/NPC's/Southern Principalities/Genzo Amekado\|Genzo Amekado]]'s nearby confectionery.
 - [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali#The Great Lift\|The Great Lift]]

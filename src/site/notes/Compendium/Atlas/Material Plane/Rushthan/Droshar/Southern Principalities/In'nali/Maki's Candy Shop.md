@@ -9,7 +9,7 @@
 **Chef / Public Face:** [[Compendium/NPC's/Southern Principalities/Remy\|Remy]]  
 **Location:** Commercial streets on [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/In'nali\|In'nali]]'s plateau, above the cliff; not the settlements beneath the Great Lift.
 
-Maki bought the business for **1,500 gp** during the downtime recorded in [[Session Notes/C2 Southern Principalities/Recap/Session 13 - Recap\|Session 13 - Recap]], then invested further in its presentation and staff. Its permanent trading name has not yet been established; this page uses a descriptive title.
+Maki bought the business for **1,500 gp** during the downtime recorded in [[Session Notes/C2 Southern Principalities/Recap/Session 13 - Recap\|Session 13 - Recap]], then invested further in its presentation and staff. The running sign/name joke is **M&M&M&M&M&M…**, with a variable number of M's; no fixed full trading name has been established. This page retains its descriptive title.
 
 ## Layout
 
@@ -25,6 +25,9 @@ Maki bought the business for **1,500 gp** during the downtime recorded in [[Sess
 - A salesperson and a bookkeeper — established hires; names not yet established.
 
 ## Visual References
+
+> [!note]- Storefront — Morning
+> ![Session 16 - Maki Candy Shop Storefront.png](/img/user/Assets/Images/SP-Scene/Session%2016%20-%20Maki%20Candy%20Shop%20Storefront.png)
 
 > [!note]- Lantern-Lit Interior
 > ![Session 15 - Maki Candy Shop Interior.png](/img/user/Assets/Images/SP-Scene/Session%2015%20-%20Maki%20Candy%20Shop%20Interior.png)

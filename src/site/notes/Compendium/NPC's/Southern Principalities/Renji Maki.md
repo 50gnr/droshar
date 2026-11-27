@@ -94,7 +94,7 @@ His work is simply to find them.
 
 ---
 
-## Relationship to [[Compendium/Party/Player Characters/Maki Maki\|Compendium/Party/Player Characters/Maki Maki]]
+## Relationship to [[Compendium/Party/Player Characters/Player Facing/Maki\|Maki Maki]]
 
 Ren and Maki have not seen one another for many years.
 
@@ -120,6 +120,21 @@ Neither brother truly knows.
 
 # Hidden Data
 
+## Session 16 — Venue Manager
+
+- Current manager of the [[Compendium/Atlas/Material Plane/Rushthan/Droshar/Southern Principalities/In'nali/High Circles Reception Hall\|High Circles Reception Hall]]. A genuine administrative job; how long he has held it is not established.
+- No spellcasting or magical skills are assigned to him. [[Compendium/NPC's/Southern Principalities/Iori Sazanami\|Iori Sazanami]] handles magical security; he controls paperwork, staffing, budgets, and access.
+- Office in the east wing, immediately north of the private parlour, its **MANAGER** door facing the hall-side corridor. Ordinary lock; working key on his ring, duty copy with [[Compendium/NPC's/Southern Principalities/Sayo Umehara\|Sayo Umehara]].
+- Staff bring him invoices and rosters. Around 11:10 he plans to inspect a linen delivery, locking the office as he leaves; expects to return around 11:30. Adjust the routine to anything that actually interrupts him.
+- Recognizes undisguised Maki without a roll. Does not automatically see through a disguise or know the party's mission, time travel, or methods.
+- **First line if appropriate:** “Maki. I wasn't expecting you. Whose wedding?”
+- **Public manner:** Quiet, courteous, controlled. Lets Maki decide how much of their history to expose in front of strangers.
+- **If asked about work:** Answers as manager. Keeps private event records private under ordinary policy; does not conjure new restrictions purely to thwart the party.
+- **If pressed about the past:** “Is this where you want to discuss it?” Will speak privately if willing, rather than delivering his entire history in the public salon.
+- **If the visit stays civil:** Continues his work. Personal hostility is not an automatic arrest, alarm, or cancelled appointment.
+- Whether Shōren knew about this employment is unresolved. Do not make Renji aware of the Quiet Fox's current operation.
+- Keep this placement behind Hidden Data until the party encounters him; update the public status from actual play afterward.
+
 ## Role in the Campaign
 
 Ren serves as:
@@ -137,28 +152,21 @@ Each appearance should matter.
 
 ## The Truth
 
-As children, Ren repeatedly attempted to ruin Maki's future through lies, manipulation, and false accusations.
+**Earlier canon corrected for Session 16:** In their younger days, Renji paid the Lotus Choir to kill Maki. This was an assassination commission, not merely a false accusation. Shōren Vale chose to recruit Maki instead and ordered Renji disappeared.
 
-The Lotus Choir investigated the claims.
+### What the Choir Did
 
-Finding Maki innocent, they quietly removed Ren from his brother's life.
+- Abducted Renji through intermediaries and confiscated the papers and contacts that would let him resume his old life.
+- Kept him in secret confinement for six months, then forced him into supervised bookkeeping at a distant Choir-controlled freight concern for three years.
+- Used isolation, threats and controlled movement; no memory alteration, magical geas, or new supernatural restraint is established.
+- Renji escaped during a warehouse fire. His handlers presumed him dead; the old case was closed without a recovered body.
+- He rebuilt a civilian life and eventually became the reception hall's manager. Exact employment dates and the freight concern's name remain unestablished.
 
-Ren survived.
+Renji knows the Choir took him. Vale authorized the decision through masked intermediaries; Renji has no basis from this episode to identify Shōren as the Quiet Fox.
 
-Whether he escaped, was exiled, or simply allowed to disappear remains unknown.
+His grievance contains real coercion and lost years, but he minimizes his own decision to commission Maki's murder. He believes Maki benefited from his removal and resents the career that followed.
 
-For years he has lived believing the Lotus Choir stole the life that should have been his.
-
-From Ren's perspective:
-
-- He exposed corruption.
-- The Choir silenced him.
-- His younger brother accepted the opportunity.
-- Then became a Minister.
-
-He does not believe Maki earned his position.
-
-He believes it was handed to him.
+What Maki was told at the time must follow established player knowledge. Do not give him new memories, claim he approved the confinement, or automatically reveal this history when the brothers recognize each other. Whether Vale knows Renji's present employment remains unresolved.
 
 ---
 
@@ -214,14 +222,6 @@ The past that refuses to stay buried.
 
 ### Important
 
-Ren is **not evil**.
+Renji commissioned his brother's murder. His later coercion by the Choir was also real. Neither fact cancels the other.
 
-He is a man who has spent years convincing himself that he was the wronged brother.
-
-Whether he is right...
-
-Whether he is wrong...
-
-Whether both brothers remember the past differently...
-
-Those answers should unfold slowly over the course of the campaign.
+He presents himself as the wronged brother and withholds his own responsibility. Reveal particulars through actual conversation or evidence, not an automatic explanatory speech.
